@@ -3,6 +3,7 @@
 - Laura Banarescu & Claire Bonial & Shu Cai et al.  (2013):  **Abstract meaning representation for sembanking** . Find at: [LINK](https://www.aclweb.org/anthology/W13-2322.pdf)
 - Roy Bar-Haim & Indrajit Bhattacharya & Francesco Dinuzzo et al.  (2017):  **Stance classification of context-dependent claims** . Find at: [LINK](https://www.aclweb.org/anthology/E17-1024.pdf)
 - Mohamed Reda Bouadjenek & Hakim Hacid & Mokrane Bouzeghoub et al.  (2016):  **Persador: personalized social document representation for improving web search** in: Information Sciences(369). Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0020025516305278)
+- David D. Bourgin & Joshua C. Peterson & Daniel Reichman et al.  (2019):  **Cognitive model priors for predicting human decisions** . Find at: [LINK](https://arxiv.org/pdf/1905.09397.pdf)
 - Elena Cabrio & Serena Villata  (2018):  **Five Years of Argument Mining: a Data-driven Analysis.** (18). Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0766.pdf)
 - Xavier Carreras & Llu{\'\i}s M{\`a}rquez  (2005):  **Introduction to the CoNLL-2005 shared task: Semantic role labeling** . Find at: [LINK](https://www.aclweb.org/anthology/W05-0620.pdf)
 - Stephen Coleman & Giles Moss  (2012):  **Under construction: The field of online deliberation research** . Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/19331681.2011.635957?casa_token=ZaPu9WcQGuQAAAAA:T00wpHaDOk_53eU0OvKCvFlLWzdI0MsY2nS6T9McQ-ErnZTaoSNMsmBa8B_JQHdoXV3lufN6PusSYw)
