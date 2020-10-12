@@ -1,3 +1,4 @@
+- Silja Renooij  (2016):  **Evidence evaluation: a study of likelihoods and independence** . Find at: [LINK](http://proceedings.mlr.press/v52/renooij16.pdf)
 - Vid Kocijan & Thomas Lukasiewicz & Ernest Davis et al.  (2020):  **A Review of Winograd Schema Challenge Datasets and Approaches** in: arXiv preprint arXiv:2004.13831. Find at: [LINK](https://arxiv.org/pdf/2004.13831.pdf)
 - Haoruo Peng & Daniel Khashabi & Dan Roth  (2015):  **Solving Hard Coreference Problems** . Find at: [LINK](https://www.aclweb.org/anthology/N15-1082.pdf)
 - Marco Tulio Ribeiro & Tongshuang Wu & Carlos Guestrin et al.  (2020):  **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList** in: arXiv preprint arXiv:2005.04118. Find at: [LINK](https://arxiv.org/pdf/2005.04118.pdf)
