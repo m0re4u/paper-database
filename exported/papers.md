@@ -1,3 +1,5 @@
+- Jordan Sanders & Eduardo Blanco  (2016):  **Automatic extraction of implicit interpretations from modal constructions** . Find at: [LINK]()
+- Chantal van Son & Roser Morante & Lora Aroyo et al.  (2018):  **Scoring and Classifying Implicit Positive Interpretations: A Challenge of Class Imbalance** . Find at: [LINK](https://www.aclweb.org/anthology/C18-1191.pdf)
 - Rob Abbott & Brian Ecker & Pranav Anand et al.  (2016):  **Internet argument corpus 2.0: An sql schema for dialogic social media and the corpora to go with it** . Find at: [LINK](https://www.aclweb.org/anthology/L16-1704.pdf)
 - Janette Hartz-Karp & Brian Sullivan  (2014):  **The unfulfilled promise of online deliberation** in: Journal of Public Deliberation(10). Find at: [LINK](https://espace.curtin.edu.au/bitstream/handle/20.500.11937/20500/212764_139522_JHK_Public_Deliberation.pdf?sequence=2)
 - Courtney Napoles & Joel Tetreault & Aasish Pappu et al.  (2017):  **Finding good conversations online: The yahoo news annotated comments corpus** . Find at: [LINK](https://www.aclweb.org/anthology/W17-0802.pdf)
