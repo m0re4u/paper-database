@@ -1,3 +1,6 @@
+- Tuhin Chakrabarty & Christopher Hidey & Smaranda Muresan et al.  (2020):  **AMPERSAND: Argument Mining for PERSuAsive oNline Discussions** in: arXiv preprint arXiv:2004.14677. Find at: [LINK](https://arxiv.org/pdf/2004.14677)
+- Chris Reed & Katarzyna Budzynska & Jacky Visser  (2016):  **IAT annotation guidelines for US2016** . 
+- Zining Zhu & Chuer Pan & Mohamed Abdalla et al.  (2020):  **Examining the rhetorical capacities of neural language models** in: arXiv preprint arXiv:2010.00153. Find at: [LINK](https://arxiv.org/pdf/2010.00153)
 - Tariq Alhindi & Smaranda Muresan & Daniel Preo{\c{t}}iuc-Pietro  (2020):  **Fact vs. Opinion: the Role of Argumentation Features in News Classification** . Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.540.pdf)
 - Marco Del Tredici & Raquel Fern{\'a}ndez  (2020):  **Words are the Window to the Soul: Language-based User Representations for Fake News Detection** in: arXiv preprint arXiv:2011.07389. Find at: [LINK](https://arxiv.org/pdf/2011.07389.pdf)
 - Thomas Kober & Malihe Alikhani & Matthew Stone et al.  (2020):  **Aspectuality Across Genre: A Distributional Semantics Approach** in: arXiv preprint arXiv:2011.00345. Find at: [LINK](https://arxiv.org/pdf/2011.00345)
