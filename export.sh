@@ -1,7 +1,13 @@
 #!/bin/bash
 
+METHOD=jabref
+
+echo -e "\033[0;32mRunning export in $METHOD...\033[0m"
+if [ $METHOD == jabref ]; then
+  jabref --import papers.bib --output exported/papers.md,simple_with_link --nogui
+fi
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-jabref --import papers.bib --output exported/papers.md,simple_with_link --nogui
 
 git add .
 
