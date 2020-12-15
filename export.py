@@ -49,7 +49,7 @@ if __name__ == "__main__":
         parser = argparse.ArgumentParser(epilog='v{}')
         parser.add_argument('-v', '--version', action='version', version='0.1')
         parser.add_argument('file', help='Input bibtex file to render')
-        parser.add_argument('--outfile', default='papers.md', help='Output Markdown filename')
+        parser.add_argument('--outfile', default='exported/papers.md', help='Output Markdown filename')
         args = parser.parse_args()
     except Exception as e:
         print(e)
