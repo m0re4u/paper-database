@@ -1,0 +1,1030 @@
+@InProceedings{cabrio2018five, author = {Cabrio, Elena and Villata,
+Serena}, booktitle = {IJCAI}, title = {Five Years of Argument Mining: a
+Data-driven Analysis.}, year = {2018}, pages = {5427--5433}, volume =
+{18}, comment = {Overview paper of Argument Mining. Good overview of
+datasets!2}, doi = {10.24963/ijcai.2018/766}, file =
+{:https://www.ijcai.org/Proceedings/2018/0766.pdf:URL}, keywords =
+{rank4, read}, owner = {m0re}, ranking = {rank4}, readstatus = {read},
+timestamp = {2020-09-17}, }
+
+@InProceedings{levy2014context, author = {Levy, Ran and Bilu, Yonatan
+and Hershcovich, Daniel and Aharoni, Ehud and Slonim, Noam}, title =
+{Context dependent claim detection}, booktitle = {Proceedings of COLING
+2014, the 25th International Conference on Computational Linguistics:
+Technical Papers}, year = {2014}, pages = {1489--1500}, file =
+{:https://www.aclweb.org/anthology/C14-1141.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@InProceedings{bar-haim2017stance, author = {Bar-Haim, Roy and
+Bhattacharya, Indrajit and Dinuzzo, Francesco and Saha, Amrita and
+Slonim, Noam}, title = {Stance classification of context-dependent
+claims}, booktitle = {roceedings of the 15th Conference of the European
+Chapter of the Association for Computational Linguistics: Volume 1, Long
+PapersPr}, year = {2017}, pages = {251--261}, doi =
+{10.18653/v1/e17-1024}, file =
+{:https://www.aclweb.org/anthology/E17-1024.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{eger2017neural, author = {Eger, Steffen and Daxenberger,
+Johannes and Gurevych, Iryna}, title = {Neural end-to-end learning for
+computational argumentation mining}, journal = {arXiv preprint
+arXiv:1704.06104}, year = {2017}, doi = {10.18653/v1/p17-1002}, file =
+{:https://arxiv.org/pdf/1704.06104.pdf:URL}, keywords = {rank4, read},
+timestamp = {2020-09-17}, }
+
+@InProceedings{duthie2018deep, author = {Duthie, Rory and Budzynska,
+Katarzyna}, title = {A Deep Modular RNN Approach for Ethos Mining.},
+booktitle = {IJCAI}, year = {2018}, pages = {4041--4047}, doi =
+{10.24963/ijcai.2018/562}, file =
+{:https://www.ijcai.org/Proceedings/2018/0562.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{schulz2018multi, author = {Claudia Schulz and Steffen Eger and
+Johannes Daxenberger and Tobias Kahse and Iryna Gurevych}, title =
+{Multi-Task Learning for Argumentation Mining in Low-Resource Settings},
+abstract = {We investigate whether and where multi-task learning (MTL)
+can improve performance on NLP problems related to argumentation mining
+(AM), in particular argument component identification. Our results show
+that MTL performs particularly well (and better than single-task
+learning) when little training data is available for the main task, a
+common scenario in AM. Our findings challenge previous assumptions that
+conceptualizations across AM datasets are divergent and that MTL is
+difficult for semantic or higher-level tasks.}, date = {2018-04-11}, doi
+= {10.18653/v1/n18-2006}, eprint = {1804.04083v3}, eprintclass =
+{cs.CL}, eprinttype = {arXiv}, file =
+{online:http://arxiv.org/pdf/1804.04083v3:URL}, keywords = {cs.CL},
+timestamp = {2020-09-17}, }
+
+@InProceedings{jo2019cascade, author = {Jo, Yohan and Visser, Jacky and
+Reed, Chris and Hovy, Eduard}, title = {A cascade model for proposition
+extraction in argumentation}, booktitle = {Proceedings of the 6th
+Workshop on Argument Mining}, year = {2019}, pages = {11--24},
+organization = {Association for Computational Linguistics}, doi =
+{10.18653/v1/w19-4502}, file =
+{:https://discovery.dundee.ac.uk/ws/files/40857139/Final\_Published\_Version.pdf:URL},
+timestamp = {2020-09-17}, }
+
+@Article{lawrence2020argument, author = {Lawrence, John and Reed,
+Chris}, title = {Argument mining: A survey}, journal = {Computational
+Linguistics}, year = {2020}, volume = {45}, number = {4}, pages =
+{765--818}, doi = {10.1162/coli\_a\_00364}, file =
+{:https://www.researchgate.net/publication/336351909\_Argument\_Mining\_A\_Survey/link/5e21ca47299bf1e1fab9d627/download:URL},
+keywords = {rank4, read}, publisher = {MIT Press}, timestamp =
+{2020-09-17}, }
+
+@Article{peldszus2013argument, author = {Peldszus, Andreas and Stede,
+Manfred}, title = {From argument diagrams to argumentation mining in
+texts: A survey}, journal = {International Journal of Cognitive
+Informatics and Natural Intelligence (IJCINI)}, year = {2013}, volume =
+{7}, number = {1}, pages = {1--31}, doi = {10.4018/jcini.2013010101},
+file =
+{:https://www.ling.uni-potsdam.de/\~peldszus/ijcini2013-preprint.pdf:URL},
+publisher = {IGI Global}, timestamp = {2020-09-17}, }
+
+@Article{steenbergen2003measuring, author = {Steenbergen, Marco R and
+B{"a}chtiger, Andr{'e} and Sp{"o}rndli, Markus and Steiner, J{"u}rg},
+title = {Measuring political deliberation: A discourse quality index},
+journal = {Comparative European Politics}, year = {2003}, volume = {1},
+number = {1}, pages = {21--48}, doi = {10.1057/palgrave.cep.6110002},
+file =
+{:https://link.springer.com/content/pdf/10.1057/palgrave.cep.6110002.pdf:URL},
+keywords = {rank3, read}, publisher = {Springer}, timestamp =
+{2020-09-17}, }
+
+@Article{klein2012enabling, author = {Klein, Mark}, title = {Enabling
+large-scale deliberation using attention-mediation metrics}, journal =
+{Computer Supported Cooperative Work (CSCW)}, year = {2012}, volume =
+{21}, number = {4-5}, pages = {449--473}, doi = {10.2139/ssrn.1837707},
+file =
+{:https://link.springer.com/content/pdf/10.1007/s10606-012-9156-4.pdf:URL},
+keywords = {rank3, read}, publisher = {Springer}, timestamp =
+{2020-09-17}, }
+
+@Article{reimers2019classification, author = {Reimers, Nils and
+Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab,
+Christian and Gurevych, Iryna}, title = {Classification and clustering
+of arguments with contextualized word embeddings}, journal = {arXiv
+preprint arXiv:1906.09821}, year = {2019}, doi = {10.18653/v1/p19-1054},
+file = {online:https://arxiv.org/pdf/1906.09821.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{spliethoever2019is, author = {Maximilian Spliethöver and Jonas
+Klaff and Hendrik Heuer}, title = {Is It Worth the Attention? A
+Comparative Evaluation of Attention Layers for Argument Unit
+Segmentation}, abstract = {Attention mechanisms have seen some success
+for natural language processing downstream tasks in recent years and
+generated new State-of-the-Art results. A thorough evaluation of the
+attention mechanism for the task of Argumentation Mining is missing,
+though. With this paper, we report a comparative evaluation of attention
+layers in combination with a bidirectional long short-term memory
+network, which is the current state-of-the-art approach to the unit
+segmentation task. We also compare sentence-level contextualized word
+embeddings to pre-generated ones. Our findings suggest that for this
+task the additional attention layer does not improve upon a less complex
+approach. In most cases, the contextualized embeddings do also not show
+an improvement on the baseline score.}, date = {2019-06-24}, doi =
+{10.18653/v1/w19-4509}, eprint = {1906.10068v1}, eprintclass = {cs.CL},
+eprinttype = {arXiv}, file =
+{online:http://arxiv.org/pdf/1906.10068v1:URL}, keywords = {cs.CL,
+cs.LG}, timestamp = {2020-09-17}, }
+
+@Article{mansbridge2012systemic, author = {Mansbridge, Jane and Bohman,
+James and Chambers, Simone and Christiano, Thomas and Fung, Archon and
+Parkinson, John and Thompson, Dennis F and Warren, Mark E}, title = {A
+systemic approach to deliberative democracy}, journal = {Deliberative
+systems: Deliberative democracy at the large scale}, year = {2012},
+pages = {1--26}, doi = {10.1017/cbo9781139178914.002}, file =
+{:http://wrap.warwick.ac.uk/42988/2/WRAP\_Parkinson\_systemic\_9781107025394c01\_p1-26.pdf?utm\_content=buffera48ed&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer:URL},
+publisher = {Cambridge University Press Cambridge}, timestamp =
+{2020-09-17}, }
+
+@Article{baek2012online, author = {Baek, Young Min and Wojcieszak,
+Magdalena and Delli Carpini, Michael X}, title = {Online versus
+face-to-face deliberation: Who? Why? What? With what effects?}, journal
+= {New media & society}, year = {2012}, volume = {14}, number = {3},
+pages = {363--383}, doi = {10.1177/1461444811413191}, file =
+{:https://journals.sagepub.com/doi/pdf/10.1177/1461444811413191?casa\_token=tv2HxKUxiX4AAAAA:dLBT4qltqtLAksmkwGRqMvawL6D3zGLN5wjwQosONbGYJiiJJKTa\_ayolUgMq6rrxuSpuIGj\_JmX0w:URL},
+keywords = {rank5, read}, publisher = {Sage Publications Sage UK:
+London, England}, timestamp = {2020-09-17}, }
+
+@InProceedings{hasan2013stance, author = {Hasan, Kazi Saidul and Ng,
+Vincent}, title = {Stance classification of ideological debates: Data,
+models, features, and constraints}, booktitle = {Proceedings of the
+Sixth International Joint Conference on Natural Language Processing},
+year = {2013}, pages = {1348--1356}, file =
+{:https://www.aclweb.org/anthology/I13-1191.pdf:URL}, owner = {m0re},
+timestamp = {2020-09-17}, }
+
+@Article{helberger2018exposure, author = {Helberger, Natali and
+Karppinen, Kari and D’acunto, Lucia}, title = {Exposure diversity as a
+design principle for recommender systems}, journal = {Information,
+Communication & Society}, year = {2018}, volume = {21}, number = {2},
+pages = {191--207}, doi = {10.1080/1369118x.2016.1271900}, file =
+{:https://www.tandfonline.com/doi/full/10.1080/1369118X.2016.1271900:URL},
+publisher = {Taylor & Francis}, timestamp = {2020-09-17}, }
+
+@Article{koch2015efficient, author = {Koch, Patrick and Wagner, Tobias
+and Emmerich, Michael TM and B{"a}ck, Thomas and Konen, Wolfgang}, title
+= {Efficient multi-criteria optimization on noisy machine learning
+problems}, journal = {Applied Soft Computing}, year = {2015}, volume =
+{29}, pages = {357--370}, doi = {10.1016/j.asoc.2015.01.005}, file =
+{:http://www.gm.fh-koeln.de/\~konen/Publikationen/Koch2015a-ASOC.pdf:URL},
+publisher = {Elsevier}, timestamp = {2020-09-17}, }
+
+@Article{lazer2007network, author = {Lazer, David and Friedman, Allan},
+title = {The network structure of exploration and exploitation}, journal
+= {Administrative science quarterly}, year = {2007}, volume = {52},
+number = {4}, pages = {667--694}, doi = {10.2189/asqu.52.4.667}, file =
+{:https://journals.sagepub.com/doi/pdf/10.2189/asqu.52.4.667?casa\_token=0TsR0RBooSwAAAAA:wGcuBt3d4Nv5gfJs8Q-pjhqglLl9O5kOas9aLn-zV2TZXvkQtd-61pVT8uBWtWgif9xl4YM8ns3QBA:URL},
+publisher = {SAGE Publications Sage CA: Los Angeles, CA}, timestamp =
+{2020-09-17}, }
+
+@Article{potash2016here, author = {Potash, Peter and Romanov, Alexey and
+Rumshisky, Anna}, title = {Here's my point: Joint pointer architecture
+for argument mining}, journal = {arXiv preprint arXiv:1612.08994}, year
+= {2016}, doi = {10.18653/v1/d17-1143}, file =
+{:https://www.aclweb.org/anthology/D17-1143.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@InProceedings{frau2019different, author = {Frau, Johanna and Teruel,
+Milagro and Alemany, Laura Alonso and Villata, Serena}, title =
+{Different Flavors of Attention Networks for Argument Mining}, booktitle
+= {The Thirty-Second International Flairs Conference}, year = {2019},
+file =
+{:https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/viewFile/18298/17415:URL},
+timestamp = {2020-09-17}, }
+
+@Article{mansbridge2009deliberative, author = {Mansbridge, Jane}, title
+= {Deliberative and non-deliberative negotiations}, year = {2009}, doi =
+{10.2139/ssrn.1380433}, file =
+{:https://dash.harvard.edu/bitstream/handle/1/4415943/Mansbridge%20Deliberative.pdf:URL},
+owner = {m0re}, publisher = {HKS Working Paper No. RWP09-010}, timestamp
+= {2020-09-17}, }
+
+@Article{esau2017design, author = {Esau, Katharina and Friess, Dennis
+and Eilders, Christiane}, title = {Design matters! An empirical analysis
+of online deliberation on different news platforms}, journal = {Policy &
+Internet}, year = {2017}, volume = {9}, number = {3}, pages =
+{321--342}, doi = {10.1002/poi3.154}, file =
+{:https://onlinelibrary.wiley.com/doi/pdf/10.1002/poi3.154?casa\_token=gDXx8ffTs2UAAAAA:vXtYxJt-qSbddGxjQxJhQmOVT0CgEP-V8FdBS3wW9k9MDuY8OsGob8d2T4vu9v9ZVapmXfmzcRrKuI8S:URL},
+keywords = {read}, publisher = {Wiley Online Library}, timestamp =
+{2020-09-17}, }
+
+@InProceedings{yang2019toward, author = {Yang, Chunsheng and Ito,
+Takayuki and Gu, Wen}, title = {Toward machine learning-based
+facilitation for online discussion in crowd-scale deliberation},
+booktitle = {人工知能学会全国大会論文集 一般社団法人 人工知能学会}, year
+= {2019}, pages = {3H3E304--3H3E304}, organization = {一般社団法人
+人工知能学会}, file =
+{:https://confit.atlas.jp/guide/event-img/jsai2019/3H3-E-3-04/public/pdf:URL},
+keywords = {read}, timestamp = {2020-09-17}, }
+
+@Misc{coleman2012under, author = {Coleman, Stephen and Moss, Giles},
+title = {Under construction: The field of online deliberation research},
+year = {2012}, file =
+{:https://www.tandfonline.com/doi/pdf/10.1080/19331681.2011.635957?casa\_token=ZaPu9WcQGuQAAAAA:T00wpHaDOk\_53eU0OvKCvFlLWzdI0MsY2nS6T9McQ-ErnZTaoSNMsmBa8B\_JQHdoXV3lufN6PusSYw:URL},
+publisher = {Taylor & Francis}, timestamp = {2020-09-17}, }
+
+@Article{jonsson2014challenges, author = {Jonsson, Magnus E and
+{\AA}str{"o}m, Joachim}, title = {The challenges for online deliberation
+research: A literature review}, journal = {International Journal of
+E-Politics (IJEP)}, year = {2014}, volume = {5}, number = {1}, pages =
+{1--15}, doi = {10.4018/ijep.2014010101}, publisher = {IGI Global},
+timestamp = {2020-09-17}, }
+
+@InProceedings{fokkens2017grasp, author = {Fokkens, Antske and Vossen,
+Piek and Rospocher, Marco and Hoekstra, Rinke and van Hage, Willem R and
+Kessler, Fondazione Bruno}, title = {Grasp: grounded representation and
+source perspective}, booktitle = {Proceedings of the Workshop Knowledge
+Resources for the Socio-Economic Sciences and Humanities associated with
+RANLP 2017}, year = {2017}, pages = {19--25}, doi =
+{10.26615/978-954-452-040-3\_003}, file =
+{:https://www.aclweb.org/anthology/L16-1187.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{wiebe2005annotating, author = {Wiebe, Janyce and Wilson,
+Theresa and Cardie, Claire}, title = {Annotating expressions of opinions
+and emotions in language}, journal = {Language resources and
+evaluation}, year = {2005}, volume = {39}, number = {2-3}, pages =
+{165--210}, doi = {10.1007/s10579-005-7880-9}, file =
+{:https://link.springer.com/content/pdf/10.1007/s10579-005-7880-9.pdf:URL},
+publisher = {Springer}, timestamp = {2020-09-17}, }
+
+@InProceedings{morante2020annotating, author = {Morante, Roser and van
+Son, Chantal and Maks, Isa and Vossen, Piek}, title = {Annotating
+Perspectives on Vaccination}, booktitle = {Proceedings of The 12th
+Language Resources and Evaluation Conference}, year = {2020}, pages =
+{4964--4973}, file =
+{:https://www.aclweb.org/anthology/2020.lrec-1.611.pdf:URL}, keywords =
+{read}, owner = {m0re}, timestamp = {2020-09-17}, }
+
+@Article{faria2016novelty, author = {Faria, Elaine R and
+Gon{\c{c}}alves, Isabel JCR and de Carvalho, Andr{'e} CPLF and Gama,
+Jo{\~a}o}, title = {Novelty detection in data streams}, journal =
+{Artificial Intelligence Review}, year = {2016}, volume = {45}, number =
+{2}, pages = {235--269}, file =
+{:https://link.springer.com/content/pdf/10.1007/s10462-015-9444-8.pdf:URL},
+publisher = {Springer}, timestamp = {2020-09-17}, }
+
+@Article{kenter2016impact, author = {Kenter, Jasper O and Jobstvogt,
+Niels and Watson, Verity and Irvine, Katherine N and Christie, Michael
+and Bryce, Ros}, title = {The impact of information, value-deliberation
+and group-based decision-making on values for ecosystem services:
+integrating deliberative monetary valuation and storytelling}, journal =
+{Ecosystem Services}, year = {2016}, volume = {21}, pages = {270--290},
+doi = {10.1016/j.ecoser.2016.06.006}, file =
+{:https://www.sciencedirect.com/science/article/pii/S2212041616301279:URL},
+publisher = {Elsevier}, timestamp = {2020-09-17}, }
+
+@InProceedings{murukannaiah2016acquiring, author = {Murukannaiah,
+Pradeep K and Ajmeri, Nirav and Singh, Munindar P}, title = {Acquiring
+creative requirements from the crowd: Understanding the influences of
+personality and creative potential in Crowd RE}, booktitle = {2016 IEEE
+24th International Requirements Engineering Conference (RE)}, year =
+{2016}, pages = {176--185}, organization = {IEEE}, doi =
+{10.1109/re.2016.68}, file =
+{:https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7765523&casa\_token=2ngHOkOcPQcAAAAA:l54FVWFI2\_K2JWhCXRF4Cy2Ov6IVvNA4Y2OjccfNOvU-LDVuh1Hz1GX2p7os7UkzBkGtWI9fyJo:URL},
+timestamp = {2020-09-17}, }
+
+@InProceedings{guo2020opinion, author = {Guo, Zhen and Zhang, Zhe and
+Singh, Munindar}, title = {In Opinion Holders’ Shoes: Modeling
+Cumulative Influence for View Change in Online Argumentation}, booktitle
+= {Proceedings of The Web Conference 2020}, year = {2020}, pages =
+{2388--2399}, doi = {10.1145/3366423.3380302}, file =
+{:https://dl.acm.org/doi/pdf/10.1145/3366423.3380302?casa\_token=AFXLAjv46jMAAAAA:TFdeMl5pzP4a3X-44Hei4IjX87LTSPiEzziK1PTQd4reumA0EYuf3yVDGmFUhGWpCL-RQrsTCDZoEw:URL},
+timestamp = {2020-09-17}, }
+
+@InProceedings{tan2016winning, author = {Tan, Chenhao and Niculae, Vlad
+and Danescu-Niculescu-Mizil, Cristian and Lee, Lillian}, title =
+{Winning arguments: Interaction dynamics and persuasion strategies in
+good-faith online discussions}, booktitle = {Proceedings of the 25th
+international conference on world wide web}, year = {2016}, pages =
+{613--624}, doi = {10.1145/2872427.2883081}, file =
+{:https://dl.acm.org/doi/pdf/10.1145/2872427.2883081?casa\_token=TwtuHa6PxYsAAAAA:sHJwcW\_-aHYX95QxdSpYbsqX5HQMNmR8uVxteD7vX8FEI8QuvM3nR8pEvN6zpaG06U-RnGQCSf1myw:URL},
+timestamp = {2020-09-17}, }
+
+@InProceedings{paul2010summarizing, author = {Paul, Michael and Zhai,
+ChengXiang and Girju, Roxana}, title = {Summarizing contrastive
+viewpoints in opinionated text}, booktitle = {Proceedings of the 2010
+conference on empirical methods in natural language processing}, year =
+{2010}, pages = {66--76}, file =
+{:https://www.aclweb.org/anthology/D10-1007.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{lu2017understanding, author = {Lu, Yingjie and Wu, Yang and
+Liu, Jingfang and Li, Jia and Zhang, Pengzhu}, title = {Understanding
+health care social media use from different stakeholder perspectives: a
+content analysis of an online health community}, journal = {Journal of
+medical Internet research}, year = {2017}, volume = {19}, number = {4},
+pages = {e109}, doi = {10.2196/jmir.7087}, file =
+{:https://www.jmir.org/2017/4/e109/pdf:URL}, publisher = {JMIR
+Publications Inc., Toronto, Canada}, timestamp = {2020-09-17}, }
+
+@InProceedings{thonet2017users, author = {Thonet, Thibaut and Cabanac,
+Guillaume and Boughanem, Mohand and Pinel-Sauvagnat, Karen}, title =
+{Users are known by the company they keep: Topic models for viewpoint
+discovery in social networks}, booktitle = {Proceedings of the 2017 ACM
+on Conference on Information and Knowledge Management}, year = {2017},
+pages = {87--96}, doi = {10.1145/3132847.3132897}, file =
+{:https://dl.acm.org/doi/pdf/10.1145/3132847.3132897?casa\_token=ZSrWMCOqDeEAAAAA:ni762kKcymBQxwLWxoDXSRgMQpEIC0flKFa7xPVlTdwgMOvBtceGtC65OBnjMPi-NW0ywIckrE1UbQ:URL},
+timestamp = {2020-09-17}, }
+
+@Article{wang2016neural, author = {Wang, Lu and Ling, Wang}, title =
+{Neural network-based abstract generation for opinions and arguments},
+journal = {arXiv preprint arXiv:1606.02785}, year = {2016}, doi =
+{10.18653/v1/n16-1007}, file = {:https://arxiv.org/pdf/1606.02785:URL},
+timestamp = {2020-09-17}, }
+
+@Article{lo2013reciprocity, author = {Lo, Alex Y and Alexander, Kim S
+and Proctor, Wendy and Ryan, Anthony}, title = {Reciprocity as
+deliberative capacity: Lessons from a citizen's deliberation on carbon
+pricing mechanisms in Australia}, journal = {Environment and Planning C:
+Government and Policy}, year = {2013}, volume = {31}, number = {3},
+pages = {444--459}, doi = {10.1068/c11192}, file =
+{:https://journals.sagepub.com/doi/pdf/10.1068/c11192?casa\_token=LSm4N2NZwo0AAAAA:axMFQnttWwnRJSU96JzI2wAN0Z\_cG5T\_S4QEFTpmIQW27ak6u0\_dgcZOgf3tmOWlSBJrD3lFeQO2BQ:URL},
+publisher = {SAGE Publications Sage UK: London, England}, timestamp =
+{2020-09-17}, }
+
+@Article{dryzek2009democratization, author = {Dryzek, John S}, title =
+{Democratization as deliberative capacity building}, journal =
+{Comparative political studies}, year = {2009}, volume = {42}, number =
+{11}, pages = {1379--1402}, doi = {10.1177/0010414009332129}, file =
+{:https://journals.sagepub.com/doi/pdf/10.1177/0010414009332129?casa\_token=\_feF9iCOIAgAAAAA:mt7DSTZGykwDthMLFkPy63dodbC2uIF4Th00F4ZO\_S28yXuMU2KpcPmCy7Evrp-fwYbmziLDw2kruQ:URL},
+publisher = {Sage Publications Sage CA: Los Angeles, CA}, timestamp =
+{2020-09-17}, }
+
+@Article{viet2017convamr, author = {Viet, Lai Dac and Sinh, Vu Trong and
+Minh, Nguyen Le and Satoh, Ken}, title = {ConvAMR: Abstract meaning
+representation parsing for legal document}, journal = {arXiv preprint
+arXiv:1711.06141}, year = {2017}, file =
+{:https://arxiv.org/pdf/1711.06141.pdf:URL}, timestamp = {2020-09-17}, }
+
+@InProceedings{banarescu2013abstract, author = {Banarescu, Laura and
+Bonial, Claire and Cai, Shu and Georgescu, Madalina and Griffitt, Kira
+and Hermjakob, Ulf and Knight, Kevin and Koehn, Philipp and Palmer,
+Martha and Schneider, Nathan}, title = {Abstract meaning representation
+for sembanking}, booktitle = {Proceedings of the 7th linguistic
+annotation workshop and interoperability with discourse}, year = {2013},
+pages = {178--186}, file =
+{:https://www.aclweb.org/anthology/W13-2322.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@InProceedings{stengel2020universal, author = {Stengel-Eskin, Elias and
+White, Aaron Steven and Zhang, Sheng and Van Durme, Benjamin}, title =
+{Universal Decompositional Semantic Parsing}, booktitle = {Proceedings
+of the 58th Annual Meeting of the Association for Computational
+Linguistics}, year = {2020}, pages = {8427--8439}, file =
+{:https://www.aclweb.org/anthology/2020.acl-main.746.pdf:URL}, timestamp
+= {2020-09-17}, }
+
+@InProceedings{koller2019graph, author = {Koller, Alexander and Oepen,
+Stephan and Sun, Weiwei}, title = {Graph-based meaning representations:
+Design and processing}, booktitle = {Proceedings of the 57th Annual
+Meeting of the Association for Computational Linguistics: Tutorial
+Abstracts}, year = {2019}, pages = {6--11}, doi =
+{10.18653/v1/p19-4002}, file =
+{:https://www.aclweb.org/anthology/P19-4002.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@InProceedings{garg2016extracting, author = {Garg, Sahil and Galstyan,
+Aram and Hermjakob, Ulf and Marcu, Daniel}, title = {Extracting
+biomolecular interactions using semantic parsing of biomedical text},
+booktitle = {Thirtieth AAAI Conference on Artificial Intelligence}, year
+= {2016}, file =
+{:https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11740/12014:URL},
+timestamp = {2020-09-17}, }
+
+@Article{albarracin2018attitudes, author = {Albarracin, Dolores and
+Shavitt, Sharon}, title = {Attitudes and attitude change}, journal =
+{Annual review of psychology}, year = {2018}, volume = {69}, pages =
+{299--327}, doi = {10.1146/annurev-psych-122216-011911}, file =
+{:https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-122216-011911:URL},
+publisher = {Annual Reviews}, timestamp = {2020-09-17}, }
+
+@Article{mele2019event, author = {Mele, Ida and Bahrainian, Seyed Ali
+and Crestani, Fabio}, title = {Event mining and timeliness analysis from
+heterogeneous news streams}, journal = {Information Processing &
+Management}, year = {2019}, volume = {56}, number = {3}, pages =
+{969--993}, doi = {10.1016/j.ipm.2019.02.003}, file =
+{:https://pdf.sciencedirectassets.com/271647/1-s2.0-S0306457319X00023/1-s2.0-S0306457318303455/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHIaCXVzLWVhc3QtMSJHMEUCIHMXDG1T8KoILSJnQ%2FZl5lmyHAezixDP2JA53sBAIT9tAiEApu8o3eGARDSUpz6A4a%2FWhUvgCTN%2BmJBExocjuWxesxcqtAMIKhADGgwwNTkwMDM1NDY4NjUiDObZHl6eyrcLf%2BZGeSqRA0VXVgorJ0toqQwqKYTSdmJMNIBT1tZ5QgkHGif666RpS7Cm6JMIeyj6SO3YbNprtftV1Ug%2Bmwhib6NvMmjfQJsZPKbk6nTbyRwZyJlVxCaqKDrgsFkU6xzibxQxHd1wtfRY2jSLOoZ4H39YBOs4P0i4uT4pnuwBlaAkII5ZujeKLjKQDIhN75gdc%2FaHZR3gKX%2B90p476ZT59L9vpN5ArjrVf1VDBPvd%2FcLVD60fardLmf6%2FgkvZ6CJn0BT8uZzmPZbhPnidITeDGguMa8dr3IoFCW1P3tPrXLzpIcesdjp8UxySD2VQObs1lAIivw%2FEcpX3AqXAS1EgCo5G6aNcbq%2Bi21p7ai7TgwCMYn%2Bt%2BXnCSL7rA47If0bXt%2BA%2F%2BrxM12rThNRRj9yuC52jNN7DTJywgrcTmmLjdNA3NdYDDs58%2FTZl5jdUGl7R53VBhg9nMyYYDxbCNRHtVatWeA5fCpGr8K2sJtfErFiySA643WKyZF2javix2wzV947v7sN%2Fn3%2Bb9hqWQLNOxKpJ9qDF83wmMMzC1fgFOusBfkQbO9Nrad6LD1W%2FssnpYev4oZKPmLegttTQO4dwWSjfCoz%2Bya6%2FtyQL0dlFB%2B7XSG4BcPf1%2FxSiAyx4yN5DqLpG%2FYEMPDfuAj8WyJ%2B10whofYHFdF6aPEbeE4iNfCAPRlg2GksVeNo3d%2BMhnRSC2%2FY%2FFBPA7oUBOg5Ui6sWBvPITmqYO7MqDOJKY5G84TBWPPmwAKaMPQC79pGTIqdyhGv4J4Oc%2Fz6UAoLYdyii%2F2Z%2BYFBRco1yQt%2FWpU93ExhhY%2Bo4AeOLBcOgapXH6ryqsZzKzahcD%2FZ36aSv6XbjIPCkLfDhNsqKFO5eow%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200720T100843Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUCWRG2JR%2F20200720%2Fus-east-1%2Fs3%2Faws4\_request&X-Amz-Signature=c7bce6e3f456cc60534bb93cd56c034afe1c695cb2ae839348d18217b80b0bb5&hash=8b9c6b39a31fa3c0d89fe51dc8761701255f802407bedbd1ba6369607d4308fc&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0306457318303455&tid=spdf-4d6924d8-26e4-4347-baca-0ffe846ca047&sid=97f9969575d3c84fa55a99d957df0ffbea2agxrqb&type=client:URL},
+publisher = {Elsevier}, timestamp = {2020-09-17}, }
+
+@Article{wang2012continuous, author = {Wang, Chong and Blei, David and
+Heckerman, David}, title = {Continuous time dynamic topic models},
+journal = {arXiv preprint arXiv:1206.3298}, year = {2012}, file =
+{:https://arxiv.org/pdf/1206.3298.pdf:URL}, timestamp = {2020-09-17}, }
+
+@Article{srivastava2017autoencoding, author = {Srivastava, Akash and
+Sutton, Charles}, title = {Autoencoding variational inference for topic
+models}, journal = {arXiv preprint arXiv:1703.01488}, year = {2017},
+file = {:https://openreview.net/pdf?id=BybtVK9lg:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{dieng2019topic, author = {Dieng, Adji B and Ruiz, Francisco JR
+and Blei, David M}, title = {Topic modeling in embedding spaces},
+journal = {arXiv preprint arXiv:1907.04907}, year = {2019}, file =
+{:https://arxiv.org/pdf/1907.04907.pdf:URL}, timestamp = {2020-09-17}, }
+
+@Article{min2018survey, author = {Min, Erxue and Guo, Xifeng and Liu,
+Qiang and Zhang, Gen and Cui, Jianjing and Long, Jun}, title = {A survey
+of clustering with deep learning: From the perspective of network
+architecture}, journal = {IEEE Access}, year = {2018}, volume = {6},
+pages = {39501--39514}, doi = {10.1109/access.2018.2855437}, file =
+{:https://ieeexplore.ieee.org/iel7/6287639/6514899/08412085.pdf:URL},
+publisher = {IEEE}, timestamp = {2020-09-17}, }
+
+@Article{wu2020learning, author = {Wu, Chuan and Kanoulas, Evangelos and
+de Rijke, Maarten}, title = {Learning entity-centric document
+representations using an entity facet topic model}, journal =
+{Information Processing & Management}, year = {2020}, volume = {57},
+number = {3}, pages = {102216}, doi = {10.1016/j.ipm.2020.102216}, file
+=
+{:https://www.sciencedirect.com/science/article/pii/S0306457318308008:URL},
+publisher = {Elsevier}, timestamp = {2020-09-17}, }
+
+@Article{bouadjenek2016persador, author = {Bouadjenek, Mohamed Reda and
+Hacid, Hakim and Bouzeghoub, Mokrane and Vakali, Athena}, title =
+{Persador: personalized social document representation for improving web
+search}, journal = {Information Sciences}, year = {2016}, volume =
+{369}, pages = {614--633}, doi = {10.1016/j.ins.2016.07.046}, file =
+{:https://www.sciencedirect.com/science/article/pii/S0020025516305278:URL},
+publisher = {Elsevier}, timestamp = {2020-09-17}, }
+
+@InCollection{maes1995agents, author = {Maes, Pattie}, title = {Agents
+that reduce work and information overload}, booktitle = {Readings in
+human--computer interaction}, publisher = {Elsevier}, year = {1995},
+pages = {811--821}, doi = {10.1016/b978-0-08-051574-8.50084-4}, file =
+{:http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2096&rep=rep1&type=pdf:URL},
+timestamp = {2020-09-17}, }
+
+@InCollection{eppler2008concept, author = {Eppler, Martin J and Mengis,
+Jeanne}, title = {The concept of information overload-a review of
+literature from organization science, accounting, marketing, mis, and
+related disciplines (2004)}, booktitle = {Kommunikationsmanagement im
+Wandel}, publisher = {Springer}, year = {2008}, pages = {271--305}, doi
+= {10.1007/978-3-8349-9772-2\_15}, timestamp = {2020-09-17}, }
+
+@InProceedings{carreras2005introduction, author = {Carreras, Xavier and
+M{\`a}rquez, Llu{'\i}s}, title = {Introduction to the CoNLL-2005 shared
+task: Semantic role labeling}, booktitle = {Proceedings of the ninth
+conference on computational natural language learning (CoNLL-2005)},
+year = {2005}, pages = {152--164}, doi = {10.3115/1706543.1706571}, file
+= {:https://www.aclweb.org/anthology/W05-0620.pdf:URL}, keywords =
+{read}, timestamp = {2020-09-17}, }
+
+@InProceedings{he2017deep, author = {He, Luheng and Lee, Kenton and
+Lewis, Mike and Zettlemoyer, Luke}, title = {Deep semantic role
+labeling: What works and what’s next}, booktitle = {Proceedings of the
+55th Annual Meeting of the Association for Computational Linguistics
+(Volume 1: Long Papers)}, year = {2017}, pages = {473--483}, doi =
+{10.18653/v1/p17-1044}, file =
+{:https://www.aclweb.org/anthology/P17-1044.pdf:URL}, timestamp =
+{2020-09-17}, }
+
+@Article{loui1995models, author = {Loui, Ronald Prescott}, title =
+{Models of deliberation in the social sciences}, journal = {ACM
+Computing Surveys (CSUR)}, year = {1995}, volume = {27}, number = {3},
+pages = {346--348}, doi = {10.1145/212094.212123}, file =
+{:https://dl.acm.org/doi/pdf/10.1145/212094.212123:URL}, keywords =
+{rank3, read}, publisher = {ACM New York, NY, USA}, timestamp =
+{2020-09-17}, }
+
+@InProceedings{bourgin2019cognitive, author = {Bourgin, David D and
+Peterson, Joshua C and Reichman, Daniel and Russell, Stuart J and
+Griffiths, Thomas L}, title = {Cognitive model priors for predicting
+human decisions}, booktitle = {International conference on machine
+learning}, year = {2019}, pages = {5133--5141}, file =
+{:https://arxiv.org/pdf/1905.09397.pdf:URL}, keywords = {skimmed},
+timestamp = {2020-09-17}, }
+
+@Article{madumal2019explainable, author = {Madumal, Prashan and Miller,
+Tim and Sonenberg, Liz and Vetere, Frank}, title = {Explainable
+reinforcement learning through a causal lens}, journal = {arXiv preprint
+arXiv:1905.10958}, year = {2019}, doi = {10.1609/aaai.v34i03.5631}, file
+= {:https://arxiv.org/pdf/1905.10958:URL}, keywords = {rank3, read},
+timestamp = {2020-09-23}, }
+
+@Article{hohn1976binary, author = {Hohn, Michael Ed}, title = {Binary
+coefficients: A theoretical and empirical study}, journal = {Journal of
+the International Association for Mathematical Geology}, year = {1976},
+volume = {8}, number = {2}, pages = {137--150}, doi =
+{10.1007/bf01079031}, file =
+{:https://www.researchgate.net/profile/Michael\_Hohn/publication/227080676\_Binary\_coefficients\_A\_theoretical\_and\_empirical\_study/links/56ec6b8908aed17d09f645cf/Binary-coefficients-A-theoretical-and-empirical-study.pdf:URL},
+publisher = {Springer}, timestamp = {2020-09-23}, }
+
+@Article{schwartz2012overview, author = {Schwartz, Shalom H}, title =
+{An overview of the Schwartz theory of basic values}, journal = {Online
+readings in Psychology and Culture}, year = {2012}, volume = {2}, number
+= {1}, pages = {2307--0919}, doi = {10.9707/2307-0919.1116}, file =
+{:https://core.ac.uk/download/pdf/10687025.pdf:URL}, timestamp =
+{2020-09-23}, }
+
+@InProceedings{peng-etal-2015-solving, author = {Peng, Haoruo and
+Khashabi, Daniel and Roth, Dan}, title = {Solving Hard Coreference
+Problems}, booktitle = {Proceedings of the 2015 Conference of the North
+{A}merican Chapter of the Association for Computational Linguistics:
+Human Language Technologies}, year = {2015}, pages = {809--819}, address
+= {Denver, Colorado}, month = may \#{{--}} \# jun, publisher =
+{Association for Computational Linguistics}, doi =
+{10.3115/v1/n15-1082}, file =
+{:https://www.aclweb.org/anthology/N15-1082.pdf:URL}, timestamp =
+{2020-10-07}, url = {https://www.aclweb.org/anthology/N15-1082}, }
+
+@Article{kocijan2020review, author = {Kocijan, Vid and Lukasiewicz,
+Thomas and Davis, Ernest and Marcus, Gary and Morgenstern, Leora}, title
+= {A Review of Winograd Schema Challenge Datasets and Approaches},
+journal = {arXiv preprint arXiv:2004.13831}, year = {2020}, file =
+{:https://arxiv.org/pdf/2004.13831.pdf:URL}, keywords = {read},
+timestamp = {2020-10-07}, }
+
+@Article{ribeiro2020beyond, author = {Ribeiro, Marco Tulio and Wu,
+Tongshuang and Guestrin, Carlos and Singh, Sameer}, title = {Beyond
+Accuracy: Behavioral Testing of NLP Models with CheckList}, journal =
+{arXiv preprint arXiv:2005.04118}, year = {2020}, doi =
+{10.18653/v1/2020.acl-main.442}, file =
+{:https://arxiv.org/pdf/2005.04118.pdf:URL}, timestamp = {2020-10-07}, }
+
+@InProceedings{renooij2016evidence, author = {Renooij, Silja}, title =
+{Evidence evaluation: a study of likelihoods and independence},
+booktitle = {Conference on Probabilistic Graphical Models}, year =
+{2016}, pages = {426--437}, file =
+{:http://proceedings.mlr.press/v52/renooij16.pdf:URL}, keywords =
+{read}, timestamp = {2020-10-12}, }
+
+@InProceedings{guo2020caspar, author = {Guo, Hui and Singh, Munindar P},
+title = {Caspar: extracting and synthesizing user stories of problems
+from app reviews}, booktitle = {Proceedings of the ACM/IEEE 42nd
+International Conference on Software Engineering}, year = {2020}, pages
+= {628--640}, doi = {10.1145/3377811.3380924}, file =
+{:https://dl.acm.org/doi/pdf/10.1145/3377811.3380924?casa\_token=0n\_ooJ6aXzEAAAAA:YgS0NSS67XzHEJl6Qy6NTJyqMsFjUB9\_hjSMQKTBT8n2XKN5wZQ3cL5AFwnN1EZJ7HYnCe5nLx8LFQ:URL},
+timestamp = {2020-10-13}, }
+
+@InBook{inbook, title = {OntoNotes: A Large Training Corpus for Enhanced
+Processing}, year = {2011}, author = {Weischedel, Ralph and Hovy, Eduard
+and Marcus, Mitchell and Palmer, Martha and Belvin, Robert and Pradhan,
+Sameer and Ramshaw, Lance and Xue, Nianwen}, month = {01}, file =
+{:https://www.researchgate.net/profile/Eduard\_Hovy2/publication/230876724\_OntoNotes\_A\_Large\_Training\_Corpus\_for\_Enhanced\_Processing/links/5988702a0f7e9b6c8539b04e/OntoNotes-A-Large-Training-Corpus-for-Enhanced-Processing.pdf:URL},
+keywords = {read}, timestamp = {2020-10-16}, }
+
+@InProceedings{bevendorff2020crawling, author = {Bevendorff, Janek and
+Al Khatib, Khalid and Potthast, Martin and Stein, Benno}, title =
+{Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis},
+booktitle = {Proceedings of the 58th Annual Meeting of the Association
+for Computational Linguistics}, year = {2020}, pages = {1151--1158}, doi
+= {10.18653/v1/2020.acl-main.108}, file =
+{:https://www.aclweb.org/anthology/2020.acl-main.108.pdf:URL}, keywords
+= {read}, timestamp = {2020-10-16}, }
+
+@InProceedings{al2020exploiting, author = {Al Khatib, Khalid and
+V{"o}lske, Michael and Syed, Shahbaz and Kolyada, Nikolay and Stein,
+Benno}, title = {Exploiting Personal Characteristics of Debaters for
+Predicting Persuasiveness}, booktitle = {Proceedings of the 58th Annual
+Meeting of the Association for Computational Linguistics}, year =
+{2020}, pages = {7067--7072}, doi = {10.18653/v1/2020.acl-main.632},
+file = {:https://www.aclweb.org/anthology/2020.acl-main.632.pdf:URL},
+keywords = {read}, timestamp = {2020-10-16}, }
+
+@InProceedings{soboroff2005novelty, author = {Soboroff, Ian and Harman,
+Donna}, title = {Novelty detection: the TREC experience}, booktitle =
+{Proceedings of Human Language Technology Conference and Conference on
+Empirical Methods in Natural Language Processing}, year = {2005}, pages
+= {105--112}, doi = {10.3115/1220575.1220589}, file =
+{:https://www.aclweb.org/anthology/H05-1014.pdf:URL}, keywords = {read},
+timestamp = {2020-10-20}, }
+
+@InProceedings{al2018modeling, author = {Al Khatib, Khalid and
+Wachsmuth, Henning and Lang, Kevin and Herpel, Jakob and Hagen, Matthias
+and Stein, Benno}, title = {Modeling deliberative argumentation
+strategies on wikipedia}, booktitle = {Proceedings of the 56th Annual
+Meeting of the Association for Computational Linguistics (Volume 1: Long
+Papers)}, year = {2018}, pages = {2545--2555}, doi =
+{10.18653/v1/p18-1237}, file =
+{:https://www.aclweb.org/anthology/P18-1237.pdf:URL}, timestamp =
+{2020-10-20}, }
+
+@InProceedings{wachsmuth2017building, author = {Wachsmuth, Henning and
+Potthast, Martin and Al Khatib, Khalid and Ajjour, Yamen and Puschmann,
+Jana and Qu, Jiani and Dorsch, Jonas and Morari, Viorel and Bevendorff,
+Janek and Stein, Benno}, title = {Building an argument search engine for
+the web}, booktitle = {Proceedings of the 4th Workshop on Argument
+Mining}, year = {2017}, pages = {49--59}, doi = {10.18653/v1/w17-5106},
+file = {:https://www.aclweb.org/anthology/W17-5106.pdf:URL}, timestamp =
+{2020-10-20}, }
+
+@Article{bex2013implementing, author = {Bex, Floris and Lawrence, John
+and Snaith, Mark and Reed, Chris}, title = {Implementing the argument
+web}, journal = {Communications of the ACM}, year = {2013}, volume =
+{56}, number = {10}, pages = {66--73}, doi = {10.1145/2500891}, file =
+{:https://www.researchgate.net/profile/John\_Lawrence3/publication/262157452\_Implementing\_the\_Argument\_Web/links/5bb47e9c299bf13e605d184f/Implementing-the-Argument-Web.pdf:URL},
+publisher = {ACM New York, NY, USA}, timestamp = {2020-10-20}, }
+
+@Article{rahwan2007laying, author = {Rahwan, Iyad and Zablith, Fouad and
+Reed, Chris}, title = {Laying the foundations for a world wide argument
+web}, journal = {Artificial intelligence}, year = {2007}, volume =
+{171}, number = {10-15}, pages = {897--921}, doi =
+{10.1016/j.artint.2007.04.015}, file =
+{:https://www.sciencedirect.com/science/article/pii/S0004370207000768/pdf?md5=ba1c833305987ab31cb70120cb152c02&pid=1-s2.0-S0004370207000768-main.pdf&\_valck=1:URL},
+publisher = {Elsevier}, timestamp = {2020-10-20}, }
+
+@InProceedings{rinott2015show, author = {Rinott, Ruty and Dankin, Lena
+and Alzate, Carlos and Khapra, Mitesh M and Aharoni, Ehud and Slonim,
+Noam}, title = {Show me your evidence-an automatic method for context
+dependent evidence detection}, booktitle = {Proceedings of the 2015
+conference on empirical methods in natural language processing}, year =
+{2015}, pages = {440--450}, file =
+{:https://www.aclweb.org/anthology/D15-1050.pdf:URL}, timestamp =
+{2020-10-20}, }
+
+@InProceedings{habernal2015exploiting, author = {Habernal, Ivan and
+Gurevych, Iryna}, title = {Exploiting debate portals for semi-supervised
+argumentation mining in user-generated web discourse}, booktitle =
+{Proceedings of the 2015 conference on empirical methods in natural
+language processing}, year = {2015}, pages = {2127--2137}, doi =
+{10.18653/v1/d15-1255}, file =
+{:https://www.aclweb.org/anthology/D15-1255.pdf:URL}, timestamp =
+{2020-10-20}, }
+
+@Article{walton2019dialectical, author = {Walton, Douglas and Toniolo,
+Alice and Norman, Timothy J}, title = {Dialectical models of
+deliberation, problem solving and decision making}, journal =
+{Argumentation}, year = {2019}, pages = {1--43}, doi =
+{10.1007/s10503-019-09497-9}, file =
+{:https://idp.springer.com/authorize/casa?redirect\_uri=https://link.springer.com/content/pdf/10.1007/s10503-019-09497-9.pdf&casa\_token=XDAkaHc7etYAAAAA:cj3\_eANdeZe8e3Jyd9GuY4HIKIze93Ogu9q5fuTTF8o5GL7JbsEUPDwpCrlxdUwMNLpm2Ot\_axZa5R371w:URL},
+publisher = {Springer}, timestamp = {2020-10-20}, }
+
+@InProceedings{tietzchallenges, author = {Tietz, Tabea and Alam, Mehwish
+and Sack, Harald and van Erp, Marieke}, title = {Challenges of Knowledge
+Graph Evolution from an NLP Perspective}, booktitle = {Proceedings of
+WHiSE}, year = {2020}, address = {Heraklion, Greece}, file =
+{:https://www.fiz-karlsruhe.de/sites/default/files/FIZ/Dokumente/Forschung/ISE/Publications/2020\_Challenges-of-Knowledge-Graph-Evolution-from-an-NLP-Perspective.pdf:URL},
+timestamp = {2020-10-21}, }
+
+@InProceedings{van2016unshared, author = {van Son, Chantal and Caselli,
+Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo,
+Lora and Vossen, Piek}, title = {Unshared task at the 3rd workshop on
+argument mining: Perspective based local agreement and disagreement in
+online debate}, booktitle = {Proceedings of the Third Workshop on
+Argument Mining (ArgMining2016)}, year = {2016}, pages = {160--165},
+file = {:https://www.aclweb.org/anthology/W16-2819.pdf:URL}, timestamp =
+{2020-10-21}, }
+
+@Article{hsiao2018vtaiwan, author = {Hsiao, Yu-Tang and Lin, Shu-Yang
+and Tang, Audrey and Narayanan, Darshana and Sarahe, Claudina}, title =
+{vTaiwan: An empirical study of open consultation process in Taiwan},
+year = {2018}, doi = {10.31235/osf.io/xyhft}, file =
+{:https://files.osf.io/v1/resources/xyhft/providers/osfstorage/5b3c5c85987be0001299ec93?action=download&version=1&direct:URL},
+publisher = {SocArXiv}, timestamp = {2020-10-23}, }
+
+@InProceedings{winkels2013experiments, author = {Winkels, Radboud and
+Douw, Jochem and Veldhoen, Sara}, title = {Experiments in automated
+support for argument reconstruction}, booktitle = {Proceedings of the
+Fourteenth International Conference on Artificial Intelligence and Law},
+year = {2013}, pages = {232--236}, doi = {10.1145/2514601.2514633}, file
+=
+{:https://dl.acm.org/doi/pdf/10.1145/2514601.2514633?casa\_token=9lnf54tQd38AAAAA:zfTJvteLabbwhDBRhM6ZZy3uE4YRTqGtqx0y5sPkVK9zQfXLLAnvYKgICzFaPAkmvBicmOnU3n76IA:URL},
+timestamp = {2020-10-23}, }
+
+@Article{fung2003survey, author = {Fung, Archon}, title = {Survey
+article: Recipes for public spheres: Eight institutional design choices
+and their consequences}, journal = {Journal of political philosophy},
+year = {2003}, volume = {11}, number = {3}, pages = {338--367}, doi =
+{10.1111/1467-9760.00181}, file =
+{:http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.320.6008&rep=rep1&type=pdf:URL},
+publisher = {Citeseer}, timestamp = {2020-10-23}, }
+
+@InProceedings{baraka2020extended, author = {Baraka, Kim and
+Alves-Oliveira, Patr{'\i}cia and Ribeiro, Tiago}, title = {An extended
+framework for characterizing social robots}, booktitle = {Human-Robot
+Interaction}, year = {2020}, pages = {21--64}, organization =
+{Springer}, doi = {10.1007/978-3-030-42307-0\_2}, file =
+{:https://arxiv.org/pdf/1907.09873:URL}, timestamp = {2020-10-23}, }
+
+@Article{todd2011perspective, author = {Todd, Andrew R and Bodenhausen,
+Galen V and Richeson, Jennifer A and Galinsky, Adam D}, title =
+{Perspective taking combats automatic expressions of racial bias.},
+journal = {Journal of personality and social psychology}, year = {2011},
+volume = {100}, number = {6}, pages = {1027}, doi = {10.1037/a0022308},
+file =
+{:http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.8388&rep=rep1&type=pdf:URL},
+publisher = {American Psychological Association}, timestamp =
+{2020-10-27}, }
+
+@Article{gerber2018deliberative, author = {Gerber, Marl{\`e}ne and
+B{"a}chtiger, Andr{'e} and Shikano, Susumu and Reber, Simon and Rohr,
+Samuel}, title = {Deliberative abilities and influence in a
+transnational deliberative poll (EuroPolis)}, journal = {British Journal
+of Political Science}, year = {2018}, volume = {48}, number = {4}, pages
+= {1093--1118}, doi = {10.1017/s0007123416000144}, file =
+{:http://kops.uni-konstanz.de/bitstream/handle/123456789/37303/Gerber\_2-1w4viesa5md6u2.pdf?sequence=1&isAllowed=y:URL},
+publisher = {Cambridge University Press}, timestamp = {2020-10-27}, }
+
+@Article{strandberg2015designing, author = {Strandberg, Kim}, title =
+{Designing for democracy?: An experimental study comparing the outcomes
+of citizen discussions in online forums with those of online discussions
+in a forum designed according to deliberative principles}, journal =
+{European Political Science Review}, year = {2015}, volume = {7}, number
+= {3}, pages = {451--474}, doi = {10.1017/s1755773914000265}, file =
+{:https://www.researchgate.net/profile/Kim\_Strandberg/publication/282482377\_Designing\_for\_Democracy\_An\_Experimental\_Study\_Comparing\_the\_Outcomes\_of\_Citizen\_Discussions\_in\_Online\_Forums\_with\_Those\_of\_Online\_Discussion\_in\_a\_Forum\_Designed\_According\_to\_Deliberative\_Principles/links/5718956408aed43f632215d8.pdf:URL},
+publisher = {Cambridge University Press}, timestamp = {2020-11-03}, }
+
+@Article{hartz2014unfulfilled, author = {Hartz-Karp, Janette and
+Sullivan, Brian}, title = {The unfulfilled promise of online
+deliberation}, journal = {Journal of Public Deliberation}, year =
+{2014}, volume = {10}, number = {1}, pages = {1--5}, doi =
+{10.16997/jdd.191}, file =
+{:https://espace.curtin.edu.au/bitstream/handle/20.500.11937/20500/212764\_139522\_JHK\_Public\_Deliberation.pdf?sequence=2:URL},
+publisher = {Dept. of Political Science, Auburn University, US},
+timestamp = {2020-11-03}, }
+
+@InProceedings{abbott2016internet, author = {Abbott, Rob and Ecker,
+Brian and Anand, Pranav and Walker, Marilyn}, title = {Internet argument
+corpus 2.0: An sql schema for dialogic social media and the corpora to
+go with it}, booktitle = {Proceedings of the Tenth International
+Conference on Language Resources and Evaluation (LREC'16)}, year =
+{2016}, pages = {4445--4452}, file =
+{:https://www.aclweb.org/anthology/L16-1704.pdf:URL}, timestamp =
+{2020-11-03}, }
+
+@InProceedings{napoles2017finding, author = {Napoles, Courtney and
+Tetreault, Joel and Pappu, Aasish and Rosato, Enrica and Provenzale,
+Brian}, title = {Finding good conversations online: The yahoo news
+annotated comments corpus}, booktitle = {Proceedings of the 11th
+Linguistic Annotation Workshop}, year = {2017}, pages = {13--23}, doi =
+{10.18653/v1/w17-0802}, file =
+{:https://www.aclweb.org/anthology/W17-0802.pdf:URL}, timestamp =
+{2020-11-03}, }
+
+@InProceedings{van2018scoring, author = {van Son, Chantal and Morante,
+Roser and Aroyo, Lora and Vossen, Piek}, title = {Scoring and
+Classifying Implicit Positive Interpretations: A Challenge of Class
+Imbalance}, booktitle = {Proceedings of the 27th International
+Conference on Computational Linguistics}, year = {2018}, pages =
+{2253--2264}, file =
+{:https://www.aclweb.org/anthology/C18-1191.pdf:URL}, timestamp =
+{2020-11-04}, }
+
+@InProceedings{sanders2016automatic, author = {Sanders, Jordan and
+Blanco, Eduardo}, title = {Automatic extraction of implicit
+interpretations from modal constructions}, booktitle = {Proceedings of
+the 2016 Conference on Empirical Methods in Natural Language
+Processing}, year = {2016}, pages = {1098--1107}, doi =
+{10.18653/v1/d16-1118}, file =
+{:https://www.aclweb.org/anthology/D16-1118.pdf:URL}, timestamp =
+{2020-11-06}, }
+
+@Article{czechowski2020decentralized, author = {Czechowski, Aleksander
+and Oliehoek, Frans}, title = {Decentralized MCTS via Learned Teammate
+Models}, journal = {arXiv preprint arXiv:2003.08727}, year = {2020}, doi
+= {10.24963/ijcai.2020/12}, file =
+{:https://arxiv.org/pdf/2003.08727:URL}, timestamp = {2020-11-06}, }
+
+@Article{klein2017using, author = {Klein, Mark and Gruzd, Anatoliy and
+Lannigan, James}, title = {Using Deliberation-Centric Social Network
+Analysis to Measure Balkanization}, journal = {Available at SSRN
+2914554}, year = {2017}, doi = {10.2139/ssrn.2914554}, file =
+{:https://www.researchgate.net/profile/Mark\_Klein/publication/313509670\_Using\_Deliberation-Centric\_Social\_Network\_Analysis\_to\_Measure\_Balkanization/links/589cba4792851c599c974e03/Using-Deliberation-Centric-Social-Network-Analysis-to-Measure-Balkanization.pdf:URL},
+timestamp = {2020-11-11}, }
+
+@InProceedings{sirrianni2018quantitative, author = {Sirrianni, Joseph
+and Liu, Xiaoqing and Adams, Douglas}, title = {Quantitative modeling of
+polarization in online intelligent argumentation and deliberation for
+capturing collective intelligence}, booktitle = {2018 IEEE International
+Conference on Cognitive Computing (ICCC)}, year = {2018}, pages =
+{57--64}, organization = {IEEE}, doi = {10.1109/iccc.2018.00015}, file =
+{:https://ieeexplore.ieee.org/iel7/8457594/8457681/08457696.pdf?casa\_token=r9-JhzHMNHAAAAAA:7UBAl49B7AJpTJFjxJegSIKnzIS3Z-l1oOqzfjuIP4Exu4FQScjrNbtk0fQq-SV6gbbiXARHov8:URL},
+timestamp = {2020-11-11}, }
+
+@Article{klein2017towards, author = {Klein, Mark}, title = {Towards
+crowd-scale deliberation}, journal = {Available at SSRN 2987624}, year =
+{2017}, doi = {10.2139/ssrn.2987624}, file =
+{:https://www.researchgate.net/profile/Mark\_Klein/publication/317613473\_Towards\_Crowd-Scale\_Deliberation/links/59433be7aca2722db499d5cd/Towards-Crowd-Scale-Deliberation.pdf:URL},
+timestamp = {2020-11-11}, }
+
+@Article{iandoli2018supporting, author = {Iandoli, Luca and Quinto,
+Ivana and Spada, Paolo and Klein, Mark and Calabretta, Raffaele}, title
+= {Supporting argumentation in online political debate: Evidence from an
+experiment of collective deliberation}, journal = {new media & society},
+year = {2018}, volume = {20}, number = {4}, pages = {1320--1341}, doi =
+{10.1177/1461444817691509}, file =
+{:https://journals.sagepub.com/doi/pdf/10.1177/1461444817691509?casa\_token=OeUYNGu4U5oAAAAA:AHXt95rwKSXWdPSE3LIpzHrM6eIkP5Okwc56ODj2J3aifgo\_IAcb\_-veGBtpuwOwRg\_eR74UU1346Q:URL},
+publisher = {SAGE Publications Sage UK: London, England}, timestamp =
+{2020-11-12}, }
+
+@Article{lazer2009life, author = {Lazer, David and Pentland, Alex Sandy
+and Adamic, Lada and Aral, Sinan and Barabasi, Albert Laszlo and Brewer,
+Devon and Christakis, Nicholas and Contractor, Noshir and Fowler, James
+and Gutmann, Myron and others}, title = {Life in the network: the coming
+age of computational social science}, journal = {Science (New York,
+NY)}, year = {2009}, volume = {323}, number = {5915}, pages = {721},
+file = {:https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2745217/:URL},
+publisher = {NIH Public Access}, timestamp = {2020-11-12}, }
+
+@Article{draws2020helping, author = {Draws, Tim and Liu, Jody and
+Tintarev, Nava}, title = {Helping users discover perspectives: Enhancing
+opinion mining with joint topic models}, journal = {arXiv preprint
+arXiv:2010.12505}, year = {2020}, file =
+{:https://arxiv.org/pdf/2010.12505:URL}, timestamp = {2020-11-13}, }
+
+@Article{trautmann2020aspect, author = {Trautmann, Dietrich}, title =
+{Aspect-Based Argument Mining}, journal = {arXiv preprint
+arXiv:2011.00633}, year = {2020}, file =
+{:https://arxiv.org/pdf/2011.00633:URL}, timestamp = {2020-11-13}, }
+
+@Article{tenney2019bert, author = {Tenney, Ian and Das, Dipanjan and
+Pavlick, Ellie}, title = {BERT rediscovers the classical NLP pipeline},
+journal = {arXiv preprint arXiv:1905.05950}, year = {2019}, doi =
+{10.18653/v1/p19-1452}, file = {:https://arxiv.org/pdf/1905.05950:URL},
+timestamp = {2020-11-17}, }
+
+@InProceedings{brandsen2020creating, author = {Brandsen, Alex and
+Verberne, Suzan and Wansleeben, Milco and Lambers, Karsten}, title =
+{Creating a Dataset for Named Entity Recognition in the Archaeology
+Domain}, booktitle = {Proceedings of The 12th Language Resources and
+Evaluation Conference}, year = {2020}, pages = {4573--4577}, file =
+{:https://www.aclweb.org/anthology/2020.lrec-1.562.pdf:URL}, timestamp =
+{2020-11-17}, }
+
+@Article{ruder2016hierarchical, author = {Ruder, Sebastian and Ghaffari,
+Parsa and Breslin, John G}, title = {A hierarchical model of reviews for
+aspect-based sentiment analysis}, journal = {arXiv preprint
+arXiv:1609.02745}, year = {2016}, file =
+{:https://arxiv.org/pdf/1609.02745:URL}, timestamp = {2020-11-17}, }
+
+@Article{boschi2019having, author = {Boschi, Gioia and Young, Anthony P
+and Joglekar, Sagar and Cammarota, Chiara and Sastry, Nishanth}, title =
+{Having the Last Word: Understanding How to Sample Discussions Online},
+journal = {arXiv preprint arXiv:1906.04148}, year = {2019}, file =
+{:https://arxiv.org/pdf/1906.04148:URL}, timestamp = {2020-11-30}, }
+
+@Article{wright2007democracy, author = {Wright, Scott and Street, John},
+title = {Democracy, deliberation and design: the case of online
+discussion forums}, journal = {New media & society}, year = {2007},
+volume = {9}, number = {5}, pages = {849--869}, doi =
+{10.1177/1461444807081230}, file =
+{:https://journals.sagepub.com/doi/pdf/10.1177/1461444807081230?casa\_token=z34aBQNM2McAAAAA:kNW3CH5wEgg-P-Hv44UOg4K8J0xN9UY5rbpLViloMwyNNVleX0c3gKEpGXZmOw7g-Uo5AG1FXXQFFQ:URL},
+publisher = {Sage Publications Sage UK: London, England}, timestamp =
+{2020-11-30}, }
+
+@Article{wieringa2006methodological, author = {Wieringa, Roel J and
+Heerkens, Johannes MG}, title = {The methodological soundness of
+requirements engineering papers: a conceptual framework and two case
+studies}, journal = {Requirements engineering}, year = {2006}, volume =
+{11}, number = {4}, pages = {295--307}, doi =
+{10.1007/s00766-006-0037-6}, file =
+{:https://idp.springer.com/authorize/casa?redirect\_uri=https://link.springer.com/content/pdf/10.1007/s00766-006-0037-6.pdf&casa\_token=Sk6yhBYLE5EAAAAA:yR5Bg5KCzSv1mdDv4nGbgwAvB3JQP4eRTc9qzjWhAWkgMRZyqDup33y4BNd-1Hzmv06z4-jQShYQW5xJpg:URL},
+publisher = {Springer}, timestamp = {2020-11-30}, }
+
+@InProceedings{yang2020strong, author = {Yang, Zuozhi and
+Onta{\~n}{'o}n, Santiago}, title = {Are Strong Policies Also Good
+Playout Policies? Playout Policy Optimization for RTS Games}, booktitle
+= {Proceedings of the AAAI Conference on Artificial Intelligence and
+Interactive Digital Entertainment}, year = {2020}, volume = {16}, number
+= {1}, pages = {144--150}, file =
+{:https://ojs.aaai.org/index.php/AIIDE/article/download/7423/7345:URL},
+timestamp = {2020-11-30}, }
+
+@Article{fournier2019delibanalysis, author = {Fournier-Tombs, Eleonore
+and Di Marzo Serugendo, Giovanna}, title = {DelibAnalysis: Understanding
+the quality of online political discourse with machine learning},
+journal = {Journal of Information Science}, year = {2019}, pages =
+{0165551519871828}, doi = {10.1177/0165551519871828}, file =
+{:https://journals.sagepub.com/doi/pdf/10.1177/0165551519871828?casa\_token=pOhdM-F5mc8AAAAA:7r0yWLBJ4pRyj23S4sdZ8fI7\_7w1YIUtoP5Dz3TXgtk5BgmAwXUD1AvYUsMhUe5QK20taRK\_lfpyfQ:URL},
+publisher = {SAGE Publications Sage UK: London, England}, timestamp =
+{2020-12-02}, }
+
+@InProceedings{recasens2013linguistic, author = {Recasens, Marta and
+Danescu-Niculescu-Mizil, Cristian and Jurafsky, Dan}, title =
+{Linguistic models for analyzing and detecting biased language},
+booktitle = {Proceedings of the 51st Annual Meeting of the Association
+for Computational Linguistics (Volume 1: Long Papers)}, year = {2013},
+pages = {1650--1659}, file =
+{:https://www.aclweb.org/anthology/P13-1162.pdf:URL}, timestamp =
+{2020-12-02}, }
+
+@Article{lee2020biobert, author = {Lee, Jinhyuk and Yoon, Wonjin and
+Kim, Sungdong and Kim, Donghyeon and Kim, Sunkyu and So, Chan Ho and
+Kang, Jaewoo}, title = {BioBERT: a pre-trained biomedical language
+representation model for biomedical text mining}, journal =
+{Bioinformatics}, year = {2020}, volume = {36}, number = {4}, pages =
+{1234--1240}, doi = {10.1093/bioinformatics/btz682}, file =
+{:https://academic.oup.com/bioinformatics/article/36/4/1234/5566506:URL},
+publisher = {Oxford University Press}, timestamp = {2020-12-02}, }
+
+@Article{liu2019text, author = {Liu, Yang and Lapata, Mirella}, title =
+{Text summarization with pretrained encoders}, journal = {arXiv preprint
+arXiv:1908.08345}, year = {2019}, doi = {10.18653/v1/d19-1387}, file =
+{:https://arxiv.org/pdf/1908.08345.pdf:URL}, timestamp = {2020-12-02}, }
+
+@InProceedings{gurkan2009common, author = {G{"u}rkan, Ali and Iandoli,
+Luca}, title = {Common ground building in an argumentation-based online
+collaborative environment}, booktitle = {Proceedings of the
+International Conference on Management of Emergent Digital EcoSystems},
+year = {2009}, pages = {320--324}, doi = {10.1145/1643823.1643882}, file
+=
+{:https://dl.acm.org/doi/pdf/10.1145/1643823.1643882?casa\_token=x3sOJB0H9cMAAAAA:6XohLRP1ym2vnakV1jNtOohSLCYHZruSdv0cZrFmE-JGjXf7nN5w4K44A-6-P2iF1rh5ZVy7gw89rQ:URL},
+timestamp = {2020-12-02}, }
+
+@InProceedings{van2016grasp, author = {van Son, Chantal and Caselli,
+Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo,
+Lora and Vossen, Piek}, booktitle = {Proceedings of the Tenth
+International Conference on Language Resources and Evaluation
+(LREC'16)}, title = {GRaSP: A Multilayered Annotation Scheme for
+Perspectives}, year = {2016}, pages = {1177--1184}, timestamp =
+{2020-12-02}, url =
+{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153877}, }
+
+@Article{rospocher2016building, author = {Rospocher, Marco and van Erp,
+Marieke and Vossen, Piek and Fokkens, Antske and Aldabe, Itziar and
+Rigau, German and Soroa, Aitor and Ploeger, Thomas and Bogaard, Tessel},
+title = {Building event-centric knowledge graphs from news}, journal =
+{Journal of Web Semantics}, year = {2016}, volume = {37}, pages =
+{132--151}, file =
+{:https://www.sciencedirect.com/science/article/pii/S1570826815001456?casa\_token=r2Akv3OeJwkAAAAA:CHBGE7HoXcI296MGarmuSlQ4QZR6vYFZRipEoO\_-ae2IZUeyYx-JTILyh30yNZk-j9O0tcJ4HJY:URL},
+publisher = {Elsevier}, timestamp = {2020-12-04}, }
+
+@InProceedings{lugini2020contextual, author = {Lugini, Luca and Litman,
+Diane}, title = {Contextual Argument Component Classification for Class
+Discussions}, booktitle = {Proceedings of the 28th International
+Conference on Computational Linguistics}, year = {2020}, pages =
+{1475--1480}, file =
+{:https://www.aclweb.org/anthology/2020.coling-main.128.pdf:URL},
+timestamp = {2020-12-08}, }
+
+@Article{wambsganss2020corpus, author = {Wambsganss, Thiemo and Niklaus,
+Christina and S{"o}llner, Matthias and Handschuh, Siegfried and
+Leimeister, Jan Marco}, title = {A Corpus for Argumentative Writing
+Support in German}, journal = {arXiv preprint arXiv:2010.13674}, year =
+{2020}, file = {:https://arxiv.org/pdf/2010.13674.pdf:URL}, timestamp =
+{2020-12-08}, }
+
+@InProceedings{pereg2020syntactically, author = {Pereg, Oren and Korat,
+Daniel and Wasserblat, Moshe}, title = {Syntactically Aware Cross-Domain
+Aspect and Opinion Terms Extraction}, booktitle = {Proceedings of the
+28th International Conference on Computational Linguistics}, year =
+{2020}, pages = {1772--1777}, file =
+{:https://www.aclweb.org/anthology/2020.coling-main.158.pdf:URL},
+timestamp = {2020-12-08}, }
+
+@Article{kober2020aspectuality, author = {Kober, Thomas and Alikhani,
+Malihe and Stone, Matthew and Steedman, Mark}, title = {Aspectuality
+Across Genre: A Distributional Semantics Approach}, journal = {arXiv
+preprint arXiv:2011.00345}, year = {2020}, file =
+{:https://arxiv.org/pdf/2011.00345:URL}, timestamp = {2020-12-08}, }
+
+@Article{del2020words, author = {Del Tredici, Marco and Fern{'a}ndez,
+Raquel}, title = {Words are the Window to the Soul: Language-based User
+Representations for Fake News Detection}, journal = {arXiv preprint
+arXiv:2011.07389}, year = {2020}, file =
+{:https://arxiv.org/pdf/2011.07389.pdf:URL}, timestamp = {2020-12-08}, }
+
+@InProceedings{alhindi2020fact, author = {Alhindi, Tariq and Muresan,
+Smaranda and Preo{\c{t}}iuc-Pietro, Daniel}, title = {Fact vs. Opinion:
+the Role of Argumentation Features in News Classification}, booktitle =
+{Proceedings of the 28th International Conference on Computational
+Linguistics}, year = {2020}, pages = {6139--6149}, file =
+{:https://www.aclweb.org/anthology/2020.coling-main.540.pdf:URL},
+timestamp = {2020-12-08}, }
+
+@Article{zhu2020examining, author = {Zhu, Zining and Pan, Chuer and
+Abdalla, Mohamed and Rudzicz, Frank}, title = {Examining the rhetorical
+capacities of neural language models}, journal = {arXiv preprint
+arXiv:2010.00153}, year = {2020}, doi =
+{10.18653/v1/2020.blackboxnlp-1.3}, file =
+{:https://arxiv.org/pdf/2010.00153:URL}, timestamp = {2020-12-09}, }
+
+@Article{chakrabarty2020ampersand, author = {Chakrabarty, Tuhin and
+Hidey, Christopher and Muresan, Smaranda and Mckeown, Kathy and Hwang,
+Alyssa}, title = {AMPERSAND: Argument Mining for PERSuAsive oNline
+Discussions}, journal = {arXiv preprint arXiv:2004.14677}, year =
+{2020}, doi = {10.18653/v1/d19-1291}, file =
+{:https://arxiv.org/pdf/2004.14677:URL}, timestamp = {2020-12-09}, }
+
+@Misc{reed2016iat, author = {Reed, Chris and Budzynska, Katarzyna and
+Visser, Jacky}, title = {IAT annotation guidelines for US2016}, year =
+{2016}, publisher = {Centre for Argument Technology}, timestamp =
+{2020-12-09}, }
+
+@Article{akata2020research, author = {Akata, Zeynep and Balliet, Dan and
+De Rijke, Maarten and Dignum, Frank and Dignum, Virginia and Eiben,
+Guszti and Fokkens, Antske and Grossi, Davide and Hindriks, Koen and
+Hoos, Holger and others}, journal = {Computer}, title = {A Research
+Agenda for Hybrid Intelligence: Augmenting Human Intellect With
+Collaborative, Adaptive, Responsible, and Explainable Artificial
+Intelligence}, year = {2020}, number = {8}, pages = {18--28}, volume =
+{53}, publisher = {IEEE}, url =
+{https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153877}, }
+
+@InProceedings{smith2017vaccine, author = {Smith, Tara C}, booktitle =
+{Open forum infectious diseases}, title = {Vaccine rejection and
+hesitancy: a review and call to action}, year = {2017}, number = {3},
+organization = {Oxford University Press}, volume = {4}, doi =
+{10.1093/ofid/ofx146}, url =
+{https://watermark.silverchair.com/ofx146.pdf?token=AQECAHi208BE49Ooan9kkhW\_Ercy7Dm3ZL\_9Cf3qfKAc485ysgAAAqAwggKcBgkqhkiG9w0BBwagggKNMIICiQIBADCCAoIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMGcU\_YwREpS107vOCAgEQgIICU-ihzAj-n1W7-5szB6DEN20fAFmSv79WH8StLMCX6bQs\_5Wv4TztL0bS90qFqdmCvCg7GKF\_NA5f2OgPO7Qz9w8dmsqaxlO3r\_u0NEzp2CeBkxQF9xFn3YBVdxG95joUHiE9KMWcghMSnQY6oUioET7TSUGVSTdWo-hUo6-ixbq21oyvMeKyOIw6\_22h0PRolVxIJshwflkY6QM-g1vKCS9lil9Ah5mGwLvQxvl1EoHHRg\_F1oCr-tRzw92pka6ykxfU8QWNCyZoGRbe7VTC7PTEdaDRBEEafSLMG2E1ylGhVuy2\_1u3DxwtC86mgHEGkteaqkeMDG5HcmUx1uTOmbqHDR0KP87dTe6gCuSsqEI6kb0tIkn0kUJBQmmbQZBVYb\_SpGYLN51b4Y7V90rmBDJSoyySTriAuTCz3O\_0lf9lWDh1OlZQqskgABd2bV6vEkYYQeewprSK6uOzKpYsKA32WbMdJg2ZUxcQfqimqvTeUb9F1lwoIHV3b\_2mAUATLqAjR4LMN0FA7F4HuhBllHMeve64BVF4Uzh5ssrPSs\_6EYEv6xT7GsRXGLli3o5SxmJ3Jl67Z9TcWdIJE2nPrwsl-HgAa2uDVdFSrcZxb17WOrgEH7cxHVfsI\_FvWOBB7sgvw34A0L3qb3Vy32DFbiuwmjPqaZO3HcGStJzUhX2yS0TH3LJl\_p0zZwFCnmjJhm0WvRM4Rrd67Pp7CT7zGsRiD2LU-TrnseXJUL9\_MnbgToIKUaZX6qFqPzjVjnWqTJQBVRYR4acVoZNwFXBCJDo1Ujo},
+}
+
+@Article{bugert2020cross, author = {Bugert, Michael and Reimers, Nils
+and Gurevych, Iryna}, journal = {arXiv preprint arXiv:2011.12249}, title
+= {Cross-Document Event Coreference Resolution Beyond Corpus-Tailored
+Systems}, year = {2020}, url = {https://arxiv.org/pdf/2011.12249.pdf}, }
+
+@Comment{jabref-meta: databaseType:bibtex;}
