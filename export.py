@@ -38,6 +38,7 @@ def extract_common_info(entry):
     title = entry['title']
     year = entry['year'] if 'year' in entry else entry['date'].split('-')[0]
     link = parse_link(entry['file'])
+    print(link)
     timestamp = datetime.datetime.strptime(entry['timestamp'], "%Y-%m-%d")
     return authors, title, year, link, timestamp
 
