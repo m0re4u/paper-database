@@ -1,15 +1,15 @@
 # Papers
 ## 2020-12-16
 
-- Fishkin, James and Garg, Nikhil and Gelauff, Lodewijk and Goel, Ashish and Munagala, Kamesh and Sakshuwong, Sukolsak and Siu, Alice and Yandamuri, Sravya (2018): __Deliberative democracy with the Online Deliberation platform__ Find at: [LINK]()
+- Fishkin, James and Garg, Nikhil and Gelauff, Lodewijk and Goel, Ashish and Munagala, Kamesh and Sakshuwong, Sukolsak and Siu, Alice and Yandamuri, Sravya (2018): __Deliberative democracy with the Online Deliberation platform__ Find at: [LINK](https://www.humancomputation.com/2019/assets/papers/144.pdf)
 
 ## 2020-12-15
 
-- Akata, Zeynep and Balliet, Dan and De Rijke, Maarten and Dignum, Frank and Dignum, Virginia and Eiben, Guszti and Fokkens, Antske and Grossi, Davide and Hindriks, Koen and Hoos, Holger and others (2020): __A Research Agenda for Hybrid Intelligence: Augmenting Human Intellect With Collaborative, Adaptive, Responsible, and Explainable Artificial Intelligence__ Find at: [LINK]()
+- Akata, Zeynep and Balliet, Dan and De Rijke, Maarten and Dignum, Frank and Dignum, Virginia and Eiben, Guszti and Fokkens, Antske and Grossi, Davide and Hindriks, Koen and Hoos, Holger and others (2020): __A Research Agenda for Hybrid Intelligence: Augmenting Human Intellect With Collaborative, Adaptive, Responsible, and Explainable Artificial Intelligence__ Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153877)
 
-- Smith, Tara C (2017): __Vaccine rejection and hesitancy: a review and call to action__ Find at: [LINK]()
+- Smith, Tara C (2017): __Vaccine rejection and hesitancy: a review and call to action__ Find at: [LINK](https://watermark.silverchair.com/ofx146.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqAwggKcBgkqhkiG9w0BBwagggKNMIICiQIBADCCAoIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMGcU_YwREpS107vOCAgEQgIICU-ihzAj-n1W7-5szB6DEN20fAFmSv79WH8StLMCX6bQs_5Wv4TztL0bS90qFqdmCvCg7GKF_NA5f2OgPO7Qz9w8dmsqaxlO3r_u0NEzp2CeBkxQF9xFn3YBVdxG95joUHiE9KMWcghMSnQY6oUioET7TSUGVSTdWo-hUo6-ixbq21oyvMeKyOIw6_22h0PRolVxIJshwflkY6QM-g1vKCS9lil9Ah5mGwLvQxvl1EoHHRg_F1oCr-tRzw92pka6ykxfU8QWNCyZoGRbe7VTC7PTEdaDRBEEafSLMG2E1ylGhVuy2_1u3DxwtC86mgHEGkteaqkeMDG5HcmUx1uTOmbqHDR0KP87dTe6gCuSsqEI6kb0tIkn0kUJBQmmbQZBVYb_SpGYLN51b4Y7V90rmBDJSoyySTriAuTCz3O_0lf9lWDh1OlZQqskgABd2bV6vEkYYQeewprSK6uOzKpYsKA32WbMdJg2ZUxcQfqimqvTeUb9F1lwoIHV3b_2mAUATLqAjR4LMN0FA7F4HuhBllHMeve64BVF4Uzh5ssrPSs_6EYEv6xT7GsRXGLli3o5SxmJ3Jl67Z9TcWdIJE2nPrwsl-HgAa2uDVdFSrcZxb17WOrgEH7cxHVfsI_FvWOBB7sgvw34A0L3qb3Vy32DFbiuwmjPqaZO3HcGStJzUhX2yS0TH3LJl_p0zZwFCnmjJhm0WvRM4Rrd67Pp7CT7zGsRiD2LU-TrnseXJUL9_MnbgToIKUaZX6qFqPzjVjnWqTJQBVRYR4acVoZNwFXBCJDo1Ujo)
 
-- Bugert, Michael and Reimers, Nils and Gurevych, Iryna (2020): __Cross-Document Event Coreference Resolution Beyond Corpus-Tailored Systems__ Find at: [LINK]()
+- Bugert, Michael and Reimers, Nils and Gurevych, Iryna (2020): __Cross-Document Event Coreference Resolution Beyond Corpus-Tailored Systems__ Find at: [LINK](https://arxiv.org/pdf/2011.12249.pdf)
 
 ## 2020-12-09
 
@@ -17,7 +17,7 @@
 
 - Chakrabarty, Tuhin and Hidey, Christopher and Muresan, Smaranda and Mckeown, Kathy and Hwang, Alyssa (2020): __AMPERSAND: Argument Mining for PERSuAsive oNline Discussions__ Find at: [LINK](https://arxiv.org/pdf/2004.14677)
 
-- Reed, Chris and Budzynska, Katarzyna and Visser, Jacky (2016): __IAT annotation guidelines for US2016__ Find at: [LINK]()
+- Reed, Chris and Budzynska, Katarzyna and Visser, Jacky (2016): __IAT annotation guidelines for US2016__ 
 
 ## 2020-12-08
 
@@ -49,7 +49,7 @@
 
 - G{\"u}rkan, Ali and Iandoli, Luca (2009): __Common ground building in an argumentation-based online collaborative environment__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1643823.1643882?casa_token=x3sOJB0H9cMAAAAA:6XohLRP1ym2vnakV1jNtOohSLCYHZruSdv0cZrFmE-JGjXf7nN5w4K44A-6-P2iF1rh5ZVy7gw89rQ)
 
-- van Son, Chantal and Caselli, Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo, Lora and Vossen, Piek (2016): __GRaSP: A Multilayered Annotation Scheme for Perspectives__ Find at: [LINK]()
+- van Son, Chantal and Caselli, Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo, Lora and Vossen, Piek (2016): __GRaSP: A Multilayered Annotation Scheme for Perspectives__ Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153877)
 
 ## 2020-11-30
 
@@ -233,7 +233,7 @@
 
 - Coleman, Stephen and Moss, Giles (2012): __Under construction: The field of online deliberation research__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/19331681.2011.635957?casa_token=ZaPu9WcQGuQAAAAA:T00wpHaDOk_53eU0OvKCvFlLWzdI0MsY2nS6T9McQ-ErnZTaoSNMsmBa8B_JQHdoXV3lufN6PusSYw)
 
-- Jonsson, Magnus E and {\AA}str{\"o}m, Joachim (2014): __The challenges for online deliberation research: A literature review__ Find at: [LINK]()
+- Jonsson, Magnus E and {\AA}str{\"o}m, Joachim (2014): __The challenges for online deliberation research: A literature review__ 
 
 - Fokkens, Antske and Vossen, Piek and Rospocher, Marco and Hoekstra, Rinke and van Hage, Willem R and Kessler, Fondazione Bruno (2017): __Grasp: grounded representation and source perspective__ Find at: [LINK](https://www.aclweb.org/anthology/L16-1187.pdf)
 
@@ -291,7 +291,7 @@
 
 - Maes, Pattie (1995): __Agents that reduce work and information overload__ Find at: [LINK](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2096&rep=rep1&type=pdf)
 
-- Eppler, Martin J and Mengis, Jeanne (2008): __The concept of information overload-a review of literature from organization science, accounting, marketing, mis, and related disciplines (2004)__ Find at: [LINK]()
+- Eppler, Martin J and Mengis, Jeanne (2008): __The concept of information overload-a review of literature from organization science, accounting, marketing, mis, and related disciplines (2004)__ 
 
 - Carreras, Xavier and M{\`a}rquez, Llu{\'\i}s (2005): __Introduction to the CoNLL-2005 shared task: Semantic role labeling__ Find at: [LINK](https://www.aclweb.org/anthology/W05-0620.pdf)
 

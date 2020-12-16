@@ -19,8 +19,6 @@ def parse_link(link_string):
     """
     Parse the URL in the bibtex entry to a resolvable one.
     """
-    if len(link_string) == 0:
-        return ""
     REMOVE_PATTERNS = ["\\", ":URL"]
     new_string = link_string
     if link_string[0] == ":":
@@ -37,10 +35,13 @@ def extract_common_info(entry):
     authors = entry['author']
     title = entry['title']
     year = entry['year'] if 'year' in entry else entry['date'].split('-')[0]
-    link = parse_link(entry['file'])
-    print(link)
+    if len(entry['file']) > 0:
+        link_string = f"Find at: [LINK]({parse_link(entry['file'])})"
+    else:
+        print(f"No link for entry: {entry['title']}")
+        link_string = ""
     timestamp = datetime.datetime.strptime(entry['timestamp'], "%Y-%m-%d")
-    return authors, title, year, link, timestamp
+    return authors, title, year, link_string, timestamp
 
 
 def write_md(bib_entries, outfile):
@@ -62,7 +63,7 @@ def write_md(bib_entries, outfile):
                 current_timestamp = timestamp
 
             # Write entry
-            f.write(f"- {authors} ({year}): __{title}__ Find at: [LINK]({link})\n\n")
+            f.write(f"- {authors} ({year}): __{title}__ {link}\n\n")
     print("Done exporting!")
 
 if __name__ == "__main__":
