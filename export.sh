@@ -1,6 +1,6 @@
 #!/bin/bash
 
-METHOD=jabref
+METHOD=python
 
 echo -e "\033[0;32mRunning export in $METHOD...\033[0m"
 if [ $METHOD == jabref ]; then

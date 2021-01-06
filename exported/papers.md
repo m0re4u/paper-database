@@ -1,4 +1,12 @@
 # Papers
+## 2021-01-06
+
+- Lu, Jing and Ng, Vincent (2018): __Event Coreference Resolution: A Survey of Two Decades of Research.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0773.pdf)
+
+## 2021-01-04
+
+- Feger, Marc and Steimann, Jan and Meter, Christian (2020): __Structure or Content? Towards Assessing Argument Relevance__ Find at: [LINK](https://wwwcn.cs.uni-duesseldorf.de/publications/publications/library/Feger2020a.pdf)
+
 ## 2020-12-16
 
 - Fishkin, James and Garg, Nikhil and Gelauff, Lodewijk and Goel, Ashish and Munagala, Kamesh and Sakshuwong, Sukolsak and Siu, Alice and Yandamuri, Sravya (2018): __Deliberative democracy with the Online Deliberation platform__ Find at: [LINK](https://www.humancomputation.com/2019/assets/papers/144.pdf)
@@ -17,7 +25,7 @@
 
 - Chakrabarty, Tuhin and Hidey, Christopher and Muresan, Smaranda and Mckeown, Kathy and Hwang, Alyssa (2020): __AMPERSAND: Argument Mining for PERSuAsive oNline Discussions__ Find at: [LINK](https://arxiv.org/pdf/2004.14677)
 
-- Reed, Chris and Budzynska, Katarzyna and Visser, Jacky (2016): __IAT annotation guidelines for US2016__ 
+- Reed, Chris and Budzynska, Katarzyna and Visser, Jacky (2016): __IAT annotation guidelines for US2016__ Find at: [LINK](http://arg.tech/~jacky/US2016-guidelines.pdf)
 
 ## 2020-12-08
 
