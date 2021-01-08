@@ -1,4 +1,8 @@
 # Papers
+## 2021-01-08
+
+- Atkinson, Katie and Baroni, Pietro and Giacomin, Massimiliano and Hunter, Anthony and Prakken, Henry and Reed, Chris and Simari, Guillermo and Thimm, Matthias and Villata, Serena (2017): __Towards artificial argumentation__ Find at: [LINK](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2704/2645)
+
 ## 2021-01-06
 
 - Lu, Jing and Ng, Vincent (2018): __Event Coreference Resolution: A Survey of Two Decades of Research.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0773.pdf)
