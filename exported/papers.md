@@ -1,4 +1,10 @@
 # Papers
+## 2021-01-11
+
+- Tang, Yuqing and Parsons, Simon (2005): __Argumentation-based dialogues for deliberation__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1082473.1082557?casa_token=SCkEz7mQDBsAAAAA:TloULqYGS0W8pcd3gr_0hsrDQ1ZrNZmntCJzQZOVI65po5PQDDQM5m4hhROZYJMBKxKYZJwG_4B8Xw)
+
+- Mahesar, Quratul-ain and Parsons, Simon (2020): __Argument Schemes for Explainable Planning__ Find at: [LINK](https://arxiv.org/pdf/2005.05849)
+
 ## 2021-01-08
 
 - Atkinson, Katie and Baroni, Pietro and Giacomin, Massimiliano and Hunter, Anthony and Prakken, Henry and Reed, Chris and Simari, Guillermo and Thimm, Matthias and Villata, Serena (2017): __Towards artificial argumentation__ Find at: [LINK](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2704/2645)
