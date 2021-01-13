@@ -1,4 +1,10 @@
 # Papers
+## 2021-01-13
+
+- William Fedus and Barret Zoph and Noam Shazeer (2021): __Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity__ Find at: [LINK](https://arxiv.org/pdf/2101.03961.pdf)
+
+- Goebel, Randy and Chander, Ajay and Holzinger, Katharina and Lecue, Freddy and Akata, Zeynep and Stumpf, Simone and Kieseberg, Peter and Holzinger, Andreas (2018): __Explainable AI: the new 42?__ Find at: [LINK](https://openaccess.city.ac.uk/id/eprint/20659/1/)
+
 ## 2021-01-11
 
 - Tang, Yuqing and Parsons, Simon (2005): __Argumentation-based dialogues for deliberation__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1082473.1082557?casa_token=SCkEz7mQDBsAAAAA:TloULqYGS0W8pcd3gr_0hsrDQ1ZrNZmntCJzQZOVI65po5PQDDQM5m4hhROZYJMBKxKYZJwG_4B8Xw)
