@@ -7,6 +7,8 @@
 
 - Brown, Tom B and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others (2020): __Language models are few-shot learners__ Find at: [LINK](https://arxiv.org/pdf/2005.14165)
 
+- Mirko, LENZ and SAHITAJ, Premtim and KALLENBERG, Sean and COORS, Christopher and DUMANI, Lorik and SCHENKEL, Ralf and BERGMANN, Ralph (2020): __Towards an Argument Mining Pipeline Transforming Texts to Argument Graphs__ Find at: [LINK](https://arxiv.org/pdf/2006.04562)
+
 ## 2021-01-13
 
 - William Fedus and Barret Zoph and Noam Shazeer (2021): __Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity__ Find at: [LINK](https://arxiv.org/pdf/2101.03961.pdf)
