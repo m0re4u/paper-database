@@ -9,6 +9,8 @@
 
 - Mirko, LENZ and SAHITAJ, Premtim and KALLENBERG, Sean and COORS, Christopher and DUMANI, Lorik and SCHENKEL, Ralf and BERGMANN, Ralph (2020): __Towards an Argument Mining Pipeline Transforming Texts to Argument Graphs__ Find at: [LINK](https://arxiv.org/pdf/2006.04562)
 
+- Mochales, Raquel and Moens, Marie-Francine (2011): __Argumentation mining__ Find at: [LINK](https://www.researchgate.net/profile/Marie-Francine_Moens/publication/225336483_Argumentation_Mining/links/54b7b8850cf2bd04be33c0f8.pdf)
+
 ## 2021-01-13
 
 - William Fedus and Barret Zoph and Noam Shazeer (2021): __Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity__ Find at: [LINK](https://arxiv.org/pdf/2101.03961.pdf)
