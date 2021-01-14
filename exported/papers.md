@@ -1,4 +1,12 @@
 # Papers
+## 2021-01-14
+
+- Niven, Timothy and Kao, Hung-Yu (2019): __Probing Neural Network Comprehension of Natural Language Arguments__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1459.pdf)
+
+- Habernal, Ivan and Wachsmuth, Henning and Gurevych, Iryna and Stein, Benno (2018): __SemEval-2018 task 12: The argument reasoning comprehension task__ Find at: [LINK](https://www.aclweb.org/anthology/S18-1121.pdf)
+
+- Brown, Tom B and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others (2020): __Language models are few-shot learners__ Find at: [LINK](https://arxiv.org/pdf/2005.14165)
+
 ## 2021-01-13
 
 - William Fedus and Barret Zoph and Noam Shazeer (2021): __Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity__ Find at: [LINK](https://arxiv.org/pdf/2101.03961.pdf)
