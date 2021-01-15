@@ -1,4 +1,16 @@
 # Papers
+## 2021-01-15
+
+- Lytos, Anastasios and Lagkas, Thomas and Sarigiannidis, Panagiotis and Bontcheva, Kalina (2019): __The evolution of argumentation mining: From models to social media and emerging tools__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S030645731930024X?casa_token=K-CpSDiIrlMAAAAA:o5bPK0HiDShFijOWsxK2_pPt5BNndXVv-MehY1ePA6OEfOqNv0qj8FqzEpU_sYMsobicajk8htk)
+
+- Cantador, Iv{\'a}n and Cort{\'e}s-Cediel, Mar{\'\i}a E and Fern{\'a}ndez, Miriam (2020): __Exploiting Open Data to analyze discussion and controversy in online citizen participation__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0306457320307962?casa_token=7Ztjhx1_TzsAAAAA:wxuMuwuNLhqGjB5S4GOENRq6ER-lS_epjRlLkBHWgpSSFGpdFLTCYctZ1qrkx-PWKXj-NA_Kbpw)
+
+- Quijano-S{\'a}nchez, Lara and Cantador, Iv{\'a}n (): __Structured argumentation modeling and extraction: Understanding the semantics of parliamentary content__ Find at: [LINK](http://arantxa.ii.uam.es/~cantador/doc/2020/circle-structured20.pdf)
+
+- Bauwelinck, Nina and Lefever, Els (2020): __Annotating Topics, Stance, Argumentativeness and Claims in Dutch Social Media Comments: A Pilot Study__ Find at: [LINK](https://www.aclweb.org/anthology/2020.argmining-1.2.pdf)
+
+- Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and clustering of arguments with contextualized word embeddings__ Find at: [LINK](https://arxiv.org/pdf/1906.09821.pdf)
+
 ## 2021-01-14
 
 - Niven, Timothy and Kao, Hung-Yu (2019): __Probing Neural Network Comprehension of Natural Language Arguments__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1459.pdf)
