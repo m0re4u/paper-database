@@ -1,4 +1,14 @@
 # Papers
+## 2021-01-18
+
+- Stockmann, Daniela and Luo, Ting and Shen, Mingming (2020): __Designing authoritarian deliberation: how social media platforms influence political talk in China__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/13510347.2019.1679771?casa_token=6WBsxV_dz3cAAAAA:zz-PL3BXN4Whe_S4E0xxIBb-N304Y8yL-wUuozj1cfGlEGUhOFnw6g80WyVh1y3oXviL7hlT4Xd7pQ)
+
+- De Liddo, Anna and Buckingham Shum, Simon (2013): __Improving online deliberation with argument network visualization__ Find at: [LINK](https://oro.open.ac.uk/38003/1/DeLiddo-DC8-2013.pdf)
+
+- Wise, Kevin and Hamman, Brian and Thorson, Kjerstin (2006): __Moderation, response rate, and message interactivity: Features of online communities and their effects on intent to participate__ Find at: [LINK](https://academic.oup.com/jcmc/article-pdf/12/1/24/22316436/jjcmcom0024.pdf)
+
+- Gr{\"o}nlund, {\AA}ke and {\AA}str{\"o}m, Joachim (2009): __DoIT right: Measuring effectiveness of different eConsultation designs__ 
+
 ## 2021-01-15
 
 - Lytos, Anastasios and Lagkas, Thomas and Sarigiannidis, Panagiotis and Bontcheva, Kalina (2019): __The evolution of argumentation mining: From models to social media and emerging tools__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S030645731930024X?casa_token=K-CpSDiIrlMAAAAA:o5bPK0HiDShFijOWsxK2_pPt5BNndXVv-MehY1ePA6OEfOqNv0qj8FqzEpU_sYMsobicajk8htk)

@@ -35,12 +35,12 @@ def extract_common_info(entry):
     authors = entry['author']
     title = entry['title']
     year = entry['year'] if 'year' in entry else entry['date'].split('-')[0]
+    timestamp = datetime.datetime.strptime(entry['timestamp'], "%Y-%m-%d")
     if len(entry['file']) > 0:
         link_string = f"Find at: [LINK]({parse_link(entry['file'])})"
     else:
-        print(f"No link for entry: {entry['title']}")
+        print(f"No link for entry added on {str(timestamp.strftime('%Y-%m-%d'))}: {entry['title']}")
         link_string = ""
-    timestamp = datetime.datetime.strptime(entry['timestamp'], "%Y-%m-%d")
     return authors, title, year, link_string, timestamp
 
 
