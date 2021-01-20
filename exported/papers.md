@@ -1,4 +1,8 @@
 # Papers
+## 2021-01-20
+
+- Cabrio, Elena and Villata, Serena (2014): __NoDE: A Benchmark of Natural Language Arguments.__ Find at: [LINK](http://comma2014.arg.dundee.ac.uk/res/pdfs/45-cabrio.pdf)
+
 ## 2021-01-18
 
 - Stockmann, Daniela and Luo, Ting and Shen, Mingming (2020): __Designing authoritarian deliberation: how social media platforms influence political talk in China__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/13510347.2019.1679771?casa_token=6WBsxV_dz3cAAAAA:zz-PL3BXN4Whe_S4E0xxIBb-N304Y8yL-wUuozj1cfGlEGUhOFnw6g80WyVh1y3oXviL7hlT4Xd7pQ)
