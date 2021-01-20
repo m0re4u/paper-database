@@ -3,6 +3,10 @@
 
 - Cabrio, Elena and Villata, Serena (2014): __NoDE: A Benchmark of Natural Language Arguments.__ Find at: [LINK](http://comma2014.arg.dundee.ac.uk/res/pdfs/45-cabrio.pdf)
 
+- Torsi, Benedetta and Morante, Roser (2018): __Annotating Claims in the Vaccination Debate__ Find at: [LINK](https://www.aclweb.org/anthology/2020.lrec-1.611.pdf)
+
+- Rosenthal, Sara and McKeown, Kathleen (2012): __Detecting opinionated claims in online discussions__ Find at: [LINK](https://ieeexplore.ieee.org/iel5/6335567/6337075/06337079.pdf?casa_token=195hf6fB9twAAAAA:u5LtQ8mOQM67liLQ4USWLmry0qlCZCcUcEsjAOCIRkwoiOoZ7G7DbvYj2qk77J3KgtTfnqQc9V8)
+
 ## 2021-01-18
 
 - Stockmann, Daniela and Luo, Ting and Shen, Mingming (2020): __Designing authoritarian deliberation: how social media platforms influence political talk in China__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/13510347.2019.1679771?casa_token=6WBsxV_dz3cAAAAA:zz-PL3BXN4Whe_S4E0xxIBb-N304Y8yL-wUuozj1cfGlEGUhOFnw6g80WyVh1y3oXviL7hlT4Xd7pQ)
