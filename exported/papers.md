@@ -7,6 +7,10 @@
 
 - Rosenthal, Sara and McKeown, Kathleen (2012): __Detecting opinionated claims in online discussions__ Find at: [LINK](https://ieeexplore.ieee.org/iel5/6335567/6337075/06337079.pdf?casa_token=195hf6fB9twAAAAA:u5LtQ8mOQM67liLQ4USWLmry0qlCZCcUcEsjAOCIRkwoiOoZ7G7DbvYj2qk77J3KgtTfnqQc9V8)
 
+- Al Khatib, Khalid and Wachsmuth, Henning and Kiesel, Johannes and Hagen, Matthias and Stein, Benno (2016): __A news editorial corpus for mining argumentation strategies__ Find at: [LINK](https://www.aclweb.org/anthology/C16-1324.pdf)
+
+- Al Khatib, Khalid and Wachsmuth, Henning and Hagen, Matthias and K{\"o}hler, Jonas and Stein, Benno (2016): __Cross-domain mining of argumentative text through distant supervision__ Find at: [LINK](https://www.aclweb.org/anthology/N16-1165.pdf)
+
 ## 2021-01-18
 
 - Stockmann, Daniela and Luo, Ting and Shen, Mingming (2020): __Designing authoritarian deliberation: how social media platforms influence political talk in China__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/13510347.2019.1679771?casa_token=6WBsxV_dz3cAAAAA:zz-PL3BXN4Whe_S4E0xxIBb-N304Y8yL-wUuozj1cfGlEGUhOFnw6g80WyVh1y3oXviL7hlT4Xd7pQ)
