@@ -3,6 +3,8 @@
 
 - Van Harmelen, Frank and Teije, Annette ten (2019): __A boxology of design patterns for hybrid learning and reasoning systems__ Find at: [LINK](https://arxiv.org/pdf/1905.12389)
 
+- Darwiche, Adnan (2018): __Human-level intelligence or animal-like abilities?__ Find at: [LINK](https://ai.dmi.unibas.ch/research/reading_group/darwiche-arxiv2017.pdf)
+
 ## 2021-01-21
 
 - Stab, Christian and Gurevych, Iryna (2014): __Annotating argument components and relations in persuasive essays__ Find at: [LINK](https://www.aclweb.org/anthology/C14-1142.pdf)
