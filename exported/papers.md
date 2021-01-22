@@ -1,4 +1,18 @@
 # Papers
+## 2021-01-22
+
+- Van Harmelen, Frank and Teije, Annette ten (2019): __A boxology of design patterns for hybrid learning and reasoning systems__ Find at: [LINK](https://arxiv.org/pdf/1905.12389)
+
+## 2021-01-21
+
+- Stab, Christian and Gurevych, Iryna (2014): __Annotating argument components and relations in persuasive essays__ Find at: [LINK](https://www.aclweb.org/anthology/C14-1142.pdf)
+
+- Rach, Niklas and Matsuda, Yuki and Daxenberger, Johannes and Ultes, Stefan and Yasumoto, Keiichi and Minker, Wolfgang (2020): __Evaluation of Argument Search Approaches in the Context of Argumentative Dialogue Systems__ Find at: [LINK](https://www.aclweb.org/anthology/2020.lrec-1.65.pdf)
+
+- Daxenberger, Johannes and Eger, Steffen and Habernal, Ivan and Stab, Christian and Gurevych, Iryna (2017): __What is the essence of a claim? Cross-domain claim identification__ Find at: [LINK](https://www.aclweb.org/anthology/D17-1218.pdf)
+
+- Mensonides, Jean-Christophe and Harispe, S{\'e}bastien and Montmain, Jacky and Thireau, V{\'e}ronique (2019): __Automatic Detection and Classification of Argument Components using Multi-task Deep Neural Network__ Find at: [LINK](https://hal.archives-ouvertes.fr/hal-02292945/file/2019_ICNLSP.pdf)
+
 ## 2021-01-20
 
 - Cabrio, Elena and Villata, Serena (2014): __NoDE: A Benchmark of Natural Language Arguments.__ Find at: [LINK](http://comma2014.arg.dundee.ac.uk/res/pdfs/45-cabrio.pdf)
