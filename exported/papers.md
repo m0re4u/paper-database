@@ -5,6 +5,8 @@
 
 - Stab, Christian and Gurevych, Iryna (2017): __Parsing argumentation structures in persuasive essays__ Find at: [LINK](https://www.mitpressjournals.org/doi/pdfplus/10.1162/COLI_a_00295)
 
+- Dusmanu, Mihai and Cabrio, Elena and Villata, Serena (2017): __Argument mining on Twitter: Arguments, facts and sources__ Find at: [LINK](https://www.aclweb.org/anthology/D17-1245.pdf)
+
 ## 2021-01-22
 
 - Van Harmelen, Frank and Teije, Annette ten (2019): __A boxology of design patterns for hybrid learning and reasoning systems__ Find at: [LINK](https://arxiv.org/pdf/1905.12389)
