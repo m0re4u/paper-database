@@ -3,6 +3,8 @@
 
 - Tangherlini, Timothy R and Shahsavari, Shadi and Shahbazi, Behnam and Ebrahimzadeh, Ehsan and Roychowdhury, Vwani (2020): __An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytelling on the web__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
 
+- Stab, Christian and Gurevych, Iryna (2017): __Parsing argumentation structures in persuasive essays__ Find at: [LINK](https://www.mitpressjournals.org/doi/pdfplus/10.1162/COLI_a_00295)
+
 ## 2021-01-22
 
 - Van Harmelen, Frank and Teije, Annette ten (2019): __A boxology of design patterns for hybrid learning and reasoning systems__ Find at: [LINK](https://arxiv.org/pdf/1905.12389)
@@ -23,7 +25,7 @@
 
 - Cabrio, Elena and Villata, Serena (2014): __NoDE: A Benchmark of Natural Language Arguments.__ Find at: [LINK](http://comma2014.arg.dundee.ac.uk/res/pdfs/45-cabrio.pdf)
 
-- Torsi, Benedetta and Morante, Roser (2018): __Annotating Claims in the Vaccination Debate__ Find at: [LINK](https://www.aclweb.org/anthology/2020.lrec-1.611.pdf)
+- Torsi, Benedetta and Morante, Roser (2018): __Annotating Claims in the Vaccination Debate__ Find at: [LINK](https://www.aclweb.org/anthology/W18-5207.pdf)
 
 - Rosenthal, Sara and McKeown, Kathleen (2012): __Detecting opinionated claims in online discussions__ Find at: [LINK](https://ieeexplore.ieee.org/iel5/6335567/6337075/06337079.pdf?casa_token=195hf6fB9twAAAAA:u5LtQ8mOQM67liLQ4USWLmry0qlCZCcUcEsjAOCIRkwoiOoZ7G7DbvYj2qk77J3KgtTfnqQc9V8)
 
