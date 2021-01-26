@@ -143,7 +143,7 @@
 
 - G{\"u}rkan, Ali and Iandoli, Luca (2009): __Common ground building in an argumentation-based online collaborative environment__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1643823.1643882?casa_token=x3sOJB0H9cMAAAAA:6XohLRP1ym2vnakV1jNtOohSLCYHZruSdv0cZrFmE-JGjXf7nN5w4K44A-6-P2iF1rh5ZVy7gw89rQ)
 
-- van Son, Chantal and Caselli, Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo, Lora and Vossen, Piek (2016): __GRaSP: A Multilayered Annotation Scheme for Perspectives__ Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153877)
+- van Son, Chantal and Caselli, Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo, Lora and Vossen, Piek (2016): __GRaSP: A Multilayered Annotation Scheme for Perspectives__ Find at: [LINK](https://www.aclweb.org/anthology/L16-1187.pdf)
 
 ## 2020-11-30
 
