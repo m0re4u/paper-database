@@ -1,4 +1,8 @@
 # Papers
+## 2021-01-27
+
+- Xie, Ning and Ras, Gabrielle and van Gerven, Marcel and Doran, Derek (2020): __Explainable deep learning: A field guide for the uninitiated__ Find at: [LINK](https://arxiv.org/pdf/2004.14545)
+
 ## 2021-01-25
 
 - Tangherlini, Timothy R and Shahsavari, Shadi and Shahbazi, Behnam and Ebrahimzadeh, Ehsan and Roychowdhury, Vwani (2020): __An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytelling on the web__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
