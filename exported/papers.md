@@ -11,6 +11,8 @@
 
 - Trautmann, Dietrich and Daxenberger, Johannes and Stab, Christian and Sch{\"u}tze, Hinrich and Gurevych, Iryna (2020): __Fine-grained argument unit recognition and classification__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/6438/6294)
 
+- Wambsganss, Thiemo and Molyndris, Nikolaos and S{\"o}llner, Matthias (2020): __Unlocking transfer learning in argumentation mining: A domain-independent modelling approach__ Find at: [LINK](https://www.alexandria.unisg.ch/259502/1/WI2020_ArguMining_final.pdf)
+
 ## 2021-01-25
 
 - Tangherlini, Timothy R and Shahsavari, Shadi and Shahbazi, Behnam and Ebrahimzadeh, Ehsan and Roychowdhury, Vwani (2020): __An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytelling on the web__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
