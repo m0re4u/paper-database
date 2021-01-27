@@ -3,6 +3,14 @@
 
 - Xie, Ning and Ras, Gabrielle and van Gerven, Marcel and Doran, Derek (2020): __Explainable deep learning: A field guide for the uninitiated__ Find at: [LINK](https://arxiv.org/pdf/2004.14545)
 
+- Visser, Jacky and Konat, Barbara and Duthie, Rory and Koszowy, Marcin and Budzynska, Katarzyna and Reed, Chris (2020): __Argumentation in the 2016 US presidential elections: annotated corpora of television debates and social media reaction__ Find at: [LINK](https://link.springer.com/article/10.1007/s10579-019-09446-8)
+
+- Ajjour, Yamen and Chen, Wei-Fan and Kiesel, Johannes and Wachsmuth, Henning and Stein, Benno (2017): __Unit segmentation of argumentative texts__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5115.pdf)
+
+- Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and Clustering of Arguments with Contextualized Word Embeddings__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1054.pdf)
+
+- Trautmann, Dietrich and Daxenberger, Johannes and Stab, Christian and Sch{\"u}tze, Hinrich and Gurevych, Iryna (2020): __Fine-grained argument unit recognition and classification__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/6438/6294)
+
 ## 2021-01-25
 
 - Tangherlini, Timothy R and Shahsavari, Shadi and Shahbazi, Behnam and Ebrahimzadeh, Ehsan and Roychowdhury, Vwani (2020): __An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytelling on the web__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
