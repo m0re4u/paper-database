@@ -13,6 +13,8 @@
 
 - Wambsganss, Thiemo and Molyndris, Nikolaos and S{\"o}llner, Matthias (2020): __Unlocking transfer learning in argumentation mining: A domain-independent modelling approach__ Find at: [LINK](https://www.alexandria.unisg.ch/259502/1/WI2020_ArguMining_final.pdf)
 
+- Lippi, Marco and Torroni, Paolo (2016): __Argumentation mining: State of the art and emerging trends__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/2850417?casa_token=z77-twQnvmgAAAAA:X5bzT5xyJFz6rQVjTuF_R7Sa_GLJ8ciJU6QxStcPPGAYbQPGW4ybGUBq5jVTnqRoAbJolyMhigrd5g)
+
 ## 2021-01-25
 
 - Tangherlini, Timothy R and Shahsavari, Shadi and Shahbazi, Behnam and Ebrahimzadeh, Ehsan and Roychowdhury, Vwani (2020): __An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytelling on the web__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879)
