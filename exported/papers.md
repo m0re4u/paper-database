@@ -1,4 +1,10 @@
 # Papers
+## 2021-02-09
+
+- Bartneck, Christoph and Belpaeme, Tony and Eyssel, Friederike and Kanda, Takayuki and Keijsers, Merel and {\v{S}}abanovi{\'c}, Selma (2020): __Human-robot interaction: An introduction__ 
+
+- Lazaridou, Angeliki and Kuncoro, Adhiguna and Gribovskaya, Elena and Agrawal, Devang and Liska, Adam and Terzi, Tayfun and Gimenez, Mai and d'Autume, Cyprien de Masson and Ruder, Sebastian and Yogatama, Dani and others (2021): __Pitfalls of Static Language Modelling__ Find at: [LINK](https://arxiv.org/pdf/2102.01951.pdf)
+
 ## 2021-01-27
 
 - Xie, Ning and Ras, Gabrielle and van Gerven, Marcel and Doran, Derek (2020): __Explainable deep learning: A field guide for the uninitiated__ Find at: [LINK](https://arxiv.org/pdf/2004.14545)
