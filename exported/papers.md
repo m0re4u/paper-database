@@ -1,4 +1,12 @@
 # Papers
+## 2021-02-23
+
+- Passon, Marco and Lippi, Marco and Serra, Giuseppe and Tasso, Carlo (2018): __Predicting the usefulness of Amazon reviews using off-the-shelf argumentation mining__ Find at: [LINK](https://arxiv.org/pdf/1809.08145)
+
+## 2021-02-22
+
+- Feng, Dieqiao and Gomes, Carla P and Selman, Bart (2020): __A novel automated curriculum strategy to solve hard sokoban planning instances__ Find at: [LINK](https://www.cs.cornell.edu/gomes/pdf/2020_feng_neurips_curriculum.pdf)
+
 ## 2021-02-11
 
 - Bentahar, Jamal and Moulin, Bernard and B{\'e}langer, Micheline (2010): __A taxonomy of argumentation models used for knowledge representation__ Find at: [LINK](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.480.5371&rep=rep1&type=pdf)
