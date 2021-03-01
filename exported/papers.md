@@ -323,7 +323,7 @@
 
 - Duthie, Rory and Budzynska, Katarzyna (2018): __A Deep Modular RNN Approach for Ethos Mining.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0562.pdf)
 
-- Claudia Schulz and Steffen Eger and Johannes Daxenberger and Tobias Kahse and Iryna Gurevych (2018): __Multi-Task Learning for Argumentation Mining in Low-Resource Settings__ Find at: [LINK](http://arxiv.org/pdf/1804.04083v3)
+- Schulz, Claudia and Eger, Steffen and Daxenberger, Johannes and Kahse, Tobias and Gurevych, Iryna (2018): __Multi-Task Learning for Argumentation Mining in Low-Resource Settings__ Find at: [LINK](http://arxiv.org/pdf/1804.04083v3)
 
 - Jo, Yohan and Visser, Jacky and Reed, Chris and Hovy, Eduard (2019): __A cascade model for proposition extraction in argumentation__ Find at: [LINK](https://discovery.dundee.ac.uk/ws/files/40857139/Final_Published_Version.pdf)
 
