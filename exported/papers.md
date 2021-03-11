@@ -1,4 +1,8 @@
 # Papers
+## 2021-03-11
+
+- Bastings, Jasmijn and Filippova, Katja (2020): __The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?__ Find at: [LINK](https://arxiv.org/pdf/2010.05607)
+
 ## 2021-02-23
 
 - Passon, Marco and Lippi, Marco and Serra, Giuseppe and Tasso, Carlo (2018): __Predicting the usefulness of Amazon reviews using off-the-shelf argumentation mining__ Find at: [LINK](https://arxiv.org/pdf/1809.08145)
