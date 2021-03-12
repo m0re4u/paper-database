@@ -1,4 +1,10 @@
 # Papers
+## 2021-03-12
+
+- Mayer, Tobias and Cabrio, Elena and Villata, Serena (2020): __Transformer-based argument mining for healthcare applications__ Find at: [LINK](https://hal.archives-ouvertes.fr/hal-03066688/document)
+
+- Galassi, Andrea and Lippi, Marco and Torroni, Paolo (2021): __Multi-Task Attentive Residual Networks for Argument Mining__ Find at: [LINK](https://arxiv.org/pdf/2102.12227.pdf)
+
 ## 2021-03-11
 
 - Bastings, Jasmijn and Filippova, Katja (2020): __The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?__ Find at: [LINK](https://arxiv.org/pdf/2010.05607)
