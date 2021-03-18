@@ -1,4 +1,8 @@
 # Papers
+## 2021-03-15
+
+- Isenmann, Severin and Reuter, Wolf D (1997): __IBIS—a convincing concept… but a lousy instrument?__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/263552.263602?casa_token=QrtOjNp_IqwAAAAA:nsBmbTGDF9v_ZnHHRh72g1DS_mwnWQ5vDfiwLjM2q0N7-2PakHbStzkqyqhRcoOe-lBXwkEFY-lklg)
+
 ## 2021-03-12
 
 - Mayer, Tobias and Cabrio, Elena and Villata, Serena (2020): __Transformer-based argument mining for healthcare applications__ Find at: [LINK](https://hal.archives-ouvertes.fr/hal-03066688/document)
@@ -36,8 +40,6 @@
 - Visser, Jacky and Konat, Barbara and Duthie, Rory and Koszowy, Marcin and Budzynska, Katarzyna and Reed, Chris (2020): __Argumentation in the 2016 US presidential elections: annotated corpora of television debates and social media reaction__ Find at: [LINK](https://link.springer.com/article/10.1007/s10579-019-09446-8)
 
 - Ajjour, Yamen and Chen, Wei-Fan and Kiesel, Johannes and Wachsmuth, Henning and Stein, Benno (2017): __Unit segmentation of argumentative texts__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5115.pdf)
-
-- Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and Clustering of Arguments with Contextualized Word Embeddings__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1054.pdf)
 
 - Trautmann, Dietrich and Daxenberger, Johannes and Stab, Christian and Sch{\"u}tze, Hinrich and Gurevych, Iryna (2020): __Fine-grained argument unit recognition and classification__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/6438/6294)
 
@@ -100,8 +102,6 @@
 - Quijano-S{\'a}nchez, Lara and Cantador, Iv{\'a}n (): __Structured argumentation modeling and extraction: Understanding the semantics of parliamentary content__ Find at: [LINK](http://arantxa.ii.uam.es/~cantador/doc/2020/circle-structured20.pdf)
 
 - Bauwelinck, Nina and Lefever, Els (2020): __Annotating Topics, Stance, Argumentativeness and Claims in Dutch Social Media Comments: A Pilot Study__ Find at: [LINK](https://www.aclweb.org/anthology/2020.argmining-1.2.pdf)
-
-- Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and clustering of arguments with contextualized word embeddings__ Find at: [LINK](https://arxiv.org/pdf/1906.09821.pdf)
 
 ## 2021-01-14
 
@@ -345,7 +345,7 @@
 
 - Klein, Mark (2012): __Enabling large-scale deliberation using attention-mediation metrics__ Find at: [LINK](https://link.springer.com/content/pdf/10.1007/s10606-012-9156-4.pdf)
 
-- Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and clustering of arguments with contextualized word embeddings__ Find at: [LINK](https://arxiv.org/pdf/1906.09821.pdf)
+- Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and Clustering of Arguments with Contextualized Word Embeddings__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1054.pdf)
 
 - Maximilian Spliethöver and Jonas Klaff and Hendrik Heuer (2019): __Is It Worth the Attention? A Comparative Evaluation of Attention Layers for Argument Unit Segmentation__ Find at: [LINK](http://arxiv.org/pdf/1906.10068v1)
 
