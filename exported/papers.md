@@ -1,4 +1,12 @@
 # Papers
+## 2021-03-22
+
+- Verberne, Suzan and Krahmer, Emiel and Wubben, Sander and van den Bosch, Antal (2020): __Query-based summarization of discussion threads__ Find at: [LINK](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5CAC0B9D6F20FBA183990FC3DE0CEAF2/S1351324919000123a.pdf/div-class-title-query-based-summarization-of-discussion-threads-div.pdf)
+
+## 2021-03-19
+
+- Lertvittayakumjorn, Piyawat and Toni, Francesca (2019): __Human-grounded evaluations of explanation methods for text classification__ Find at: [LINK](https://www.aclweb.org/anthology/D19-1523.pdf)
+
 ## 2021-03-15
 
 - Isenmann, Severin and Reuter, Wolf D (1997): __IBIS—a convincing concept… but a lousy instrument?__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/263552.263602?casa_token=QrtOjNp_IqwAAAAA:nsBmbTGDF9v_ZnHHRh72g1DS_mwnWQ5vDfiwLjM2q0N7-2PakHbStzkqyqhRcoOe-lBXwkEFY-lklg)
