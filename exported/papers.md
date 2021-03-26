@@ -1,4 +1,14 @@
 # Papers
+## 2021-03-24
+
+- Brown, Andrew W and Kaiser, Kathryn A and Keitt, Andrew and Fontaine, Kevin and Gibson, Madeline and Gower, Barbara A and Shikany, James M and Vorland, Colby J and Beitz, Donald C and Bier, Dennis M and others (2021): __Science dialogue mapping of knowledge and knowledge gaps related to the effects of dairy intake on human cardiovascular health and disease__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/10408398.2020.1722941?casa_token=o-5WP4sfOn8AAAAA:6WaR0ivnAsHD1bx0EAu6AmYcEqoZ2VTL9U68Gv3sx7xYvUn6vSqmtZGYiN2j6c3UkpkKUjIumfYKAg)
+
+## 2021-03-23
+
+- Slonim, Noam and Bilu, Yonatan and Alzate, Carlos and Bar-Haim, Roy and Bogin, Ben and Bonin, Francesca and Choshen, Leshem and Cohen-Karlik, Edo and Dankin, Lena and Edelstein, Lilach and others (2021): __An autonomous debating system__ Find at: [LINK](https://www.nature.com/articles/s41586-021-03215-w.pdf)
+
+- Popa, Eugen Octav and Blok, Vincent and Wesselink, Renate (2020): __Discussion structures as tools for public deliberation__ Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0963662519880675)
+
 ## 2021-03-22
 
 - Verberne, Suzan and Krahmer, Emiel and Wubben, Sander and van den Bosch, Antal (2020): __Query-based summarization of discussion threads__ Find at: [LINK](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5CAC0B9D6F20FBA183990FC3DE0CEAF2/S1351324919000123a.pdf/div-class-title-query-based-summarization-of-discussion-threads-div.pdf)
