@@ -1,4 +1,10 @@
 # Papers
+## 2021-03-29
+
+- Bennetot, Adrien and Charisi, Vicky and D{\'\i}az-Rodr{\'\i}guez, Natalia (2020): __Should artificial agents ask for help in human-robot collaborative problem-solving?__ Find at: [LINK](https://arxiv.org/pdf/2006.00882.pdf)
+
+- Heuillet, Alexandre and Couthouis, Fabien and D{\'\i}az-Rodr{\'\i}guez, Natalia (2021): __Explainability in deep reinforcement learning__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0950705120308145)
+
 ## 2021-03-24
 
 - Brown, Andrew W and Kaiser, Kathryn A and Keitt, Andrew and Fontaine, Kevin and Gibson, Madeline and Gower, Barbara A and Shikany, James M and Vorland, Colby J and Beitz, Donald C and Bier, Dennis M and others (2021): __Science dialogue mapping of knowledge and knowledge gaps related to the effects of dairy intake on human cardiovascular health and disease__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/10408398.2020.1722941?casa_token=o-5WP4sfOn8AAAAA:6WaR0ivnAsHD1bx0EAu6AmYcEqoZ2VTL9U68Gv3sx7xYvUn6vSqmtZGYiN2j6c3UkpkKUjIumfYKAg)
