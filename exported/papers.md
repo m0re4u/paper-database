@@ -1,4 +1,8 @@
 # Papers
+## 2021-04-01
+
+- Gu, Wen and Moustafa, Ahmed and Ito, Takayuki and Zhang, Minjie and Yang, Chunsheng (2021): __A Case-based Reasoning Approach for Supporting Facilitation in Online Discussions__ Find at: [LINK](https://catalogue.leidenuniv.nl/permalink/f/1e3kn0k/TN_cdi_crossref_primary_10_1007_s10726_021_09731_4)
+
 ## 2021-03-29
 
 - Bennetot, Adrien and Charisi, Vicky and D{\'\i}az-Rodr{\'\i}guez, Natalia (2020): __Should artificial agents ask for help in human-robot collaborative problem-solving?__ Find at: [LINK](https://arxiv.org/pdf/2006.00882.pdf)
