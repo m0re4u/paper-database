@@ -3,6 +3,8 @@
 
 - Scott-Phillips, Thomas C and Kirby, Simon and Ritchie, Graham RS (2009): __Signalling signalhood and the emergence of communication__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0010027709001930)
 
+- Laversanne-Finot, Adrien and Pere, Alexandre and Oudeyer, Pierre-Yves (2018): __Curiosity driven exploration of learned disentangled goal spaces__ Find at: [LINK](http://proceedings.mlr.press/v87/laversanne-finot18a/laversanne-finot18a.pdf)
+
 ## 2021-04-01
 
 - Gu, Wen and Moustafa, Ahmed and Ito, Takayuki and Zhang, Minjie and Yang, Chunsheng (2021): __A Case-based Reasoning Approach for Supporting Facilitation in Online Discussions__ Find at: [LINK](https://catalogue.leidenuniv.nl/permalink/f/1e3kn0k/TN_cdi_crossref_primary_10_1007_s10726_021_09731_4)
