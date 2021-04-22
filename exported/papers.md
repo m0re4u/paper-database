@@ -1,9 +1,17 @@
 # Papers
+## 2021-04-22
+
+- Ein-Dor, Liat and Shnarch, Eyal and Dankin, Lena and Halfon, Alon and Sznajder, Benjamin and Gera, Ariel and Alzate, Carlos and Gleize, Martin and Choshen, Leshem and Hou, Yufang and others (2020): __Corpus Wide Argument Mining—A Working Solution__ Find at: [LINK](https://arxiv.org/pdf/1911.10763.pdf)
+
+- Bilu, Yonatan and Slonim, Noam (2016): __Claim synthesis via predicate recycling__ Find at: [LINK](https://www.aclweb.org/anthology/P16-2085.pdf)
+
+## 2021-04-19
+
+- Laversanne-Finot, Adrien and Pere, Alexandre and Oudeyer, Pierre-Yves (2018): __Curiosity driven exploration of learned disentangled goal spaces__ Find at: [LINK](http://proceedings.mlr.press/v87/laversanne-finot18a/laversanne-finot18a.pdf)
+
 ## 2021-04-12
 
 - Scott-Phillips, Thomas C and Kirby, Simon and Ritchie, Graham RS (2009): __Signalling signalhood and the emergence of communication__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0010027709001930)
-
-- Laversanne-Finot, Adrien and Pere, Alexandre and Oudeyer, Pierre-Yves (2018): __Curiosity driven exploration of learned disentangled goal spaces__ Find at: [LINK](http://proceedings.mlr.press/v87/laversanne-finot18a/laversanne-finot18a.pdf)
 
 ## 2021-04-01
 
