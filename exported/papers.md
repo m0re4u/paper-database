@@ -1,4 +1,8 @@
 # Papers
+## 2021-04-26
+
+- Sommerauer, Pia and Fokkens, Antske and Vossen, Piek (2020): __Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement__ Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.422.pdf)
+
 ## 2021-04-22
 
 - Ein-Dor, Liat and Shnarch, Eyal and Dankin, Lena and Halfon, Alon and Sznajder, Benjamin and Gera, Ariel and Alzate, Carlos and Gleize, Martin and Choshen, Leshem and Hou, Yufang and others (2020): __Corpus Wide Argument Mining—A Working Solution__ Find at: [LINK](https://arxiv.org/pdf/1911.10763.pdf)
