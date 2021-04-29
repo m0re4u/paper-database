@@ -1,4 +1,8 @@
 # Papers
+## 2021-04-29
+
+- Saint-Dizier, Patrick (2018): __A two-level approach to generate synthetic argumentation reports__ Find at: [LINK](http://cmna.csc.liv.ac.uk/CMNA17/cmna17psdv2.pdf)
+
 ## 2021-04-26
 
 - Sommerauer, Pia and Fokkens, Antske and Vossen, Piek (2020): __Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement__ Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.422.pdf)
