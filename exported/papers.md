@@ -1,4 +1,10 @@
 # Papers
+## 2021-05-03
+
+- Dignum, Virginia (2021): __The Myth of Complete AI-Fairness__ Find at: [LINK](https://arxiv.org/pdf/2104.12544.pdf)
+
+- Chen, Sihao and Khashabi, Daniel and Yin, Wenpeng and Callison-Burch, Chris and Roth, Dan (2019): __Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims__ Find at: [LINK](https://www.aclweb.org/anthology/N19-1053.pdf)
+
 ## 2021-04-29
 
 - Saint-Dizier, Patrick (2018): __A two-level approach to generate synthetic argumentation reports__ Find at: [LINK](http://cmna.csc.liv.ac.uk/CMNA17/cmna17psdv2.pdf)
