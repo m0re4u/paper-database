@@ -1,4 +1,8 @@
 # Papers
+## 2021-05-12
+
+- Mouter, Niek and Hernandez, Jose Ignacio and Itten, Anatol Valerian (2021): __Public participation in crisis policymaking. How 30,000 Dutch citizens advised their government on relaxing COVID-19 lockdown measures__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250614)
+
 ## 2021-05-03
 
 - Dignum, Virginia (2021): __The Myth of Complete AI-Fairness__ Find at: [LINK](https://arxiv.org/pdf/2104.12544.pdf)
