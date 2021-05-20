@@ -1,4 +1,8 @@
 # Papers
+## 2021-05-20
+
+- Kalo, Jan-Christoph and Fichtel, Leandra and Ehler, Philipp and Balke, Wolf-Tilo (2020): __KnowlyBERT-Hybrid Query Answering over Language Models and Knowledge Graphs__ Find at: [LINK](https://pdfs.semanticscholar.org/e10b/1161cfe1c8468cd379f351310373063054db.pdf)
+
 ## 2021-05-03
 
 - Dignum, Virginia (2021): __The Myth of Complete AI-Fairness__ Find at: [LINK](https://arxiv.org/pdf/2104.12544.pdf)
