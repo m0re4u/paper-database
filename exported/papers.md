@@ -1,4 +1,10 @@
 # Papers
+## 2021-05-21
+
+- Bar-Haim, Roy and Eden, Lilach and Friedman, Roni and Kantor, Yoav and Lahav, Dan and Slonim, Noam (2020): __From arguments to key points: Towards automatic argument summarization__ Find at: [LINK](https://arxiv.org/pdf/2005.01619.pdf)
+
+- Bar-Haim, Roy and Kantor, Yoav and Eden, Lilach and Friedman, Roni and Lahav, Dan and Slonim, Noam (2020): __Quantitative Argument Summarization and Beyond: Cross-Domain Key Point Analysis__ Find at: [LINK](https://arxiv.org/pdf/2010.05369.pdf)
+
 ## 2021-05-12
 
 - Mouter, Niek and Hernandez, Jose Ignacio and Itten, Anatol Valerian (2021): __Public participation in crisis policymaking. How 30,000 Dutch citizens advised their government on relaxing COVID-19 lockdown measures__ Find at: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250614)
