@@ -1,4 +1,11 @@
 # Papers
+## 2021-07-07
+
+- Dror, Rotem  and
+Baumer, Gili  and
+Shlomov, Segev  and
+Reichart, Roi (2018): __The Hitchhiker{'}s Guide to Testing Statistical Significance in Natural Language Processing__ Find at: [LINK](https://aclanthology.org/P18-1128.pdf)
+
 ## 2021-05-21
 
 - Bar-Haim, Roy and Eden, Lilach and Friedman, Roni and Kantor, Yoav and Lahav, Dan and Slonim, Noam (2020): __From arguments to key points: Towards automatic argument summarization__ Find at: [LINK](https://arxiv.org/pdf/2005.01619.pdf)
