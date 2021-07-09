@@ -1,4 +1,12 @@
 # Papers
+## 2021-07-09
+
+- Chen, Xi and Bennett, Paul N and Collins-Thompson, Kevyn and Horvitz, Eric (2013): __Pairwise ranking aggregation in a crowdsourced setting__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/2433396.2433420?casa_token=B7Ku-wgoKOQAAAAA:4VP1sUuFSRqV2DvOLKTeT1bFpK28wlVYijQ90Qes5D7hYiBtNaF9zvVI3rrHYQPsudl4E3F3oMJ4cA)
+
+- Chai, Chengliang and Li, Guoliang and Li, Jian and Deng, Dong and Feng, Jianhua (2016): __Cost-effective crowdsourced entity resolution: A partial-order approach__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/2882903.2915252?casa_token=Nb3MPRW1PxcAAAAA:uKZ1FJO8sPHloM3UC2_cJR7EaL2Bhx7dEP1dXe6pyjUGitjC7AMH1doe0Radf6YqBN4GCUwUlM3UCg)
+
+- Bradshaw, Jeffrey M and Hoffman, Robert R and Woods, David D and Johnson, Matthew (2013): __The seven deadly myths of" autonomous systems"__ Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6588858&casa_token=xdjoxh2AkREAAAAA:Gop7fq14X7cmJ7mjxuXihutWi_0D_tWTVB3EPco6iVFtDWII9XMZGwf-d5O2YQ4O8YzbXFnkTA&tag=1)
+
 ## 2021-07-07
 
 - Dror, Rotem  and
