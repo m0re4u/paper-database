@@ -1,4 +1,20 @@
 # Papers
+## 2021-08-18
+
+- Shridhar, Mohit and Yuan, Xingdi and C{\^o}t{\'e}, Marc-Alexandre and Bisk, Yonatan and Trischler, Adam and Hausknecht, Matthew (2020): __ALFWorld: Aligning text and embodied environments for interactive learning__ Find at: [LINK](https://arxiv.org/pdf/2010.03768.pdf)
+
+## 2021-07-28
+
+- Li, Bing and Miao, Yukai and Wang, Yaoshu and Sun, Yifang and Wang, Wei (2021): __Improving the Efficiency and Effectiveness for BERT-based Entity Resolution__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/17562)
+
+- Kasai, Jungo and Qian, Kun and Gurajada, Sairam and Li, Yunyao and Popa, Lucian (2019): __Low-resource Deep Entity Resolution with Transfer and Active Learning__ Find at: [LINK](https://arxiv.org/pdf/1906.08042.pdf)
+
+## 2021-07-14
+
+- Agirre, Eneko and Banea, Carmen and Cer, Daniel and Diab, Mona and Gonzalez Agirre, Aitor and Mihalcea, Rada and Rigau Claramunt, German and Wiebe, Janyce (2016): __Semeval-2016 task 1: Semantic textual similarity, monolingual and cross-lingual evaluation__ Find at: [LINK](https://aclanthology.org/S16-1081/)
+
+- Bowman, Samuel and Angeli, Gabor and Potts, Christopher and Manning, Christopher D (2015): __A large annotated corpus for learning natural language inference__ Find at: [LINK](https://aclanthology.org/D15-1075.pdf)
+
 ## 2021-07-09
 
 - Chen, Xi and Bennett, Paul N and Collins-Thompson, Kevyn and Horvitz, Eric (2013): __Pairwise ranking aggregation in a crowdsourced setting__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/2433396.2433420?casa_token=B7Ku-wgoKOQAAAAA:4VP1sUuFSRqV2DvOLKTeT1bFpK28wlVYijQ90Qes5D7hYiBtNaF9zvVI3rrHYQPsudl4E3F3oMJ4cA)
