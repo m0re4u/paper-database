@@ -1,4 +1,10 @@
 # Papers
+## 2021-08-19
+
+- Thorn Jakobsen, Terne Sasha  and
+Barrett, Maria  and
+S{\o}gaard, Anders (2021): __Spurious Correlations in Cross-Topic Argument Mining__ Find at: [LINK](https://aclanthology.org/2021.starsem-1.25.pdf)
+
 ## 2021-08-18
 
 - Shridhar, Mohit and Yuan, Xingdi and C{\^o}t{\'e}, Marc-Alexandre and Bisk, Yonatan and Trischler, Adam and Hausknecht, Matthew (2020): __ALFWorld: Aligning text and embodied environments for interactive learning__ Find at: [LINK](https://arxiv.org/pdf/2010.03768.pdf)
