@@ -1,4 +1,10 @@
 # Papers
+## 2021-08-23
+
+- Zelnik-Manor, L and Perona, P (2004): __Self-tuning spectral clustering__ Find at: [LINK](https://papers.nips.cc/paper/2004/file/40173ea48d9567f1f393b20c855bb40b-Paper.pdf)
+
+- Blondel, Vincent D and Guillaume, Jean-Loup and Lambiotte, Renaud and Lefebvre, Etienne (2008): __Fast unfolding of communities in large networks__ Find at: [LINK](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008/pdf?casa_token=7L37SIWQZqsAAAAA:h-jdxWDEr2OPwCl8MBmOayEultIWGotRHjCgfTZdfD1Q7ZpQCrOzscuqKrCjMpWPdfLNdxJYhzM)
+
 ## 2021-08-19
 
 - Thorn Jakobsen, Terne Sasha  and
