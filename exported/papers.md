@@ -1,4 +1,8 @@
 # Papers
+## 2021-08-30
+
+- Byrt, Ted and Bishop, Janet and Carlin, John B (1993): __Bias, prevalence and kappa__ Find at: [LINK](https://www.researchgate.net/profile/J-Bishop-3/publication/14696786_Bias_Prevalence_and_Kappa/links/5a10c589458515cc5aa80647/Bias-Prevalence-and-Kappa.pdf)
+
 ## 2021-08-23
 
 - Zelnik-Manor, L and Perona, P (2004): __Self-tuning spectral clustering__ Find at: [LINK](https://papers.nips.cc/paper/2004/file/40173ea48d9567f1f393b20c855bb40b-Paper.pdf)
