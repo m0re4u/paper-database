@@ -53,9 +53,9 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 ## 2021-05-21
 
-- Bar-Haim, Roy and Eden, Lilach and Friedman, Roni and Kantor, Yoav and Lahav, Dan and Slonim, Noam (2020): __From arguments to key points: Towards automatic argument summarization__ Find at: [LINK](https://arxiv.org/pdf/2005.01619.pdf)
+- Bar-Haim, Roy and Eden, Lilach and Friedman, Roni and Kantor, Yoav and Lahav, Dan and Slonim, Noam (2020): __From Arguments to Key Points: Towards Automatic Argument Summarization__ Find at: [LINK](https://aclanthology.org/2020.acl-main.371.pdf)
 
-- Bar-Haim, Roy and Kantor, Yoav and Eden, Lilach and Friedman, Roni and Lahav, Dan and Slonim, Noam (2020): __Quantitative Argument Summarization and Beyond: Cross-Domain Key Point Analysis__ Find at: [LINK](https://arxiv.org/pdf/2010.05369.pdf)
+- Bar-Haim, Roy and Kantor, Yoav and Eden, Lilach and Friedman, Roni and Lahav, Dan and Slonim, Noam (2020): __Quantitative Argument Summarization and beyond: Cross-Domain Key Point Analysis__ Find at: [LINK](https://aclanthology.org/2020.emnlp-main.3.pdf)
 
 ## 2021-05-20
 
@@ -189,7 +189,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 - Rach, Niklas and Matsuda, Yuki and Daxenberger, Johannes and Ultes, Stefan and Yasumoto, Keiichi and Minker, Wolfgang (2020): __Evaluation of Argument Search Approaches in the Context of Argumentative Dialogue Systems__ Find at: [LINK](https://www.aclweb.org/anthology/2020.lrec-1.65.pdf)
 
-- Daxenberger, Johannes and Eger, Steffen and Habernal, Ivan and Stab, Christian and Gurevych, Iryna (2017): __What is the essence of a claim? Cross-domain claim identification__ Find at: [LINK](https://www.aclweb.org/anthology/D17-1218.pdf)
+- Daxenberger, Johannes and Eger, Steffen and Habernal, Ivan and Stab, Christian and Gurevych, Iryna (2017): __What is the Essence of a Claim? Cross-Domain Claim Identification__ Find at: [LINK](https://www.aclweb.org/anthology/D17-1218.pdf)
 
 - Mensonides, Jean-Christophe and Harispe, S{\'e}bastien and Montmain, Jacky and Thireau, V{\'e}ronique (2019): __Automatic Detection and Classification of Argument Components using Multi-task Deep Neural Network__ Find at: [LINK](https://hal.archives-ouvertes.fr/hal-02292945/file/2019_ICNLSP.pdf)
 
@@ -451,7 +451,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 - Bar-Haim, Roy and Bhattacharya, Indrajit and Dinuzzo, Francesco and Saha, Amrita and Slonim, Noam (2017): __Stance classification of context-dependent claims__ Find at: [LINK](https://www.aclweb.org/anthology/E17-1024.pdf)
 
-- Eger, Steffen and Daxenberger, Johannes and Gurevych, Iryna (2017): __Neural end-to-end learning for computational argumentation mining__ Find at: [LINK](https://arxiv.org/pdf/1704.06104.pdf)
+- Eger, Steffen and Daxenberger, Johannes and Gurevych, Iryna (2017): __Neural End-to-End Learning for Computational Argumentation Mining__ Find at: [LINK](https://aclanthology.org/P17-1002.pdf)
 
 - Duthie, Rory and Budzynska, Katarzyna (2018): __A Deep Modular RNN Approach for Ethos Mining.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0562.pdf)
 
