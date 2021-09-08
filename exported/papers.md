@@ -445,7 +445,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 ## 2020-09-17
 
-- Cabrio, Elena and Villata, Serena (2018): __Five Years of Argument Mining: a Data-driven Analysis.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0766.pdf)
+- Elena Cabrio and Serena Villata (2018): __Five Years of Argument Mining: a Data-driven Analysis__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0766.pdf)
 
 - Levy, Ran and Bilu, Yonatan and Hershcovich, Daniel and Aharoni, Ehud and Slonim, Noam (2014): __Context dependent claim detection__ Find at: [LINK](https://www.aclweb.org/anthology/C14-1141.pdf)
 
