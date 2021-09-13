@@ -3,6 +3,8 @@
 
 - Portelas, R{\'e}my and Romac, Cl{\'e}ment and Hofmann, Katja and Oudeyer, Pierre-Yves (2020): __Meta Automatic Curriculum Learning__ Find at: [LINK](https://arxiv.org/pdf/2011.08463.pdf)
 
+- Ebrahimi, Sayna and Petryk, Suzanne and Gokul, Akash and Gan, William and Gonzalez, Joseph E and Rohrbach, Marcus and Darrell, Trevor (2020): __Remembering for the right reasons: Explanations reduce catastrophic forgetting__ Find at: [LINK](https://arxiv.org/pdf/2010.01528.pdf)
+
 ## 2021-08-30
 
 - Byrt, Ted and Bishop, Janet and Carlin, John B (1993): __Bias, prevalence and kappa__ Find at: [LINK](https://www.researchgate.net/profile/J-Bishop-3/publication/14696786_Bias_Prevalence_and_Kappa/links/5a10c589458515cc5aa80647/Bias-Prevalence-and-Kappa.pdf)
