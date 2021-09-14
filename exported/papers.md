@@ -1,4 +1,8 @@
 # Papers
+## 2021-09-14
+
+- Bex, Floris and Walton, Douglas (2016): __Combining explanation and argumentation in dialogue__ Find at: [LINK](https://content.iospress.com/download/argument-and-computation/aac001?id=argument-and-computation%2Faac001)
+
 ## 2021-09-13
 
 - Portelas, R{\'e}my and Romac, Cl{\'e}ment and Hofmann, Katja and Oudeyer, Pierre-Yves (2020): __Meta Automatic Curriculum Learning__ Find at: [LINK](https://arxiv.org/pdf/2011.08463.pdf)
