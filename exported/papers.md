@@ -1,4 +1,8 @@
 # Papers
+## 2021-09-15
+
+- Timkey, William and van Schijndel, Marten (2021): __All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality__ Find at: [LINK](https://arxiv.org/pdf/2109.04404.pdf)
+
 ## 2021-09-14
 
 - Bex, Floris and Walton, Douglas (2016): __Combining explanation and argumentation in dialogue__ Find at: [LINK](https://content.iospress.com/download/argument-and-computation/aac001?id=argument-and-computation%2Faac001)
