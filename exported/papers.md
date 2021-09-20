@@ -1,4 +1,12 @@
 # Papers
+## 2021-09-20
+
+- Becker, Maria and Hulpu{\c{s}}, Ioana and Opitz, Juri and Paul, Debjit and Kobbe, Jonathan and Stuckenschmidt, Heiner and Frank, Anette (2020): __Explaining Arguments with Background Knowledge__ Find at: [LINK](https://link.springer.com/content/pdf/10.1007/s13222-020-00348-6.pdf)
+
+- Becker, Maria and Korfhage, Katharina and Frank, Anette (2020): __Implicit Knowledge in Argumentative Texts: An Annotated Corpus__ Find at: [LINK](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.282.pdf)
+
+- Becker, Maria and Liang, Siting and Frank, Anette (2021): __Reconstructing Implicit Knowledge with Language Models__ Find at: [LINK](https://aclanthology.org/2021.deelio-1.2.pdf)
+
 ## 2021-09-15
 
 - Timkey, William and van Schijndel, Marten (2021): __All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality__ Find at: [LINK](https://arxiv.org/pdf/2109.04404.pdf)
