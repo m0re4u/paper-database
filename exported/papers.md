@@ -1,4 +1,12 @@
 # Papers
+## 2021-09-22
+
+- Chambers, Simone (2018): __Human life is group life: deliberative democracy for realists__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/08913811.2018.1466852?needAccess=true)
+
+- Mercier, Hugo and Landemore, H{\'e}l{\`e}ne (2012): __Reasoning is for arguing: Understanding the successes and failures of deliberation__ Find at: [LINK](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9221.2012.00873.x)
+
+- Zafrilla, Pedro Jes{\'u}s P{\'e}rez (2016): __Is Deliberative Democracy an adaptive political theory? A critical analysis of Hugo Mercier's Argumentative Theory of Reasoning__ Find at: [LINK](https://www.jstor.org/stable/pdf/44071941.pdf?casa_token=_eqULzXo7kMAAAAA:qda_nBjdQrFoUTlXtiZOIpYlh9xgTUvbZXFNT0iDC2xbAfogN4rSu_xYVJpJ9aJDsvlCY8eTubGCR6K3BVeF9aHkvxERvFbIyyX7zo2OeqX6d8KNemQH)
+
 ## 2021-09-20
 
 - Becker, Maria and Hulpu{\c{s}}, Ioana and Opitz, Juri and Paul, Debjit and Kobbe, Jonathan and Stuckenschmidt, Heiner and Frank, Anette (2020): __Explaining Arguments with Background Knowledge__ Find at: [LINK](https://link.springer.com/content/pdf/10.1007/s13222-020-00348-6.pdf)
