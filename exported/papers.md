@@ -1,4 +1,8 @@
 # Papers
+## 2021-09-28
+
+- Lara, Francisco and Deckers, Jan (2020): __Artificial intelligence as a socratic assistant for moral enhancement__ Find at: [LINK](https://link.springer.com/article/10.1007/s12152-019-09401-y)
+
 ## 2021-09-22
 
 - Chambers, Simone (2018): __Human life is group life: deliberative democracy for realists__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/08913811.2018.1466852?needAccess=true)
