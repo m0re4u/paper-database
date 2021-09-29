@@ -1,4 +1,14 @@
 # Papers
+## 2021-09-29
+
+- Chai, Zi and Xing, Xinyu and Wan, Xiaojun and Huang, Bo (2019): __Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums__ Find at: [LINK](https://aclanthology.org/P19-1497.pdf)
+
+- Kumar, Vishwajeet and Ramakrishnan, Ganesh and Li, Yuan-Fang (2018): __A framework for automatic question generation from text using deep reinforcement learning__ Find at: [LINK](https://scai-workshop.github.io/ijcai2019/slides/IJCAI2019_Li.pdf)
+
+- Lindberg, David and Popowich, Fred and Nesbit, John and Winne, Phil (2013): __Generating natural language questions to support learning on-line__ Find at: [LINK](https://aclanthology.org/W13-2114.pdf)
+
+- Stasaski, Katherine and Rathod, Manav and Tu, Tony and Xiao, Yunfang and Hearst, Marti A (2021): __Automatically Generating Cause-and-Effect Questions from Passages__ Find at: [LINK](https://aclanthology.org/2021.bea-1.17.pdf)
+
 ## 2021-09-28
 
 - Lara, Francisco and Deckers, Jan (2020): __Artificial intelligence as a socratic assistant for moral enhancement__ Find at: [LINK](https://link.springer.com/article/10.1007/s12152-019-09401-y)
