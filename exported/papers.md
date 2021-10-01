@@ -9,6 +9,12 @@
 
 - Stasaski, Katherine and Rathod, Manav and Tu, Tony and Xiao, Yunfang and Hearst, Marti A (2021): __Automatically Generating Cause-and-Effect Questions from Passages__ Find at: [LINK](https://aclanthology.org/2021.bea-1.17.pdf)
 
+- Van Miltenburg, Emiel and Clinciu, Miruna-Adriana and Du{\v{s}}ek, Ond{\v{r}}ej and Gkatzia, Dimitra and Inglis, Stephanie and Lepp{\"a}nen, Leo and Mahamood, Saad and Manning, Emma and Schoch, Stephanie and Thomson, Craig and others (2021): __Underreporting of errors in NLG output, and what to do about it__ Find at: [LINK](https://aclanthology.org/2021.inlg-1.14.pdf)
+
+- Shimorina, Anastasia and Belz, Anya (2021): __The human evaluation datasheet 1.0: A template for recording details of human evaluation experiments in nlp__ Find at: [LINK](https://arxiv.org/pdf/2103.09710.pdf)
+
+- van der Lee, Chris and Gatt, Albert and van Miltenburg, Emiel and Krahmer, Emiel (2020): __Human evaluation of automatically generated text: Current trends and best practice guidelines__ Find at: [LINK](https://reader.elsevier.com/reader/sd/pii/S088523082030084X?token=F1FDA6499B471E078EBDBF10DC06B6735E8B07A81B171BF8F919EB896F09F409BF2513013EC616048C90550255CC82E2&originRegion=eu-west-1&originCreation=20211001112038)
+
 ## 2021-09-28
 
 - Lara, Francisco and Deckers, Jan (2020): __Artificial intelligence as a socratic assistant for moral enhancement__ Find at: [LINK](https://link.springer.com/article/10.1007/s12152-019-09401-y)
