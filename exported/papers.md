@@ -1,4 +1,10 @@
 # Papers
+## 2021-10-19
+
+- Ceolin, Davide and Primiero, Giuseppe and Wielemaker, Jan and Soprano, Michael (2021): __Assessing the Quality of Online Reviews Using Formal Argumentation Theory__ Find at: [LINK](https://link-springer-com.ezproxy.leidenuniv.nl/content/pdf/10.1007%2F978-3-030-74296-6.pdf)
+
+- Habernal, Ivan and Wachsmuth, Henning and Gurevych, Iryna and Stein, Benno (2018): __The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants__ Find at: [LINK](https://aclanthology.org/N18-1175.pdf)
+
 ## 2021-09-29
 
 - Chai, Zi and Xing, Xinyu and Wan, Xiaojun and Huang, Bo (2019): __Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums__ Find at: [LINK](https://aclanthology.org/P19-1497.pdf)
