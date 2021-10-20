@@ -7,6 +7,8 @@
 
 - Pryzant, Reid and Martinez, Richard Diehl and Dass, Nathan and Kurohashi, Sadao and Jurafsky, Dan and Yang, Diyi (2020): __Automatically neutralizing subjective bias in text__ Find at: [LINK](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
 
+- Al-Khatib, Khalid and Hou, Yufang and Wachsmuth, Henning and Jochim, Charles and Bonin, Francesca and Stein, Benno (2020): __End-to-end argumentation knowledge graph construction__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/6231/6087)
+
 ## 2021-10-19
 
 - Ceolin, Davide and Primiero, Giuseppe and Wielemaker, Jan and Soprano, Michael (2021): __Assessing the Quality of Online Reviews Using Formal Argumentation Theory__ Find at: [LINK](https://link-springer-com.ezproxy.leidenuniv.nl/content/pdf/10.1007%2F978-3-030-74296-6.pdf)
