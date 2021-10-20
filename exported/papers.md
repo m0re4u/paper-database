@@ -1,4 +1,12 @@
 # Papers
+## 2021-10-20
+
+- Prabhakaran, Vinodkumar and Davani, Aida Mostafazadeh and D{\'\i}az, Mark (2021): __On Releasing Annotator-Level Labels and Information in Datasets__ Find at: [LINK](https://arxiv.org/pdf/2110.05699.pdf)
+
+- Davani, Aida Mostafazadeh and D{\'\i}az, Mark and Prabhakaran, Vinodkumar (2021): __Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations__ Find at: [LINK](https://arxiv.org/pdf/2110.05719.pdf)
+
+- Pryzant, Reid and Martinez, Richard Diehl and Dass, Nathan and Kurohashi, Sadao and Jurafsky, Dan and Yang, Diyi (2020): __Automatically neutralizing subjective bias in text__ Find at: [LINK](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
+
 ## 2021-10-19
 
 - Ceolin, Davide and Primiero, Giuseppe and Wielemaker, Jan and Soprano, Michael (2021): __Assessing the Quality of Online Reviews Using Formal Argumentation Theory__ Find at: [LINK](https://link-springer-com.ezproxy.leidenuniv.nl/content/pdf/10.1007%2F978-3-030-74296-6.pdf)
