@@ -1,4 +1,14 @@
 # Papers
+## 2021-10-21
+
+- Cabrio, Elena and Tonelli, Sara and Villata, Serena (2013): __From discourse analysis to argumentation schemes and back: Relations and differences__ Find at: [LINK](https://people.cs.pitt.edu/~litman/courses/nus062615/readings/CabrioTonelliVillata.pdf)
+
+- Walton, Douglas (2012): __Argument mining by applying argumentation schemes__ Find at: [LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034890)
+
+- Feng, Vanessa Wei and Hirst, Graeme (2011): __Classifying arguments by scheme__ Find at: [LINK](https://aclanthology.org/P11-1099.pdf)
+
+- Vecchi, Eva Maria and Falk, Neele and Jundi, Iman and Lapesa, Gabriella (2021): __Towards Argument Mining for Social Good: A Survey__ Find at: [LINK](https://aclanthology.org/2021.acl-long.107.pdf)
+
 ## 2021-10-20
 
 - Prabhakaran, Vinodkumar and Davani, Aida Mostafazadeh and D{\'\i}az, Mark (2021): __On Releasing Annotator-Level Labels and Information in Datasets__ Find at: [LINK](https://arxiv.org/pdf/2110.05699.pdf)
