@@ -89,7 +89,7 @@
 
 - Thorn Jakobsen, Terne Sasha  and
 Barrett, Maria  and
-S{\o}gaard, Anders (2021): __Spurious Correlations in Cross-Topic Argument Mining__ Find at: [LINK](https://aclanthology.org/2021.starsem-1.25.pdf)
+S{\o}gaard, Anders (2021): __Spurious Correlations in Cross-Topic Argument Mining__ Find at: [LINK](https://aclanthology.org/2021.starsem-1.25)
 
 ## 2021-08-18
 
@@ -120,12 +120,12 @@ S{\o}gaard, Anders (2021): __Spurious Correlations in Cross-Topic Argument Minin
 - Dror, Rotem  and
 Baumer, Gili  and
 Shlomov, Segev  and
-Reichart, Roi (2018): __The Hitchhiker{'}s Guide to Testing Statistical Significance in Natural Language Processing__ Find at: [LINK](https://aclanthology.org/P18-1128.pdf)
+Reichart, Roi (2018): __The Hitchhiker{'}s Guide to Testing Statistical Significance in Natural Language Processing__ Find at: [LINK](https://aclanthology.org/P18-1128)
 
 - Gienapp, Lukas  and
 Stein, Benno  and
 Hagen, Matthias  and
-Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ Find at: [LINK](https://aclanthology.org/2020.acl-main.511.pdf)
+Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ Find at: [LINK](https://aclanthology.org/2020.acl-main.511)
 
 ## 2021-05-21
 
@@ -521,7 +521,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 ## 2020-09-17
 
-- Elena Cabrio and Serena Villata (2018): __Five Years of Argument Mining: a Data-driven Analysis__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0766.pdf)
+- Elena Cabrio and Serena Villata (2018): __Five Years of Argument Mining: a Data-driven Analysis__ Find at: [LINK](https://doi.org/10.24963/ijcai.2018/766)
 
 - Levy, Ran and Bilu, Yonatan and Hershcovich, Daniel and Aharoni, Ehud and Slonim, Noam (2014): __Context dependent claim detection__ Find at: [LINK](https://www.aclweb.org/anthology/C14-1141.pdf)
 
