@@ -1,4 +1,14 @@
 # Papers
+## 2021-10-26
+
+- Jiwei Li and
+Alexander H. Miller and
+Sumit Chopra and
+Marc'Aurelio Ranzato and
+Jason Weston (2017): __Learning through Dialogue Interactions by Asking Questions__ Find at: [LINK](https://openreview.net/forum?id=rkE8pVcle)
+
+- Wang, Yansen and Liu, Chenyi and Huang, Minlie and Nie, Liqiang (2018): __Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders__ Find at: [LINK](https://aclanthology.org/P18-1204.pdf)
+
 ## 2021-10-25
 
 - Biedenkapp, Andr{\'e} and Bozkurt, H Furkan and Eimer, Theresa and Hutter, Frank and Lindauer, Marius (2020): __Dynamic algorithm configuration: foundation of a new meta-algorithmic framework__ Find at: [LINK](http://ecai2020.eu/papers/1237_paper.pdf)
