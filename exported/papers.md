@@ -1,4 +1,12 @@
 # Papers
+## 2021-10-25
+
+- Biedenkapp, Andr{\'e} and Bozkurt, H Furkan and Eimer, Theresa and Hutter, Frank and Lindauer, Marius (2020): __Dynamic algorithm configuration: foundation of a new meta-algorithmic framework__ Find at: [LINK](http://ecai2020.eu/papers/1237_paper.pdf)
+
+## 2021-10-22
+
+- Lawrence, John and Reed, Chris (2015): __Combining argument mining techniques__ Find at: [LINK](https://aclanthology.org/W15-0516.pdf)
+
 ## 2021-10-21
 
 - Cabrio, Elena and Tonelli, Sara and Villata, Serena (2013): __From discourse analysis to argumentation schemes and back: Relations and differences__ Find at: [LINK](https://people.cs.pitt.edu/~litman/courses/nus062615/readings/CabrioTonelliVillata.pdf)
