@@ -1,4 +1,22 @@
 # Papers
+## 2021-10-27
+
+- Madsen, Andreas and Meade, Nicholas and Adlakha, Vaibhav and Reddy, Siva (2021): __Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining__ Find at: [LINK](https://arxiv.org/pdf/2110.08412.pdf)
+
+- Hayes, Tracey J (2021): __Trump’s Digital Rhetoric of Hate: The Use of Enthymemes in Creating Division__ Find at: [LINK](https://jhs.press.gonzaga.edu/article/10.33972/jhs.196/)
+
+- Wei, Penghui and Mao, Wenji (2019): __Modeling transferable topics for cross-target stance detection__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/3331184.3331367?casa_token=RloLGtsg4TAAAAAA:gqiZv_lVxMib7wyM64UvCZOXDAQ0ilVzZHki1Jz7xUKLkOmDeKgh_i0rDMQffbAn1ljCVQgjuiaxLg)
+
+- Chakrabarty, Tuhin and Trivedi, Aadit and Muresan, Smaranda (2021): __Implicit Premise Generation with Discourse-aware Commonsense Knowledge Models__ Find at: [LINK](https://arxiv.org/pdf/2109.05358.pdf)
+
+- Gabriel, Saadia and Bhagavatula, Chandra and Shwartz, Vered and Le Bras, Ronan and Forbes, Maxwell and Choi, Yejin (2021): __Paragraph-level Commonsense Transformers with Recurrent Memory__ Find at: [LINK](https://arxiv.org/pdf/2010.01486.pdf)
+
+- Bhagavatula, Chandra and Le Bras, Ronan and Malaviya, Chaitanya and Sakaguchi, Keisuke and Holtzman, Ari and Rashkin, Hannah and Downey, Doug and Yih, Wen-tau and Choi, Yejin (2019): __Abductive Commonsense Reasoning__ Find at: [LINK](https://arxiv.org/pdf/1908.05739.pdf)
+
+- Boltu{\v{z}}i{\'c}, Filip and {\v{S}}najder, Jan (2016): __Fill the gap! analyzing implicit premises between claims from online debates__ Find at: [LINK](https://arxiv.org/pdf/1908.05739.pdf)
+
+- Lawrence, John and Reed, Chris (2016): __Argument Mining Using Argumentation Scheme Structures.__ Find at: [LINK](http://arg-tech.org/people/chris/publications/2016/comma2016-schememining.pdf)
+
 ## 2021-10-26
 
 - Jiwei Li and
