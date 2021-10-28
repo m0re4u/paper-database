@@ -1,4 +1,8 @@
 # Papers
+## 2021-10-28
+
+- Jo, Yohan and Visser, Jacky and Reed, Chris and Hovy, Eduard (2020): __Extracting Implicitly Asserted Propositions in Argumentation__ Find at: [LINK](https://aclanthology.org/2020.emnlp-main.2.pdf)
+
 ## 2021-10-27
 
 - Madsen, Andreas and Meade, Nicholas and Adlakha, Vaibhav and Reddy, Siva (2021): __Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining__ Find at: [LINK](https://arxiv.org/pdf/2110.08412.pdf)
