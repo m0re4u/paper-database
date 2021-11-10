@@ -1,4 +1,10 @@
 # Papers
+## 2021-11-10
+
+- Jansen, Henrike and van Leeuwen, Maarten (2020): __‘Ik spreek namens miljoenen Nederlanders’: Wilders’ presentatie van het populistische argument in het politieke debat__ Find at: [LINK](https://www.aup-online.com/docserver/fulltext/15739775/42/2/07_TVT2020.2_JANS.pdf?expires=1636547335&id=id&accname=guest&checksum=2BA97F88269F1639E557DB788C09C388)
+
+- Kobayashi, Goro and Kuribayashi, Tatsuki and Yokoi, Sho and Inui, Kentaro (2021): __Incorporating Residual and Normalization Layers into Analysis of Masked Language Models__ Find at: [LINK](https://arxiv.org/pdf/2109.07152.pdf)
+
 ## 2021-10-28
 
 - Jo, Yohan and Visser, Jacky and Reed, Chris and Hovy, Eduard (2020): __Extracting Implicitly Asserted Propositions in Argumentation__ Find at: [LINK](https://aclanthology.org/2020.emnlp-main.2.pdf)
