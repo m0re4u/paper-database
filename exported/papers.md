@@ -9,6 +9,8 @@
 
 - Karadzhov, Georgi and Stafford, Tom and Vlachos, Andreas (2021): __DeliData: A dataset for deliberation in multi-party problem solving__ Find at: [LINK](https://arxiv.org/pdf/2108.05271.pdf)
 
+- Jiang, Qingnan and Chen, Lei and Xu, Ruifeng and Ao, Xiang and Yang, Min (2019): __A challenge dataset and effective models for aspect-based sentiment analysis__ Find at: [LINK](https://aclanthology.org/D19-1654.pdf)
+
 ## 2021-11-10
 
 - Jansen, Henrike and van Leeuwen, Maarten (2020): __‘Ik spreek namens miljoenen Nederlanders’: Wilders’ presentatie van het populistische argument in het politieke debat__ Find at: [LINK](https://www.aup-online.com/docserver/fulltext/15739775/42/2/07_TVT2020.2_JANS.pdf?expires=1636547335&id=id&accname=guest&checksum=2BA97F88269F1639E557DB788C09C388)
