@@ -1,4 +1,14 @@
 # Papers
+## 2021-11-11
+
+- Nord, Ebba Axelsson and Maraev, Vladislav and Breitholtz, Ellen and Howes, Christine (2021): __What do you mean? Eliciting enthymemes in text-based dialogue__ Find at: [LINK](http://semdial.org/anthology/Z21-Nord_semdial_0020.pdf)
+
+- Maraev, Vladislav and Breitholtz, Ellen and Howes, Christine (2020): __How do you make an AI get the joke? Here’s what I found on the web__ Find at: [LINK](http://www.christinehowes.com/papers/Maraev.etal_AISB_paper_humour_2020.pdf)
+
+- Rajendran, Pavithra and Bollegala, Danushka and Parsons, Simon (2016): __Contextual stance classification of opinions: A step towards enthymeme reconstruction in online reviews__ Find at: [LINK](https://aclanthology.org/W16-2804.pdf)
+
+- Karadzhov, Georgi and Stafford, Tom and Vlachos, Andreas (2021): __DeliData: A dataset for deliberation in multi-party problem solving__ Find at: [LINK](https://arxiv.org/pdf/2108.05271.pdf)
+
 ## 2021-11-10
 
 - Jansen, Henrike and van Leeuwen, Maarten (2020): __‘Ik spreek namens miljoenen Nederlanders’: Wilders’ presentatie van het populistische argument in het politieke debat__ Find at: [LINK](https://www.aup-online.com/docserver/fulltext/15739775/42/2/07_TVT2020.2_JANS.pdf?expires=1636547335&id=id&accname=guest&checksum=2BA97F88269F1639E557DB788C09C388)
@@ -23,7 +33,7 @@
 
 - Bhagavatula, Chandra and Le Bras, Ronan and Malaviya, Chaitanya and Sakaguchi, Keisuke and Holtzman, Ari and Rashkin, Hannah and Downey, Doug and Yih, Wen-tau and Choi, Yejin (2019): __Abductive Commonsense Reasoning__ Find at: [LINK](https://arxiv.org/pdf/1908.05739.pdf)
 
-- Boltu{\v{z}}i{\'c}, Filip and {\v{S}}najder, Jan (2016): __Fill the gap! analyzing implicit premises between claims from online debates__ Find at: [LINK](https://arxiv.org/pdf/1908.05739.pdf)
+- Boltu{\v{z}}i{\'c}, Filip and {\v{S}}najder, Jan (2016): __Fill the gap! analyzing implicit premises between claims from online debates__ Find at: [LINK](https://aclanthology.org/W16-2815/)
 
 - Lawrence, John and Reed, Chris (2016): __Argument Mining Using Argumentation Scheme Structures.__ Find at: [LINK](http://arg-tech.org/people/chris/publications/2016/comma2016-schememining.pdf)
 
