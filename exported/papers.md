@@ -1,4 +1,16 @@
 # Papers
+## 2021-12-16
+
+- Levy, Ran and Gretz, Shai and Sznajder, Benjamin and Hummel, Shay and Aharonov, Ranit and Slonim, Noam (2017): __Unsupervised corpus--wide claim detection__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5110.pdf)
+
+- Levy, Ran and Bogin, Ben and Gretz, Shai and Aharonov, Ranit and Slonim, Noam (2018): __Towards an argumentative content search engine using weak supervision__ Find at: [LINK](https://www.aclweb.org/anthology/C18-1176.pdf)
+
+- Swanson, Reid and Ecker, Brian and Walker, Marilyn (2015): __Argument mining: Extracting arguments from online dialogue__ Find at: [LINK](https://www.aclweb.org/anthology/W15-4631.pdf)
+
+## 2021-11-29
+
+- Miao, Zhengjie and Li, Yuliang and Wang, Xiaolan and Tan, Wang-Chiew (2020): __Snippext: Semi-supervised opinion mining with augmented data__ Find at: [LINK](https://arxiv.org/pdf/2002.03049.pdf)
+
 ## 2021-11-11
 
 - Nord, Ebba Axelsson and Maraev, Vladislav and Breitholtz, Ellen and Howes, Christine (2021): __What do you mean? Eliciting enthymemes in text-based dialogue__ Find at: [LINK](http://semdial.org/anthology/Z21-Nord_semdial_0020.pdf)
