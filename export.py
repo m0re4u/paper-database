@@ -140,7 +140,7 @@ def write_md(bib_entries, outfile):
                 current_timestamp = timestamp
 
             # Write entry
-            f.write(f"- {authors} ({year}): __{title}__ \n")
+            f.write(f"- {authors} ({year}): __{title}__ ")
             for badge in badges:
                 f.write(f"{badge}")
             f.write(f"\n{link}\n\n")
