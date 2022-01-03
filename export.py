@@ -62,7 +62,6 @@ def classify_venue(venue_string, manual=None):
         'Political psychology',
         'Comparative European Politics',
         'Computer Supported Cooperative Work',
-        ''
     ]
     HI_VENUES = [
         'Computer Supported Cooperative Work'
@@ -93,7 +92,6 @@ def classify_venue(venue_string, manual=None):
             badges_to_add.append(NLP_BADGE)
         if 'DELIB' in manual:
             badges_to_add.append(DELIB_BADGE)
-
     return badges_to_add
 
 
@@ -108,7 +106,7 @@ def extract_common_info(entry):
     if len(entry['url']) > 0:
         link_string = f"Find at: [LINK]({parse_link(entry['url'])})"
     else:
-        print(f"No link for entry added on {str(timestamp.strftime('%Y-%m-%d'))}: {entry['title']}")
+        print(f"No link for entry added on: ({str(timestamp.strftime('%Y-%m-%d')):>12}) {entry['title'][:30]}..")
         link_string = ""
     return authors, title, year, link_string, timestamp
 
@@ -136,7 +134,7 @@ def write_md(bib_entries, outfile):
                 if len(badges) == 0:
                     conf_list.append(entry_dd['booktitle'].lower())
             else:
-                print(f"No venue for entry type {entry_dd['ENTRYTYPE']} titled {entry_dd['title'][:20]}..")
+                print(f"No venue for entry type: ({entry_dd['ENTRYTYPE']:>15}) {entry_dd['title'][:30]}..")
                 badges = []
             # Print a header for which date the paper was added on
             if timestamp < current_timestamp:
@@ -148,10 +146,12 @@ def write_md(bib_entries, outfile):
             for badge in badges:
                 f.write(f"{badge}")
             f.write(f"{link}\n\n")
+    print("---")
     print("Done exporting!")
-
+    print("---")
     print("Unbadged venues mentioned more than twice: ")
-    print({k for k,v in Counter(conf_list).items() if v > 1})
+    venues = '\n'.join({f'{v}: {k}' for k,v in Counter(conf_list).items() if v > 1})
+    print(f"{venues}")
 
 if __name__ == "__main__":
     try:

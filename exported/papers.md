@@ -129,7 +129,7 @@ Jason Weston (2017): __Learning through Dialogue Interactions by Asking Question
 
 - Chambers, Simone (2018): __Human life is group life: deliberative democracy for realists__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/08913811.2018.1466852?needAccess=true)
 
-- Mercier, Hugo and Landemore, H{\'e}l{\`e}ne (2012): __Reasoning is for arguing: Understanding the successes and failures of deliberation__ Find at: [LINK](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9221.2012.00873.x)
+- Mercier, Hugo and Landemore, H{\'e}l{\`e}ne (2012): __Reasoning is for arguing: Understanding the successes and failures of deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9221.2012.00873.x)
 
 - Zafrilla, Pedro Jes{\'u}s P{\'e}rez (2016): __Is Deliberative Democracy an adaptive political theory? A critical analysis of Hugo Mercier's Argumentative Theory of Reasoning__ Find at: [LINK](https://www.jstor.org/stable/pdf/44071941.pdf?casa_token=_eqULzXo7kMAAAAA:qda_nBjdQrFoUTlXtiZOIpYlh9xgTUvbZXFNT0iDC2xbAfogN4rSu_xYVJpJ9aJDsvlCY8eTubGCR6K3BVeF9aHkvxERvFbIyyX7zo2OeqX6d8KNemQH)
 
@@ -267,7 +267,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ !
 
 - Slonim, Noam and Bilu, Yonatan and Alzate, Carlos and Bar-Haim, Roy and Bogin, Ben and Bonin, Francesca and Choshen, Leshem and Cohen-Karlik, Edo and Dankin, Lena and Edelstein, Lilach and others (2021): __An autonomous debating system__ Find at: [LINK](https://www.nature.com/articles/s41586-021-03215-w.pdf)
 
-- Popa, Eugen Octav and Blok, Vincent and Wesselink, Renate (2020): __Discussion structures as tools for public deliberation__ Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0963662519880675)
+- Popa, Eugen Octav and Blok, Vincent and Wesselink, Renate (2020): __Discussion structures as tools for public deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0963662519880675)
 
 ## 2021-03-22
 
@@ -363,7 +363,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ !
 
 ## 2021-01-18
 
-- Stockmann, Daniela and Luo, Ting and Shen, Mingming (2020): __Designing authoritarian deliberation: how social media platforms influence political talk in China__ Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/13510347.2019.1679771?casa_token=6WBsxV_dz3cAAAAA:zz-PL3BXN4Whe_S4E0xxIBb-N304Y8yL-wUuozj1cfGlEGUhOFnw6g80WyVh1y3oXviL7hlT4Xd7pQ)
+- Stockmann, Daniela and Luo, Ting and Shen, Mingming (2020): __Designing authoritarian deliberation: how social media platforms influence political talk in China__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/13510347.2019.1679771?casa_token=6WBsxV_dz3cAAAAA:zz-PL3BXN4Whe_S4E0xxIBb-N304Y8yL-wUuozj1cfGlEGUhOFnw6g80WyVh1y3oXviL7hlT4Xd7pQ)
 
 - De Liddo, Anna and Buckingham Shum, Simon (2013): __Improving online deliberation with argument network visualization__ Find at: [LINK](https://oro.open.ac.uk/38003/1/DeLiddo-DC8-2013.pdf)
 
@@ -619,9 +619,9 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ !
 
 - Peldszus, Andreas and Stede, Manfred (2013): __From argument diagrams to argumentation mining in texts: A survey__ Find at: [LINK](https://www.ling.uni-potsdam.de/~peldszus/ijcini2013-preprint.pdf)
 
-- Steenbergen, Marco R and B{\"a}chtiger, Andr{\'e} and Sp{\"o}rndli, Markus and Steiner, J{\"u}rg (2003): __Measuring political deliberation: A discourse quality index__ Find at: [LINK](https://link.springer.com/content/pdf/10.1057/palgrave.cep.6110002.pdf)
+- Steenbergen, Marco R and B{\"a}chtiger, Andr{\'e} and Sp{\"o}rndli, Markus and Steiner, J{\"u}rg (2003): __Measuring political deliberation: A discourse quality index__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://link.springer.com/content/pdf/10.1057/palgrave.cep.6110002.pdf)
 
-- Klein, Mark (2012): __Enabling large-scale deliberation using attention-mediation metrics__ Find at: [LINK](https://link.springer.com/content/pdf/10.1007/s10606-012-9156-4.pdf)
+- Klein, Mark (2012): __Enabling large-scale deliberation using attention-mediation metrics__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://link.springer.com/content/pdf/10.1007/s10606-012-9156-4.pdf)
 
 - Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and Clustering of Arguments with Contextualized Word Embeddings__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aclweb.org/anthology/P19-1054.pdf)
 
@@ -677,9 +677,9 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ !
 
 - Wang, Lu and Ling, Wang (2016): __Neural network-based abstract generation for opinions and arguments__ Find at: [LINK](https://arxiv.org/pdf/1606.02785)
 
-- Lo, Alex Y and Alexander, Kim S and Proctor, Wendy and Ryan, Anthony (2013): __Reciprocity as deliberative capacity: Lessons from a citizen's deliberation on carbon pricing mechanisms in Australia__ Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1068/c11192?casa_token=LSm4N2NZwo0AAAAA:axMFQnttWwnRJSU96JzI2wAN0Z_cG5T_S4QEFTpmIQW27ak6u0_dgcZOgf3tmOWlSBJrD3lFeQO2BQ)
+- Lo, Alex Y and Alexander, Kim S and Proctor, Wendy and Ryan, Anthony (2013): __Reciprocity as deliberative capacity: Lessons from a citizen's deliberation on carbon pricing mechanisms in Australia__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1068/c11192?casa_token=LSm4N2NZwo0AAAAA:axMFQnttWwnRJSU96JzI2wAN0Z_cG5T_S4QEFTpmIQW27ak6u0_dgcZOgf3tmOWlSBJrD3lFeQO2BQ)
 
-- Dryzek, John S (2009): __Democratization as deliberative capacity building__ Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0010414009332129?casa_token=_feF9iCOIAgAAAAA:mt7DSTZGykwDthMLFkPy63dodbC2uIF4Th00F4ZO_S28yXuMU2KpcPmCy7Evrp-fwYbmziLDw2kruQ)
+- Dryzek, John S (2009): __Democratization as deliberative capacity building__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0010414009332129?casa_token=_feF9iCOIAgAAAAA:mt7DSTZGykwDthMLFkPy63dodbC2uIF4Th00F4ZO_S28yXuMU2KpcPmCy7Evrp-fwYbmziLDw2kruQ)
 
 - Viet, Lai Dac and Sinh, Vu Trong and Minh, Nguyen Le and Satoh, Ken (2017): __ConvAMR: Abstract meaning representation parsing for legal document__ Find at: [LINK](https://arxiv.org/pdf/1711.06141.pdf)
 
