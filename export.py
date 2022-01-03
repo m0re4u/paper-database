@@ -143,7 +143,7 @@ def write_md(bib_entries, outfile):
             f.write(f"- {authors} ({year}): __{title}__ ")
             for badge in badges:
                 f.write(f"{badge}")
-            f.write(f"\n{link}\n\n")
+            f.write(f"{link}\n\n")
     print("Done exporting!")
 
     print("Unbadged venues mentioned more than twice: ")
