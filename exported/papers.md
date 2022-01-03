@@ -1,4 +1,14 @@
 # Papers
+## 2022-01-03
+
+- Cruz, Ivan and Gelbukh, Alexander F and Sidorov, Grigori (2014): __Implicit Aspect Indicator Extraction for Aspect based Opinion Mining.__ Find at: [LINK](http://www.ijcla.org/2014-2/IJCLA-2014-2-pp-135-152-Implicit.pdf)
+
+- Tubishat, Mohammad and Idris, Norisma and Abushariah, Mohammad AM (2018): __Implicit aspect extraction in sentiment analysis: Review, taxonomy, oppportunities, and open challenges__ Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0306457317306684?casa_token=kDSW8CqtYLUAAAAA:msMe6ta5d8WekcZ35-wcd0-0OfMxJzQDRGD1ECy_o4z1jWz6ZHFuI2Wpl3wouxx_zalfsekacr8)
+
+- He, Ruidan and Lee, Wee Sun and Ng, Hwee Tou and Dahlmeier, Daniel (2017): __An unsupervised neural attention model for aspect extraction__ Find at: [LINK](https://aclanthology.org/P17-1036.pdf)
+
+- Enrico Liscio and Michiel van der Meer and Luciano C. Siebert and Catholijn M. Jonker and Niek Mouter and Pradeep K. Murukannaiah (2021): __Axies: Identifying and Evaluating Context-Specific Values__ Find at: [LINK](https://ii.tudelft.nl/~pradeep/doc/Liscio-2021-AAMAS-Axies.pdf)
+
 ## 2021-12-16
 
 - Levy, Ran and Gretz, Shai and Sznajder, Benjamin and Hummel, Shay and Aharonov, Ranit and Slonim, Noam (2017): __Unsupervised corpus--wide claim detection__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5110.pdf)
