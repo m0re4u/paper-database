@@ -28,6 +28,48 @@ def parse_link(link_string):
     return new_string
 
 
+def classify_venue(venue_string, manual=None):
+    """
+    Classify the venue string (conference or journal ..) to any of the
+    categories prespecified.
+
+    Categories:
+     - AI
+     - HI
+     - Deliberation
+     - NLProc
+    """
+    AI_VENUES = ['AAAI', 'IJCAI']
+    NLP_VENUES = ['Computational Linguistics', 'Argument Mining']
+    DELIB_VENUES = ['Public Deliberation']
+    HI_VENUES = ['Computer Supported Cooperative Work']
+
+    AI_BADGE = "![ai-badge](images/ai-badge.png)"
+    HI_BADGE = "![hi-badge](images/hi-badge.png)"
+    NLP_BADGE = "![nlp-badge](images/nlp-badge.png)"
+    DELIB_BADGE = "![deliberation-badge](images/deliberation-badge.png)"
+    if manual is None:
+        if any([string in venue_string for string in AI_VENUES]):
+            return AI_BADGE
+        elif any([string in venue_string for string in HI_VENUES]):
+            return HI_BADGE
+        elif any([string in venue_string for string in NLP_VENUES]):
+            return NLP_BADGE
+        elif any([string in venue_string for string in DELIB_VENUES]):
+            return DELIB_BADGE
+        else:
+            print(f"Venue {venue_string} not assigned")
+    else:
+        if manual == 'AI':
+            return AI_BADGE
+        elif manual == 'HI':
+            return HI_BADGE
+        elif manual == 'NLP':
+            return NLP_BADGE
+        elif manual == 'DELIB':
+            return DELIB_BADGE
+
+
 def extract_common_info(entry):
     """
     Extract information that all types of bibtex entries should have
@@ -57,13 +99,23 @@ def write_md(bib_entries, outfile):
         for entry in bib_entries:
             entry_dd = defaultdict(lambda: "", entry)
             authors, title, year, link, timestamp = extract_common_info(entry_dd)
+            if 'journal' in entry_dd:
+                badge = classify_venue(entry_dd['journal'])
+            elif 'booktitle' in entry_dd:
+                badge = classify_venue(entry_dd['booktitle'])
+            else:
+                print(f"No badges for entry type {entry_dd['ENTRYTYPE']} titled {entry_dd['title'][:20]}..")
+                badge = None
             # Print a header for which date the paper was added on
             if timestamp < current_timestamp:
                 f.write(f"## {timestamp.date()}\n\n")
                 current_timestamp = timestamp
 
             # Write entry
-            f.write(f"- {authors} ({year}): __{title}__ {link}\n\n")
+            f.write(f"- {authors} ({year}): __{title}__ {link}\n")
+            if badge is not None:
+                f.write(f"{badge}\n")
+            f.write("\n\n")
     print("Done exporting!")
 
 if __name__ == "__main__":
