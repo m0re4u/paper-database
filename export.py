@@ -55,6 +55,14 @@ def classify_venue(venue_string, manual=None):
         'Journal of E-Politics',
         'Administrative science',
         'Deliberative',
+        'Government and Policy',
+        'Comparative political studies',
+        'Democratization',
+        'Public Understanding of Science',
+        'Political psychology',
+        'Comparative European Politics',
+        'Computer Supported Cooperative Work',
+        ''
     ]
     HI_VENUES = [
         'Computer Supported Cooperative Work'
@@ -66,31 +74,27 @@ def classify_venue(venue_string, manual=None):
     NLP_BADGE = "![nlp-badge](/images/nlp-badge.png)"
     DELIB_BADGE = "![deliberation-badge](/images/deliberation-badge.png)"
     badges_to_add = []
-    added = True
     if manual is None:
         # if any([string.lower() in venue_string.lower() for string in AI_VENUES]):
         #     badges_to_add.append(AI_BADGE)
         if any([string.lower() in venue_string.lower() for string in HI_VENUES]):
             badges_to_add.append(HI_BADGE)
-        elif any([string.lower() in venue_string.lower() for string in NLP_VENUES]):
+        if any([string.lower() in venue_string.lower() for string in NLP_VENUES]):
             badges_to_add.append(NLP_BADGE)
-        elif any([string.lower() in venue_string.lower() for string in DELIB_VENUES]):
+        if any([string.lower() in venue_string.lower() for string in DELIB_VENUES]):
             badges_to_add.append(DELIB_BADGE)
-        else:
-            added = False
+
     else:
         # if manual == 'AI':
         #     badges_to_add.append(AI_BADGE)
-        if manual == 'HI':
+        if 'HI' in manual:
             badges_to_add.append(HI_BADGE)
-        elif manual == 'NLP':
+        if 'NLP' in manual:
             badges_to_add.append(NLP_BADGE)
-        elif manual == 'DELIB':
+        if 'DELIB' in manual:
             badges_to_add.append(DELIB_BADGE)
-        else:
-            added = False
 
-    return badges_to_add, added
+    return badges_to_add
 
 
 def extract_common_info(entry):
@@ -124,12 +128,12 @@ def write_md(bib_entries, outfile):
             entry_dd = defaultdict(lambda: "", entry)
             authors, title, year, link, timestamp = extract_common_info(entry_dd)
             if 'journal' in entry_dd:
-                badges, added = classify_venue(entry_dd['journal'])
-                if not added:
+                badges = classify_venue(entry_dd['journal'])
+                if len(badges) == 0:
                     conf_list.append(entry_dd['journal'].lower())
             elif 'booktitle' in entry_dd:
-                badges, added = classify_venue(entry_dd['booktitle'])
-                if not added:
+                badges = classify_venue(entry_dd['booktitle'])
+                if len(badges) == 0:
                     conf_list.append(entry_dd['booktitle'].lower())
             else:
                 print(f"No venue for entry type {entry_dd['ENTRYTYPE']} titled {entry_dd['title'][:20]}..")
