@@ -8,7 +8,7 @@
 
 
 - He, Ruidan and Lee, Wee Sun and Ng, Hwee Tou and Dahlmeier, Daniel (2017): __An unsupervised neural attention model for aspect extraction__ Find at: [LINK](https://aclanthology.org/P17-1036.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Enrico Liscio and Michiel van der Meer and Luciano C. Siebert and Catholijn M. Jonker and Niek Mouter and Pradeep K. Murukannaiah (2021): __Axies: Identifying and Evaluating Context-Specific Values__ Find at: [LINK](https://ii.tudelft.nl/~pradeep/doc/Liscio-2021-AAMAS-Axies.pdf)
@@ -17,11 +17,11 @@
 ## 2021-12-16
 
 - Levy, Ran and Gretz, Shai and Sznajder, Benjamin and Hummel, Shay and Aharonov, Ranit and Slonim, Noam (2017): __Unsupervised corpus--wide claim detection__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5110.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Levy, Ran and Bogin, Ben and Gretz, Shai and Aharonov, Ranit and Slonim, Noam (2018): __Towards an argumentative content search engine using weak supervision__ Find at: [LINK](https://www.aclweb.org/anthology/C18-1176.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Swanson, Reid and Ecker, Brian and Walker, Marilyn (2015): __Argument mining: Extracting arguments from online dialogue__ Find at: [LINK](https://www.aclweb.org/anthology/W15-4631.pdf)
@@ -41,7 +41,7 @@
 
 
 - Rajendran, Pavithra and Bollegala, Danushka and Parsons, Simon (2016): __Contextual stance classification of opinions: A step towards enthymeme reconstruction in online reviews__ Find at: [LINK](https://aclanthology.org/W16-2804.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Karadzhov, Georgi and Stafford, Tom and Vlachos, Andreas (2021): __DeliData: A dataset for deliberation in multi-party problem solving__ Find at: [LINK](https://arxiv.org/pdf/2108.05271.pdf)
@@ -78,14 +78,14 @@
 
 
 - Gabriel, Saadia and Bhagavatula, Chandra and Shwartz, Vered and Le Bras, Ronan and Forbes, Maxwell and Choi, Yejin (2021): __Paragraph-level Commonsense Transformers with Recurrent Memory__ Find at: [LINK](https://arxiv.org/pdf/2010.01486.pdf)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Bhagavatula, Chandra and Le Bras, Ronan and Malaviya, Chaitanya and Sakaguchi, Keisuke and Holtzman, Ari and Rashkin, Hannah and Downey, Doug and Yih, Wen-tau and Choi, Yejin (2019): __Abductive Commonsense Reasoning__ Find at: [LINK](https://arxiv.org/pdf/1908.05739.pdf)
 
 
 - Boltu{\v{z}}i{\'c}, Filip and {\v{S}}najder, Jan (2016): __Fill the gap! analyzing implicit premises between claims from online debates__ Find at: [LINK](https://aclanthology.org/W16-2815/)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Lawrence, John and Reed, Chris (2016): __Argument Mining Using Argumentation Scheme Structures.__ Find at: [LINK](http://arg-tech.org/people/chris/publications/2016/comma2016-schememining.pdf)
@@ -101,7 +101,7 @@ Jason Weston (2017): __Learning through Dialogue Interactions by Asking Question
 
 
 - Wang, Yansen and Liu, Chenyi and Huang, Minlie and Nie, Liqiang (2018): __Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders__ Find at: [LINK](https://aclanthology.org/P18-1204.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-10-25
@@ -126,7 +126,7 @@ Jason Weston (2017): __Learning through Dialogue Interactions by Asking Question
 
 
 - Vecchi, Eva Maria and Falk, Neele and Jundi, Iman and Lapesa, Gabriella (2021): __Towards Argument Mining for Social Good: A Survey__ Find at: [LINK](https://aclanthology.org/2021.acl-long.107.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-10-20
@@ -138,11 +138,11 @@ Jason Weston (2017): __Learning through Dialogue Interactions by Asking Question
 
 
 - Pryzant, Reid and Martinez, Richard Diehl and Dass, Nathan and Kurohashi, Sadao and Jurafsky, Dan and Yang, Diyi (2020): __Automatically neutralizing subjective bias in text__ Find at: [LINK](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Al-Khatib, Khalid and Hou, Yufang and Wachsmuth, Henning and Jochim, Charles and Bonin, Francesca and Stein, Benno (2020): __End-to-end argumentation knowledge graph construction__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/6231/6087)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 ## 2021-10-19
@@ -151,13 +151,13 @@ Jason Weston (2017): __Learning through Dialogue Interactions by Asking Question
 
 
 - Habernal, Ivan and Wachsmuth, Henning and Gurevych, Iryna and Stein, Benno (2018): __The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants__ Find at: [LINK](https://aclanthology.org/N18-1175.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-09-29
 
 - Chai, Zi and Xing, Xinyu and Wan, Xiaojun and Huang, Bo (2019): __Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums__ Find at: [LINK](https://aclanthology.org/P19-1497.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Kumar, Vishwajeet and Ramakrishnan, Ganesh and Li, Yuan-Fang (2018): __A framework for automatic question generation from text using deep reinforcement learning__ Find at: [LINK](https://scai-workshop.github.io/ijcai2019/slides/IJCAI2019_Li.pdf)
@@ -251,11 +251,11 @@ S{\o}gaard, Anders (2021): __Spurious Correlations in Cross-Topic Argument Minin
 ## 2021-07-28
 
 - Li, Bing and Miao, Yukai and Wang, Yaoshu and Sun, Yifang and Wang, Wei (2021): __Improving the Efficiency and Effectiveness for BERT-based Entity Resolution__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/17562)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Kasai, Jungo and Qian, Kun and Gurajada, Sairam and Li, Yunyao and Popa, Lucian (2019): __Low-resource Deep Entity Resolution with Transfer and Active Learning__ Find at: [LINK](https://arxiv.org/pdf/1906.08042.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-07-14
@@ -283,20 +283,20 @@ S{\o}gaard, Anders (2021): __Spurious Correlations in Cross-Topic Argument Minin
 Baumer, Gili  and
 Shlomov, Segev  and
 Reichart, Roi (2018): __The Hitchhiker{'}s Guide to Testing Statistical Significance in Natural Language Processing__ Find at: [LINK](https://aclanthology.org/P18-1128)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Gienapp, Lukas  and
 Stein, Benno  and
 Hagen, Matthias  and
 Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ Find at: [LINK](https://aclanthology.org/2020.acl-main.511)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-05-21
 
 - Bar-Haim, Roy and Eden, Lilach and Friedman, Roni and Kantor, Yoav and Lahav, Dan and Slonim, Noam (2020): __From Arguments to Key Points: Towards Automatic Argument Summarization__ Find at: [LINK](https://aclanthology.org/2020.acl-main.371.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Bar-Haim, Roy and Kantor, Yoav and Eden, Lilach and Friedman, Roni and Lahav, Dan and Slonim, Noam (2020): __Quantitative Argument Summarization and beyond: Cross-Domain Key Point Analysis__ Find at: [LINK](https://aclanthology.org/2020.emnlp-main.3.pdf)
@@ -318,7 +318,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Chen, Sihao and Khashabi, Daniel and Yin, Wenpeng and Callison-Burch, Chris and Roth, Dan (2019): __Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims__ Find at: [LINK](https://www.aclweb.org/anthology/N19-1053.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-04-29
@@ -329,17 +329,17 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2021-04-26
 
 - Sommerauer, Pia and Fokkens, Antske and Vossen, Piek (2020): __Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement__ Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.422.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-04-22
 
 - Ein-Dor, Liat and Shnarch, Eyal and Dankin, Lena and Halfon, Alon and Sznajder, Benjamin and Gera, Ariel and Alzate, Carlos and Gleize, Martin and Choshen, Leshem and Hou, Yufang and others (2020): __Corpus Wide Argument Mining—A Working Solution__ Find at: [LINK](https://arxiv.org/pdf/1911.10763.pdf)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Bilu, Yonatan and Slonim, Noam (2016): __Claim synthesis via predicate recycling__ Find at: [LINK](https://www.aclweb.org/anthology/P16-2085.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-04-19
@@ -422,7 +422,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Habernal, Ivan and Gurevych, Iryna (2017): __Argumentation mining in user-generated web discourse__ Find at: [LINK](https://www.mitpressjournals.org/doi/pdfplus/10.1162/COLI_a_00276)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-02-09
@@ -442,11 +442,11 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Ajjour, Yamen and Chen, Wei-Fan and Kiesel, Johannes and Wachsmuth, Henning and Stein, Benno (2017): __Unit segmentation of argumentative texts__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5115.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Trautmann, Dietrich and Daxenberger, Johannes and Stab, Christian and Sch{\"u}tze, Hinrich and Gurevych, Iryna (2020): __Fine-grained argument unit recognition and classification__ Find at: [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/6438/6294)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Wambsganss, Thiemo and Molyndris, Nikolaos and S{\"o}llner, Matthias (2020): __Unlocking transfer learning in argumentation mining: A domain-independent modelling approach__ Find at: [LINK](https://www.alexandria.unisg.ch/259502/1/WI2020_ArguMining_final.pdf)
@@ -461,7 +461,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Stab, Christian and Gurevych, Iryna (2017): __Parsing argumentation structures in persuasive essays__ Find at: [LINK](https://www.mitpressjournals.org/doi/pdfplus/10.1162/COLI_a_00295)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Dusmanu, Mihai and Cabrio, Elena and Villata, Serena (2017): __Argument mining on Twitter: Arguments, facts and sources__ Find at: [LINK](https://www.aclweb.org/anthology/D17-1245.pdf)
@@ -495,14 +495,14 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Torsi, Benedetta and Morante, Roser (2018): __Annotating Claims in the Vaccination Debate__ Find at: [LINK](https://www.aclweb.org/anthology/W18-5207.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Rosenthal, Sara and McKeown, Kathleen (2012): __Detecting opinionated claims in online discussions__ Find at: [LINK](https://ieeexplore.ieee.org/iel5/6335567/6337075/06337079.pdf?casa_token=195hf6fB9twAAAAA:u5LtQ8mOQM67liLQ4USWLmry0qlCZCcUcEsjAOCIRkwoiOoZ7G7DbvYj2qk77J3KgtTfnqQc9V8)
 
 
 - Al Khatib, Khalid and Wachsmuth, Henning and Kiesel, Johannes and Hagen, Matthias and Stein, Benno (2016): __A news editorial corpus for mining argumentation strategies__ Find at: [LINK](https://www.aclweb.org/anthology/C16-1324.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Al Khatib, Khalid and Wachsmuth, Henning and Hagen, Matthias and K{\"o}hler, Jonas and Stein, Benno (2016): __Cross-domain mining of argumentative text through distant supervision__ Find at: [LINK](https://www.aclweb.org/anthology/N16-1165.pdf)
@@ -534,13 +534,13 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Bauwelinck, Nina and Lefever, Els (2020): __Annotating Topics, Stance, Argumentativeness and Claims in Dutch Social Media Comments: A Pilot Study__ Find at: [LINK](https://www.aclweb.org/anthology/2020.argmining-1.2.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2021-01-14
 
 - Niven, Timothy and Kao, Hung-Yu (2019): __Probing Neural Network Comprehension of Natural Language Arguments__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1459.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Habernal, Ivan and Wachsmuth, Henning and Gurevych, Iryna and Stein, Benno (2018): __SemEval-2018 task 12: The argument reasoning comprehension task__ Find at: [LINK](https://www.aclweb.org/anthology/S18-1121.pdf)
@@ -579,7 +579,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2021-01-06
 
 - Lu, Jing and Ng, Vincent (2018): __Event Coreference Resolution: A Survey of Two Decades of Research.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0773.pdf)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 ## 2021-01-04
@@ -590,7 +590,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2020-12-16
 
 - Fishkin, James and Garg, Nikhil and Gelauff, Lodewijk and Goel, Ashish and Munagala, Kamesh and Sakshuwong, Sukolsak and Siu, Alice and Yandamuri, Sravya (2018): __Deliberative democracy with the Online Deliberation platform__ Find at: [LINK](https://www.humancomputation.com/2019/assets/papers/144.pdf)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 ## 2020-12-15
@@ -618,14 +618,14 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2020-12-08
 
 - Lugini, Luca and Litman, Diane (2020): __Contextual Argument Component Classification for Class Discussions__ Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.128.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Wambsganss, Thiemo and Niklaus, Christina and S{\"o}llner, Matthias and Handschuh, Siegfried and Leimeister, Jan Marco (2020): __A Corpus for Argumentative Writing Support in German__ Find at: [LINK](https://arxiv.org/pdf/2010.13674.pdf)
 
 
 - Pereg, Oren and Korat, Daniel and Wasserblat, Moshe (2020): __Syntactically Aware Cross-Domain Aspect and Opinion Terms Extraction__ Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.158.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Kober, Thomas and Alikhani, Malihe and Stone, Matthew and Steedman, Mark (2020): __Aspectuality Across Genre: A Distributional Semantics Approach__ Find at: [LINK](https://arxiv.org/pdf/2011.00345)
@@ -635,7 +635,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Alhindi, Tariq and Muresan, Smaranda and Preo{\c{t}}iuc-Pietro, Daniel (2020): __Fact vs. Opinion: the Role of Argumentation Features in News Classification__ Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.540.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2020-12-04
@@ -649,7 +649,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Recasens, Marta and Danescu-Niculescu-Mizil, Cristian and Jurafsky, Dan (2013): __Linguistic models for analyzing and detecting biased language__ Find at: [LINK](https://www.aclweb.org/anthology/P13-1162.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Lee, Jinhyuk and Yoon, Wonjin and Kim, Sungdong and Kim, Donghyeon and Kim, Sunkyu and So, Chan Ho and Kang, Jaewoo (2020): __BioBERT: a pre-trained biomedical language representation model for biomedical text mining__ Find at: [LINK](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)
@@ -676,7 +676,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Yang, Zuozhi and Onta{\~n}{\'o}n, Santiago (2020): __Are Strong Policies Also Good Playout Policies? Playout Policy Optimization for RTS Games__ Find at: [LINK](https://ojs.aaai.org/index.php/AIIDE/article/download/7423/7345)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 ## 2020-11-17
@@ -728,7 +728,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2020-11-04
 
 - van Son, Chantal and Morante, Roser and Aroyo, Lora and Vossen, Piek (2018): __Scoring and Classifying Implicit Positive Interpretations: A Challenge of Class Imbalance__ Find at: [LINK](https://www.aclweb.org/anthology/C18-1191.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2020-11-03
@@ -737,7 +737,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Hartz-Karp, Janette and Sullivan, Brian (2014): __The unfulfilled promise of online deliberation__ Find at: [LINK](https://espace.curtin.edu.au/bitstream/handle/20.500.11937/20500/212764_139522_JHK_Public_Deliberation.pdf?sequence=2)
-![deliberation-badge](images/deliberation-badge.png)
+![deliberation-badge](/images/deliberation-badge.png)
 
 
 - Abbott, Rob and Ecker, Brian and Anand, Pranav and Walker, Marilyn (2016): __Internet argument corpus 2.0: An sql schema for dialogic social media and the corpora to go with it__ Find at: [LINK](https://www.aclweb.org/anthology/L16-1704.pdf)
@@ -774,7 +774,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - van Son, Chantal and Caselli, Tommaso and Fokkens, Antske and Maks, Isa and Morante, Roser and Aroyo, Lora and Vossen, Piek (2016): __Unshared task at the 3rd workshop on argument mining: Perspective based local agreement and disagreement in online debate__ Find at: [LINK](https://www.aclweb.org/anthology/W16-2819.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2020-10-20
@@ -783,11 +783,11 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Al Khatib, Khalid and Wachsmuth, Henning and Lang, Kevin and Herpel, Jakob and Hagen, Matthias and Stein, Benno (2018): __Modeling deliberative argumentation strategies on wikipedia__ Find at: [LINK](https://www.aclweb.org/anthology/P18-1237.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Wachsmuth, Henning and Potthast, Martin and Al Khatib, Khalid and Ajjour, Yamen and Puschmann, Jana and Qu, Jiani and Dorsch, Jonas and Morari, Viorel and Bevendorff, Janek and Stein, Benno (2017): __Building an argument search engine for the web__ Find at: [LINK](https://www.aclweb.org/anthology/W17-5106.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Bex, Floris and Lawrence, John and Snaith, Mark and Reed, Chris (2013): __Implementing the argument web__ Find at: [LINK](https://www.researchgate.net/profile/John_Lawrence3/publication/262157452_Implementing_the_Argument_Web/links/5bb47e9c299bf13e605d184f/Implementing-the-Argument-Web.pdf)
@@ -811,11 +811,11 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Bevendorff, Janek and Al Khatib, Khalid and Potthast, Martin and Stein, Benno (2020): __Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis__ Find at: [LINK](https://www.aclweb.org/anthology/2020.acl-main.108.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Al Khatib, Khalid and V{\"o}lske, Michael and Syed, Shahbaz and Kolyada, Nikolay and Stein, Benno (2020): __Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness__ Find at: [LINK](https://www.aclweb.org/anthology/2020.acl-main.632.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 ## 2020-10-13
@@ -831,7 +831,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2020-10-07
 
 - Peng, Haoruo and Khashabi, Daniel and Roth, Dan (2015): __Solving Hard Coreference Problems__ Find at: [LINK](https://www.aclweb.org/anthology/N15-1082.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Kocijan, Vid and Lukasiewicz, Thomas and Davis, Ernest and Marcus, Gary and Morgenstern, Leora (2020): __A Review of Winograd Schema Challenge Datasets and Approaches__ Find at: [LINK](https://arxiv.org/pdf/2004.13831.pdf)
@@ -854,35 +854,35 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 ## 2020-09-17
 
 - Elena Cabrio and Serena Villata (2018): __Five Years of Argument Mining: a Data-driven Analysis__ Find at: [LINK](https://doi.org/10.24963/ijcai.2018/766)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Levy, Ran and Bilu, Yonatan and Hershcovich, Daniel and Aharoni, Ehud and Slonim, Noam (2014): __Context dependent claim detection__ Find at: [LINK](https://www.aclweb.org/anthology/C14-1141.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Bar-Haim, Roy and Bhattacharya, Indrajit and Dinuzzo, Francesco and Saha, Amrita and Slonim, Noam (2017): __Stance classification of context-dependent claims__ Find at: [LINK](https://www.aclweb.org/anthology/E17-1024.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Eger, Steffen and Daxenberger, Johannes and Gurevych, Iryna (2017): __Neural End-to-End Learning for Computational Argumentation Mining__ Find at: [LINK](https://aclanthology.org/P17-1002.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Duthie, Rory and Budzynska, Katarzyna (2018): __A Deep Modular RNN Approach for Ethos Mining.__ Find at: [LINK](https://www.ijcai.org/Proceedings/2018/0562.pdf)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Schulz, Claudia and Eger, Steffen and Daxenberger, Johannes and Kahse, Tobias and Gurevych, Iryna (2018): __Multi-Task Learning for Argumentation Mining in Low-Resource Settings__ Find at: [LINK](http://arxiv.org/pdf/1804.04083v3)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Jo, Yohan and Visser, Jacky and Reed, Chris and Hovy, Eduard (2019): __A cascade model for proposition extraction in argumentation__ Find at: [LINK](https://discovery.dundee.ac.uk/ws/files/40857139/Final_Published_Version.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Lawrence, John and Reed, Chris (2020): __Argument mining: A survey__ Find at: [LINK](https://www.researchgate.net/publication/336351909_Argument_Mining_A_Survey/link/5e21ca47299bf1e1fab9d627/download)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Peldszus, Andreas and Stede, Manfred (2013): __From argument diagrams to argumentation mining in texts: A survey__ Find at: [LINK](https://www.ling.uni-potsdam.de/~peldszus/ijcini2013-preprint.pdf)
@@ -892,11 +892,11 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Klein, Mark (2012): __Enabling large-scale deliberation using attention-mediation metrics__ Find at: [LINK](https://link.springer.com/content/pdf/10.1007/s10606-012-9156-4.pdf)
-![hi-badge](images/hi-badge.png)
+![hi-badge](/images/hi-badge.png)
 
 
 - Reimers, Nils and Schiller, Benjamin and Beck, Tilman and Daxenberger, Johannes and Stab, Christian and Gurevych, Iryna (2019): __Classification and Clustering of Arguments with Contextualized Word Embeddings__ Find at: [LINK](https://www.aclweb.org/anthology/P19-1054.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Maximilian Spliethöver and Jonas Klaff and Hendrik Heuer (2019): __Is It Worth the Attention? A Comparative Evaluation of Attention Layers for Argument Unit Segmentation__ Find at: [LINK](http://arxiv.org/pdf/1906.10068v1)
@@ -990,15 +990,15 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - Stengel-Eskin, Elias and White, Aaron Steven and Zhang, Sheng and Van Durme, Benjamin (2020): __Universal Decompositional Semantic Parsing__ Find at: [LINK](https://www.aclweb.org/anthology/2020.acl-main.746.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Koller, Alexander and Oepen, Stephan and Sun, Weiwei (2019): __Graph-based meaning representations: Design and processing__ Find at: [LINK](https://www.aclweb.org/anthology/P19-4002.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Garg, Sahil and Galstyan, Aram and Hermjakob, Ulf and Marcu, Daniel (2016): __Extracting biomolecular interactions using semantic parsing of biomedical text__ Find at: [LINK](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11740/12014)
-![ai-badge](images/ai-badge.png)
+![ai-badge](/images/ai-badge.png)
 
 
 - Albarracin, Dolores and Shavitt, Sharon (2018): __Attitudes and attitude change__ Find at: [LINK](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-122216-011911)
@@ -1035,7 +1035,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ F
 
 
 - He, Luheng and Lee, Kenton and Lewis, Mike and Zettlemoyer, Luke (2017): __Deep semantic role labeling: What works and what’s next__ Find at: [LINK](https://www.aclweb.org/anthology/P17-1044.pdf)
-![nlp-badge](images/nlp-badge.png)
+![nlp-badge](/images/nlp-badge.png)
 
 
 - Loui, Ronald Prescott (1995): __Models of deliberation in the social sciences__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/212094.212123)

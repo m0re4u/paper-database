@@ -44,10 +44,10 @@ def classify_venue(venue_string, manual=None):
     DELIB_VENUES = ['Public Deliberation']
     HI_VENUES = ['Computer Supported Cooperative Work']
 
-    AI_BADGE = "![ai-badge](images/ai-badge.png)"
-    HI_BADGE = "![hi-badge](images/hi-badge.png)"
-    NLP_BADGE = "![nlp-badge](images/nlp-badge.png)"
-    DELIB_BADGE = "![deliberation-badge](images/deliberation-badge.png)"
+    AI_BADGE = "![ai-badge](/images/ai-badge.png)"
+    HI_BADGE = "![hi-badge](/images/hi-badge.png)"
+    NLP_BADGE = "![nlp-badge](/images/nlp-badge.png)"
+    DELIB_BADGE = "![deliberation-badge](/images/deliberation-badge.png)"
     if manual is None:
         if any([string in venue_string for string in AI_VENUES]):
             return AI_BADGE
