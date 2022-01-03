@@ -2,7 +2,7 @@ import argparse
 import datetime
 import bibtexparser as bp
 
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 
 def read_bib(filename):
@@ -40,34 +40,57 @@ def classify_venue(venue_string, manual=None):
      - NLProc
     """
     AI_VENUES = ['AAAI', 'IJCAI']
-    NLP_VENUES = ['Computational Linguistics', 'Argument Mining']
-    DELIB_VENUES = ['Public Deliberation']
-    HI_VENUES = ['Computer Supported Cooperative Work']
+    NLP_VENUES = [
+        'Computational Linguistics',
+        'Argument Mining',
+        'Natural language learning',
+        'Language resources and evaluation',
+        'Joint Conference on Natural Language Processing',
+        'COMMA',
+        'Argument \\& Computation',
+        'Empirical Methods in Natural Language Processing'
+    ]
+    DELIB_VENUES = [
+        'Public Deliberation',
+        'Journal of E-Politics',
+        'Administrative science',
+        'Deliberative',
+    ]
+    HI_VENUES = [
+        'Computer Supported Cooperative Work'
+        'human--computer interaction'
+    ]
 
     AI_BADGE = "![ai-badge](/images/ai-badge.png)"
     HI_BADGE = "![hi-badge](/images/hi-badge.png)"
     NLP_BADGE = "![nlp-badge](/images/nlp-badge.png)"
     DELIB_BADGE = "![deliberation-badge](/images/deliberation-badge.png)"
+    badges_to_add = []
+    added = True
     if manual is None:
-        if any([string in venue_string for string in AI_VENUES]):
-            return AI_BADGE
-        elif any([string in venue_string for string in HI_VENUES]):
-            return HI_BADGE
-        elif any([string in venue_string for string in NLP_VENUES]):
-            return NLP_BADGE
-        elif any([string in venue_string for string in DELIB_VENUES]):
-            return DELIB_BADGE
+        # if any([string.lower() in venue_string.lower() for string in AI_VENUES]):
+        #     badges_to_add.append(AI_BADGE)
+        if any([string.lower() in venue_string.lower() for string in HI_VENUES]):
+            badges_to_add.append(HI_BADGE)
+        elif any([string.lower() in venue_string.lower() for string in NLP_VENUES]):
+            badges_to_add.append(NLP_BADGE)
+        elif any([string.lower() in venue_string.lower() for string in DELIB_VENUES]):
+            badges_to_add.append(DELIB_BADGE)
         else:
-            print(f"Venue {venue_string} not assigned")
+            added = False
     else:
-        if manual == 'AI':
-            return AI_BADGE
-        elif manual == 'HI':
-            return HI_BADGE
+        # if manual == 'AI':
+        #     badges_to_add.append(AI_BADGE)
+        if manual == 'HI':
+            badges_to_add.append(HI_BADGE)
         elif manual == 'NLP':
-            return NLP_BADGE
+            badges_to_add.append(NLP_BADGE)
         elif manual == 'DELIB':
-            return DELIB_BADGE
+            badges_to_add.append(DELIB_BADGE)
+        else:
+            added = False
+
+    return badges_to_add, added
 
 
 def extract_common_info(entry):
@@ -93,6 +116,7 @@ def write_md(bib_entries, outfile):
     # Sort on date added, most recent first
     bib_entries.sort(key=lambda x: datetime.datetime.strptime(x['timestamp'], "%Y-%m-%d"), reverse=True)
 
+    conf_list = []
     with open(outfile, 'w') as f:
         f.write("# Papers\n")
         current_timestamp = datetime.datetime(2100,1,1)
@@ -100,12 +124,16 @@ def write_md(bib_entries, outfile):
             entry_dd = defaultdict(lambda: "", entry)
             authors, title, year, link, timestamp = extract_common_info(entry_dd)
             if 'journal' in entry_dd:
-                badge = classify_venue(entry_dd['journal'])
+                badges, added = classify_venue(entry_dd['journal'])
+                if not added:
+                    conf_list.append(entry_dd['journal'].lower())
             elif 'booktitle' in entry_dd:
-                badge = classify_venue(entry_dd['booktitle'])
+                badges, added = classify_venue(entry_dd['booktitle'])
+                if not added:
+                    conf_list.append(entry_dd['booktitle'].lower())
             else:
-                print(f"No badges for entry type {entry_dd['ENTRYTYPE']} titled {entry_dd['title'][:20]}..")
-                badge = None
+                print(f"No venue for entry type {entry_dd['ENTRYTYPE']} titled {entry_dd['title'][:20]}..")
+                badges = []
             # Print a header for which date the paper was added on
             if timestamp < current_timestamp:
                 f.write(f"## {timestamp.date()}\n\n")
@@ -113,10 +141,13 @@ def write_md(bib_entries, outfile):
 
             # Write entry
             f.write(f"- {authors} ({year}): __{title}__ \n")
-            if badge is not None:
-                f.write(f"{badge}\n")
-            f.write(f"{link}\n\n")
+            for badge in badges:
+                f.write(f"{badge}")
+            f.write(f"\n{link}\n\n")
     print("Done exporting!")
+
+    print("Unbadged venues mentioned more than twice: ")
+    print({k for k,v in Counter(conf_list).items() if v > 1})
 
 if __name__ == "__main__":
     try:
