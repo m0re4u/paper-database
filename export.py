@@ -112,10 +112,10 @@ def write_md(bib_entries, outfile):
                 current_timestamp = timestamp
 
             # Write entry
-            f.write(f"- {authors} ({year}): __{title}__ {link}\n")
+            f.write(f"- {authors} ({year}): __{title}__ \n")
             if badge is not None:
                 f.write(f"{badge}\n")
-            f.write("\n\n")
+            f.write("{link}\n\n")
     print("Done exporting!")
 
 if __name__ == "__main__":
