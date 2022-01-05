@@ -1,4 +1,14 @@
 # Papers
+## 2022-01-05
+
+- Hu, Minqing and Liu, Bing (2004): __Mining and summarizing customer reviews__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1014052.1014073?casa_token=gpppCBs-00sAAAAA:8CrKVTaiWKjbgNA5lkhw2ZX7gpou9NYqHvJHYrlRuYuP8dcgdE8GEfcnUUtHHAEF0mlJM7Si7NMuTw)
+
+- Angelidis, Stefanos and Lapata, Mirella (2018): __Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/D18-1403.pdf)
+
+- Tai, Chang-You and Li, Ming-Yao and Ku, Lun-Wei (2021): __Hyperbolic Disentangled Representation for Fine-Grained Aspect Extraction__ Find at: [LINK](https://arxiv.org/pdf/2112.09215.pdf)
+
+- Lipton, Zachary C and Vikram, Sharad and McAuley, Julian (2015): __Capturing meaning in product reviews with character-level generative text models__ Find at: [LINK](http://jmcauley.ucsd.edu/cse258/projects/fa15/047.pdf)
+
 ## 2022-01-03
 
 - Cruz, Ivan and Gelbukh, Alexander F and Sidorov, Grigori (2014): __Implicit Aspect Indicator Extraction for Aspect based Opinion Mining.__ Find at: [LINK](http://www.ijcla.org/2014-2/IJCLA-2014-2-pp-135-152-Implicit.pdf)
