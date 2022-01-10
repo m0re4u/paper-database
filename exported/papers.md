@@ -1,4 +1,12 @@
 # Papers
+## 2022-01-10
+
+- Jang, Hyeju and Rempel, Emily and Roth, David and Carenini, Giuseppe and Janjua, Naveed Zafar (2021): __Tracking COVID-19 discourse on twitter in North America: Infodemiology study using topic modeling and aspect-based sentiment analysis__ Find at: [LINK](https://www.jmir.org/2021/2/e25431)
+
+- Mordatch, Igor and Abbeel, Pieter (2018): __Emergence of grounded compositional language in multi-agent populations__ Find at: [LINK](https://arxiv.org/pdf/1703.04908.pdf)
+
+- Hamborg, Felix  and Donnay, Karsten (2021): __{N}ews{MTSC}: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.eacl-main.142)
+
 ## 2022-01-05
 
 - Hu, Minqing and Liu, Bing (2004): __Mining and summarizing customer reviews__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1014052.1014073?casa_token=gpppCBs-00sAAAAA:8CrKVTaiWKjbgNA5lkhw2ZX7gpou9NYqHvJHYrlRuYuP8dcgdE8GEfcnUUtHHAEF0mlJM7Si7NMuTw)
