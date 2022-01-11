@@ -1,4 +1,10 @@
 # Papers
+## 2022-01-11
+
+- Karamanolakis, Giannis  and
+Hsu, Daniel  and
+Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/D19-1468)
+
 ## 2022-01-10
 
 - Jang, Hyeju and Rempel, Emily and Roth, David and Carenini, Giuseppe and Janjua, Naveed Zafar (2021): __Tracking COVID-19 discourse on twitter in North America: Infodemiology study using topic modeling and aspect-based sentiment analysis__ Find at: [LINK](https://www.jmir.org/2021/2/e25431)
