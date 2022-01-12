@@ -1,9 +1,13 @@
 # Papers
+## 2022-01-12
+
+- ter Hoeve, Maartje and Kharitonov, Evgeny and Hupkes, Dieuwke and Dupoux, Emmanuel (2021): __Towards Interactive Language Modeling__ Find at: [LINK](https://arxiv.org/pdf/2112.11911.pdf)
+
 ## 2022-01-11
 
 - Karamanolakis, Giannis  and
 Hsu, Daniel  and
-Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/D19-1468)
+Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/D19-1468.pdf)
 
 ## 2022-01-10
 
@@ -11,7 +15,7 @@ Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect D
 
 - Mordatch, Igor and Abbeel, Pieter (2018): __Emergence of grounded compositional language in multi-agent populations__ Find at: [LINK](https://arxiv.org/pdf/1703.04908.pdf)
 
-- Hamborg, Felix  and Donnay, Karsten (2021): __{N}ews{MTSC}: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.eacl-main.142)
+- Hamborg, Felix  and Donnay, Karsten (2021): __{N}ews{MTSC}: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.zora.uzh.ch/id/eprint/207183/1/ZORA207183.pdf)
 
 ## 2022-01-05
 
