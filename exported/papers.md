@@ -1,4 +1,8 @@
 # Papers
+## 2022-01-17
+
+- Hu, Hengyuan and Lerer, Adam and Cui, Brandon and Pineda, Luis and Wu, David and Brown, Noam and Foerster, Jakob (2021): __Off-Belief Learning__ Find at: [LINK](https://proceedings.mlr.press/v139/hu21c.html)
+
 ## 2022-01-12
 
 - ter Hoeve, Maartje and Kharitonov, Evgeny and Hupkes, Dieuwke and Dupoux, Emmanuel (2021): __Towards Interactive Language Modeling__ Find at: [LINK](https://arxiv.org/pdf/2112.11911.pdf)
