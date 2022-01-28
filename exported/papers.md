@@ -1,4 +1,8 @@
 # Papers
+## 2022-01-28
+
+- Geva, Mor and Khashabi, Daniel and Segal, Elad and Khot, Tushar and Roth, Dan and Berant, Jonathan (2021): __Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00370/100680)
+
 ## 2022-01-26
 
 - Doan, Son and Yang, Elly W and Tilak, Sameer and Torii, Manabu (2018): __Using natural language processing to extract health-related causality from twitter messages__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8411817&casa_token=j176Z7D6I-wAAAAA:N_MfHSJOdhw0fPHghmCoBzfoW-s1BDWsCAeDKE561XXlCSlz3Ruf80ZQ3Ym8Lil0JYEi646TZQ)
