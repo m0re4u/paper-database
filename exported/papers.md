@@ -3,8 +3,6 @@
 
 - Doan, Son and Yang, Elly W and Tilak, Sameer and Torii, Manabu (2018): __Using natural language processing to extract health-related causality from twitter messages__ Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8411817&casa_token=j176Z7D6I-wAAAAA:N_MfHSJOdhw0fPHghmCoBzfoW-s1BDWsCAeDKE561XXlCSlz3Ruf80ZQ3Ym8Lil0JYEi646TZQ)
 
-- Jang, Hyeju and Rempel, Emily and Roth, David and Carenini, Giuseppe and Janjua, Naveed Zafar (2021): __Tracking COVID-19 discourse on twitter in North America: Infodemiology study using topic modeling and aspect-based sentiment analysis__ Find at: [LINK](https://www.jmir.org/2021/2/e25431)
-
 ## 2022-01-17
 
 - Hu, Hengyuan and Lerer, Adam and Cui, Brandon and Pineda, Luis and Wu, David and Brown, Noam and Foerster, Jakob (2021): __Off-Belief Learning__ Find at: [LINK](https://proceedings.mlr.press/v139/hu21c.html)
