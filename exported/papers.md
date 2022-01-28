@@ -1,7 +1,7 @@
 # Papers
 ## 2022-01-26
 
-- Doan, Son and Yang, Elly W and Tilak, Sameer and Torii, Manabu (2018): __Using natural language processing to extract health-related causality from twitter messages__ Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8411817&casa_token=j176Z7D6I-wAAAAA:N_MfHSJOdhw0fPHghmCoBzfoW-s1BDWsCAeDKE561XXlCSlz3Ruf80ZQ3Ym8Lil0JYEi646TZQ)
+- Doan, Son and Yang, Elly W and Tilak, Sameer and Torii, Manabu (2018): __Using natural language processing to extract health-related causality from twitter messages__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8411817&casa_token=j176Z7D6I-wAAAAA:N_MfHSJOdhw0fPHghmCoBzfoW-s1BDWsCAeDKE561XXlCSlz3Ruf80ZQ3Ym8Lil0JYEi646TZQ)
 
 ## 2022-01-17
 
@@ -9,7 +9,7 @@
 
 ## 2022-01-12
 
-- ter Hoeve, Maartje and Kharitonov, Evgeny and Hupkes, Dieuwke and Dupoux, Emmanuel (2021): __Towards Interactive Language Modeling__ Find at: [LINK](https://arxiv.org/pdf/2112.11911.pdf)
+- ter Hoeve, Maartje and Kharitonov, Evgeny and Hupkes, Dieuwke and Dupoux, Emmanuel (2021): __Towards Interactive Language Modeling__ ![nlp-badge](/images/nlp-badge.png)![hi-badge](/images/hi-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.11911.pdf)
 
 ## 2022-01-11
 
@@ -19,7 +19,7 @@ Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect D
 
 ## 2022-01-10
 
-- Jang, Hyeju and Rempel, Emily and Roth, David and Carenini, Giuseppe and Janjua, Naveed Zafar (2021): __Tracking COVID-19 discourse on twitter in North America: Infodemiology study using topic modeling and aspect-based sentiment analysis__ Find at: [LINK](https://www.jmir.org/2021/2/e25431)
+- Jang, Hyeju and Rempel, Emily and Roth, David and Carenini, Giuseppe and Janjua, Naveed Zafar (2021): __Tracking COVID-19 discourse on twitter in North America: Infodemiology study using topic modeling and aspect-based sentiment analysis__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.jmir.org/2021/2/e25431)
 
 - Mordatch, Igor and Abbeel, Pieter (2018): __Emergence of grounded compositional language in multi-agent populations__ Find at: [LINK](https://arxiv.org/pdf/1703.04908.pdf)
 
@@ -27,13 +27,13 @@ Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect D
 
 ## 2022-01-05
 
-- Hu, Minqing and Liu, Bing (2004): __Mining and summarizing customer reviews__ Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1014052.1014073?casa_token=gpppCBs-00sAAAAA:8CrKVTaiWKjbgNA5lkhw2ZX7gpou9NYqHvJHYrlRuYuP8dcgdE8GEfcnUUtHHAEF0mlJM7Si7NMuTw)
+- Hu, Minqing and Liu, Bing (2004): __Mining and summarizing customer reviews__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/1014052.1014073?casa_token=gpppCBs-00sAAAAA:8CrKVTaiWKjbgNA5lkhw2ZX7gpou9NYqHvJHYrlRuYuP8dcgdE8GEfcnUUtHHAEF0mlJM7Si7NMuTw)
 
 - Angelidis, Stefanos and Lapata, Mirella (2018): __Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/D18-1403.pdf)
 
-- Tai, Chang-You and Li, Ming-Yao and Ku, Lun-Wei (2021): __Hyperbolic Disentangled Representation for Fine-Grained Aspect Extraction__ Find at: [LINK](https://arxiv.org/pdf/2112.09215.pdf)
+- Tai, Chang-You and Li, Ming-Yao and Ku, Lun-Wei (2021): __Hyperbolic Disentangled Representation for Fine-Grained Aspect Extraction__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.09215.pdf)
 
-- Lipton, Zachary C and Vikram, Sharad and McAuley, Julian (2015): __Capturing meaning in product reviews with character-level generative text models__ Find at: [LINK](http://jmcauley.ucsd.edu/cse258/projects/fa15/047.pdf)
+- Lipton, Zachary C and Vikram, Sharad and McAuley, Julian (2015): __Capturing meaning in product reviews with character-level generative text models__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](http://jmcauley.ucsd.edu/cse258/projects/fa15/047.pdf)
 
 ## 2022-01-03
 

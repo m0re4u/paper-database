@@ -4,6 +4,40 @@ import bibtexparser as bp
 
 from collections import defaultdict, Counter
 
+AI_VENUES = ['AAAI', 'IJCAI']
+NLP_VENUES = [
+    'Computational Linguistics',
+    'Argument Mining',
+    'Natural language learning',
+    'Language resources and evaluation',
+    'Joint Conference on Natural Language Processing',
+    'COMMA',
+    'Argument \\& Computation',
+    'Empirical Methods in Natural Language Processing'
+]
+DELIB_VENUES = [
+    'Public Deliberation',
+    'Journal of E-Politics',
+    'Administrative science',
+    'Deliberative',
+    'Government and Policy',
+    'Comparative political studies',
+    'Democratization',
+    'Public Understanding of Science',
+    'Political psychology',
+    'Comparative European Politics',
+    'Computer Supported Cooperative Work',
+]
+HI_VENUES = [
+    'Computer Supported Cooperative Work'
+    'human--computer interaction'
+]
+
+AI_BADGE = "![ai-badge](/images/ai-badge.png)"
+HI_BADGE = "![hi-badge](/images/hi-badge.png)"
+NLP_BADGE = "![nlp-badge](/images/nlp-badge.png)"
+DELIB_BADGE = "![deliberation-badge](/images/deliberation-badge.png)"
+
 
 def read_bib(filename):
     """
@@ -39,39 +73,6 @@ def classify_venue(venue_string, manual=None):
      - Deliberation
      - NLProc
     """
-    AI_VENUES = ['AAAI', 'IJCAI']
-    NLP_VENUES = [
-        'Computational Linguistics',
-        'Argument Mining',
-        'Natural language learning',
-        'Language resources and evaluation',
-        'Joint Conference on Natural Language Processing',
-        'COMMA',
-        'Argument \\& Computation',
-        'Empirical Methods in Natural Language Processing'
-    ]
-    DELIB_VENUES = [
-        'Public Deliberation',
-        'Journal of E-Politics',
-        'Administrative science',
-        'Deliberative',
-        'Government and Policy',
-        'Comparative political studies',
-        'Democratization',
-        'Public Understanding of Science',
-        'Political psychology',
-        'Comparative European Politics',
-        'Computer Supported Cooperative Work',
-    ]
-    HI_VENUES = [
-        'Computer Supported Cooperative Work'
-        'human--computer interaction'
-    ]
-
-    AI_BADGE = "![ai-badge](/images/ai-badge.png)"
-    HI_BADGE = "![hi-badge](/images/hi-badge.png)"
-    NLP_BADGE = "![nlp-badge](/images/nlp-badge.png)"
-    DELIB_BADGE = "![deliberation-badge](/images/deliberation-badge.png)"
     badges_to_add = []
     if manual is None:
         # if any([string.lower() in venue_string.lower() for string in AI_VENUES]):
@@ -94,6 +95,20 @@ def classify_venue(venue_string, manual=None):
             badges_to_add.append(DELIB_BADGE)
     return badges_to_add
 
+def get_manual_badge(theme):
+    tt = theme.strip().upper()
+    if tt in 'AI':
+        return AI_BADGE
+    elif tt in 'DELIBERATION':
+        return DELIB_BADGE
+    elif tt in 'HI':
+        return HI_BADGE
+    elif tt in 'NLP':
+        return NLP_BADGE
+    else:
+        print(f'Unknown badge for theme {theme} ({tt})')
+        return None
+
 
 def extract_common_info(entry):
     """
@@ -108,7 +123,11 @@ def extract_common_info(entry):
     else:
         print(f"No link for entry added on: ({str(timestamp.strftime('%Y-%m-%d')):>12}) {entry['title'][:30]}..")
         link_string = ""
-    return authors, title, year, link_string, timestamp
+    if 'theme' in entry:
+        themes = entry['theme'].split(',')
+    else:
+        themes = []
+    return authors, title, year, link_string, timestamp, themes
 
 
 def write_md(bib_entries, outfile):
@@ -124,7 +143,8 @@ def write_md(bib_entries, outfile):
         current_timestamp = datetime.datetime(2100,1,1)
         for entry in bib_entries:
             entry_dd = defaultdict(lambda: "", entry)
-            authors, title, year, link, timestamp = extract_common_info(entry_dd)
+            authors, title, year, link, timestamp, themes = extract_common_info(entry_dd)
+            # Assign themes based on venue
             if 'journal' in entry_dd:
                 badges = classify_venue(entry_dd['journal'])
                 if len(badges) == 0:
@@ -136,11 +156,15 @@ def write_md(bib_entries, outfile):
             else:
                 print(f"No venue for entry type: ({entry_dd['ENTRYTYPE']:>15}) {entry_dd['title'][:30]}..")
                 badges = []
+            # Assign badges to manual themes
+            for theme in themes:
+                b = get_manual_badge(theme)
+                if b is not None and b not in badges:
+                    badges.append(b)
             # Print a header for which date the paper was added on
             if timestamp < current_timestamp:
                 f.write(f"## {timestamp.date()}\n\n")
                 current_timestamp = timestamp
-
             # Write entry
             f.write(f"- {authors} ({year}): __{title}__ ")
             for badge in badges:
