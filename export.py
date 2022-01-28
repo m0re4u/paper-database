@@ -177,6 +177,12 @@ def write_md(bib_entries, outfile):
     venues = '\n'.join({f'{v}: {k}' for k,v in Counter(conf_list).items() if v > 1})
     print(f"{venues}")
 
+
+def check_duplicates(bib_db):
+    all_ids = [x['ID'] for x in bib_db.entries]
+    duplicates = set([x for x in all_ids if all_ids.count(x) > 1])
+    print(f"Duplicate entries: {duplicates}")
+
 if __name__ == "__main__":
     try:
         parser = argparse.ArgumentParser(epilog='v{}')
@@ -193,4 +199,5 @@ if __name__ == "__main__":
     for k, v in config.items():
         print(f"  {k:>21} : {v}")
     bib_db = read_bib(args.file)
+    check_duplicates(bib_db)
     write_md(bib_db.entries, outfile=args.outfile)
