@@ -1,4 +1,12 @@
 # Papers
+## 2022-02-02
+
+- Hildebrandt, Marcel and Serna, Jorge Andres Quintero and Ma, Yunpu and Ringsquandl, Martin and Joblin, Mitchell and Tresp, Volker (2020): __Reasoning on knowledge graphs with debate dynamics__ Find at: [LINK](https://arxiv.org/pdf/2001.00461.pdf)
+
+## 2022-02-01
+
+- Hasse, Cathrine (2019): __Posthuman learning: AI from novice to expert?__ Find at: [LINK](https://responsiblerobotics.eu/wp-content/uploads/2020/01/Hasse2019_Article_PosthumanLearningAIFromNoviceT.pdf)
+
 ## 2022-01-28
 
 - Geva, Mor and Khashabi, Daniel and Segal, Elad and Khot, Tushar and Roth, Dan and Berant, Jonathan (2021): __Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00370/100680)
