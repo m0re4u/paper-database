@@ -1,4 +1,8 @@
 # Papers
+## 2022-02-03
+
+- Luo, Zhiyi and Sha, Yuchen and Zhu, Kenny Q and Hwang, Seung-won and Wang, Zhongyuan (2016): __Commonsense causal reasoning between short texts__ Find at: [LINK](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/12818-57567-1-PB.pdf)
+
 ## 2022-02-02
 
 - Hildebrandt, Marcel and Serna, Jorge Andres Quintero and Ma, Yunpu and Ringsquandl, Martin and Joblin, Mitchell and Tresp, Volker (2020): __Reasoning on knowledge graphs with debate dynamics__ Find at: [LINK](https://arxiv.org/pdf/2001.00461.pdf)
