@@ -1,4 +1,12 @@
 # Papers
+## 2022-02-07
+
+- Pritzel, Alexander and Uria, Benigno and Srinivasan, Sriram and Badia, Adria Puigdomenech and Vinyals, Oriol and Hassabis, Demis and Wierstra, Daan and Blundell, Charles (2017): __Neural episodic control__ Find at: [LINK](http://proceedings.mlr.press/v70/pritzel17a/pritzel17a.pdf)
+
+- Karpowitz, Christopher F and Mansbridge, Jane (2020): __Disagreement and consensus: The need for dynamic updating in public deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://delibdemjournal.org/article/298/galley/4764/download/)
+
+- Esterling, Kevin M and Fung, Archon and Lee, Taeku (2015): __How much disagreement is good for democratic deliberation?__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.tandfonline.com/doi/pdf/10.1080/10584609.2014.969466)
+
 ## 2022-02-03
 
 - Luo, Zhiyi and Sha, Yuchen and Zhu, Kenny Q and Hwang, Seung-won and Wang, Zhongyuan (2016): __Commonsense causal reasoning between short texts__ Find at: [LINK](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/12818-57567-1-PB.pdf)
