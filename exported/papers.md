@@ -1,4 +1,10 @@
 # Papers
+## 2022-02-14
+
+- Kayesh, Humayun and Islam, Md and Wang, Junhu and others (2019): __On event causality detection in tweets__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/1901.03526.pdf)
+
+- Hassanzadeh, Oktie and Bhattacharjya, Debarun and Feblowitz, Mark and Srinivas, Kavitha and Perrone, Michael and Sohrabi, Shirin and Katz, Michael (2019): __Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts.__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.ijcai.org/proceedings/2019/0695.pdf)
+
 ## 2022-02-07
 
 - Pritzel, Alexander and Uria, Benigno and Srinivasan, Sriram and Badia, Adria Puigdomenech and Vinyals, Oriol and Hassabis, Demis and Wierstra, Daan and Blundell, Charles (2017): __Neural episodic control__ Find at: [LINK](http://proceedings.mlr.press/v70/pritzel17a/pritzel17a.pdf)
