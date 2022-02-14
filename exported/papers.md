@@ -17,6 +17,8 @@
 
 - Jo, Yohan and Bang, Seojin and Reed, Chris and Hovy, Eduard (2021): __Classifying Argumentative Relations Using Logical Mechanisms and Argumentation Schemes__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00394/106790)
 
+- Arora, Siddhant and Pruthi, Danish and Sadeh, Norman and Cohen, William W and Lipton, Zachary C and Neubig, Graham (2021): __Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations__ ![nlp-badge](/images/nlp-badge.png)![hi-badge](/images/hi-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.09669.pdf)
+
 ## 2022-02-07
 
 - Pritzel, Alexander and Uria, Benigno and Srinivasan, Sriram and Badia, Adria Puigdomenech and Vinyals, Oriol and Hassabis, Demis and Wierstra, Daan and Blundell, Charles (2017): __Neural episodic control__ Find at: [LINK](http://proceedings.mlr.press/v70/pritzel17a/pritzel17a.pdf)
