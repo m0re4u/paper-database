@@ -3,7 +3,19 @@
 
 - Kayesh, Humayun and Islam, Md and Wang, Junhu and others (2019): __On event causality detection in tweets__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/1901.03526.pdf)
 
-- Hassanzadeh, Oktie and Bhattacharjya, Debarun and Feblowitz, Mark and Srinivas, Kavitha and Perrone, Michael and Sohrabi, Shirin and Katz, Michael (2019): __Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts.__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.ijcai.org/proceedings/2019/0695.pdf)
+## 2022-02-08
+
+- Falk, Neele and Jundi, Iman and Vecchi, Eva Maria and Lapesa, Gabriella (2021): __Predicting Moderation of Deliberative Arguments: Is Argument Quality the Key?__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.argmining-1.13/)
+
+- Bhatti, Muhammad Mahad Afzal and Ahmad, Ahsan Suheer and Park, Joonsuk (2021): __Argument Mining on Twitter: A Case Study on the Planned Parenthood Debate__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.argmining-1.1/)
+
+- Opitz, Juri and Heinisch, Philipp and Wiesenbach, Philipp and Cimiano, Philipp and Frank, Anette (2021): __Explainable Unsupervised Argument Similarity Rating with Abstract Meaning Representation and Conclusion Generation__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.argmining-1.3/)
+
+- Singh, Keshav and Mim, Farjana Sultana and Inoue, Naoya and Naito, Shoichi and Inui, Kentaro (2021): __Exploring Methodologies for Collecting High-Quality Implicit Reasoning in Arguments__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.argmining-1.6/)
+
+- Kobbe, Jonathan and Hulpus, Ioana and Stuckenschmidt, Heiner (2020): __Unsupervised stance detection for arguments from consequences__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://madoc.bib.uni-mannheim.de/57482/1/2020.emnlp-main.4.pdf)
+
+- Jo, Yohan and Bang, Seojin and Reed, Chris and Hovy, Eduard (2021): __Classifying Argumentative Relations Using Logical Mechanisms and Argumentation Schemes__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00394/106790)
 
 ## 2022-02-07
 
