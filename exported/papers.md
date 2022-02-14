@@ -3,6 +3,8 @@
 
 - Kayesh, Humayun and Islam, Md and Wang, Junhu and others (2019): __On event causality detection in tweets__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/1901.03526.pdf)
 
+- Hassanzadeh, Oktie and Bhattacharjya, Debarun and Feblowitz, Mark and Srinivas, Kavitha and Perrone, Michael and Sohrabi, Shirin and Katz, Michael (2019): __Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts.__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.ijcai.org/proceedings/2019/0695.pdf)
+
 ## 2022-02-08
 
 - Falk, Neele and Jundi, Iman and Vecchi, Eva Maria and Lapesa, Gabriella (2021): __Predicting Moderation of Deliberative Arguments: Is Argument Quality the Key?__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.argmining-1.13/)
