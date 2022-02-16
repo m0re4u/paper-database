@@ -5,7 +5,9 @@
 
 - Shin, Bokyong and Rask, Mikko (2021): __Assessment of Online Deliberative Quality: New Indicators Using Network Analysis and Time-Series Analysis__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.mdpi.com/2071-1050/13/3/1187/pdf)
 
-- Fabbri, Alexander R and Rahman, Faiaz and Rizvi, Imad and Wang, Borui and Li, Haoran and Mehdad, Yashar and Radev, Dragomir (2021): __Convosumm: Conversation summarization benchmark and improved abstractive summarization with argument mining__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2106.00829.pdf)
+- Fabbri, Alexander R and Rahman, Faiaz and Rizvi, Imad and Wang, Borui and Li, Haoran and Mehdad, Yashar and Radev, Dragomir (2021): __Convosumm: Conversation summarization benchmark and improved abstractive summarization with argument mining__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2106.00829.pdf)
+
+- Verweij, MC and Van Densen, WLT (2010): __Differences in causal reasoning about resource dynamics and consequences for the participatory debate on North Sea fisheries__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0308597X10000667/pdfft?casa_token=UxwPIfOhWZcAAAAA:1JAZX0cN28U-UEnF1XIzUATLuvHRR3iY5eyG1DKTtWvgW5q2w7IsaTqxcpKXCo2BFZjAULO2rIU&md5=c13827dedd0c34fd557eb1db7a2f7292&pid=1-s2.0-S0308597X10000667-main.pdf)
 
 ## 2022-02-14
 
