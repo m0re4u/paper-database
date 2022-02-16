@@ -1,7 +1,11 @@
 # Papers
 ## 2022-02-16
 
-- Mockler, Patricia (2021): __Measuring the inclusiveness of deliberation: structural inequality and the discourse quality index__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.09669.pdf)
+- Mockler, Patricia (2021): __Measuring the inclusiveness of deliberation: structural inequality and the discourse quality index__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1057/s41295-021-00262-5&casa_token=jV6CyMGViKoAAAAA:fvfiLSGHMGMxc8oB6Lok1kx4uHlvTgZls9yS9Kzeq4zs3dhW2_HjtNwpTTTcvwCu0MPrPmY3DkdvYkzSWw)
+
+- Shin, Bokyong and Rask, Mikko (2021): __Assessment of Online Deliberative Quality: New Indicators Using Network Analysis and Time-Series Analysis__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.mdpi.com/2071-1050/13/3/1187/pdf)
+
+- Fabbri, Alexander R and Rahman, Faiaz and Rizvi, Imad and Wang, Borui and Li, Haoran and Mehdad, Yashar and Radev, Dragomir (2021): __Convosumm: Conversation summarization benchmark and improved abstractive summarization with argument mining__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2106.00829.pdf)
 
 ## 2022-02-14
 
