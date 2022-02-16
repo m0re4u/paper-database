@@ -33,10 +33,13 @@ HI_VENUES = [
     'human--computer interaction'
 ]
 
+RL_VENUES = []
+
 AI_BADGE = "![ai-badge](/images/ai-badge.png)"
 HI_BADGE = "![hi-badge](/images/hi-badge.png)"
 NLP_BADGE = "![nlp-badge](/images/nlp-badge.png)"
 DELIB_BADGE = "![deliberation-badge](/images/deliberation-badge.png)"
+RL_BADGE = "![rl-badge](/images/rl-badge.png)"
 
 
 def read_bib(filename):
@@ -83,6 +86,8 @@ def classify_venue(venue_string, manual=None):
             badges_to_add.append(NLP_BADGE)
         if any([string.lower() in venue_string.lower() for string in DELIB_VENUES]):
             badges_to_add.append(DELIB_BADGE)
+        if any([string.lower() in venue_string.lower() for string in RL_VENUES]):
+            badges_to_add.append(RL_BADGE)
 
     else:
         # if manual == 'AI':
@@ -93,6 +98,8 @@ def classify_venue(venue_string, manual=None):
             badges_to_add.append(NLP_BADGE)
         if 'DELIB' in manual:
             badges_to_add.append(DELIB_BADGE)
+        if 'RL' in manual:
+            badges_to_add.append(RL_BADGE)
     return badges_to_add
 
 def get_manual_badge(theme):
@@ -105,6 +112,8 @@ def get_manual_badge(theme):
         return HI_BADGE
     elif tt in 'NLP':
         return NLP_BADGE
+    elif tt in 'RL':
+        return RL_BADGE
     else:
         print(f'Unknown badge for theme {theme} ({tt})')
         return None

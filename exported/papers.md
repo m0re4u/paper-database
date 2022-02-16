@@ -1,4 +1,8 @@
 # Papers
+## 2022-02-16
+
+- Mockler, Patricia (2021): __Measuring the inclusiveness of deliberation: structural inequality and the discourse quality index__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.09669.pdf)
+
 ## 2022-02-14
 
 - Kayesh, Humayun and Islam, Md and Wang, Junhu and others (2019): __On event causality detection in tweets__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/1901.03526.pdf)
@@ -23,7 +27,7 @@
 
 ## 2022-02-07
 
-- Pritzel, Alexander and Uria, Benigno and Srinivasan, Sriram and Badia, Adria Puigdomenech and Vinyals, Oriol and Hassabis, Demis and Wierstra, Daan and Blundell, Charles (2017): __Neural episodic control__ Find at: [LINK](http://proceedings.mlr.press/v70/pritzel17a/pritzel17a.pdf)
+- Pritzel, Alexander and Uria, Benigno and Srinivasan, Sriram and Badia, Adria Puigdomenech and Vinyals, Oriol and Hassabis, Demis and Wierstra, Daan and Blundell, Charles (2017): __Neural episodic control__ ![rl-badge](/images/rl-badge.png)Find at: [LINK](http://proceedings.mlr.press/v70/pritzel17a/pritzel17a.pdf)
 
 - Karpowitz, Christopher F and Mansbridge, Jane (2020): __Disagreement and consensus: The need for dynamic updating in public deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://delibdemjournal.org/article/298/galley/4764/download/)
 
@@ -35,7 +39,7 @@
 
 ## 2022-02-02
 
-- Hildebrandt, Marcel and Serna, Jorge Andres Quintero and Ma, Yunpu and Ringsquandl, Martin and Joblin, Mitchell and Tresp, Volker (2020): __Reasoning on knowledge graphs with debate dynamics__ Find at: [LINK](https://arxiv.org/pdf/2001.00461.pdf)
+- Hildebrandt, Marcel and Serna, Jorge Andres Quintero and Ma, Yunpu and Ringsquandl, Martin and Joblin, Mitchell and Tresp, Volker (2020): __Reasoning on knowledge graphs with debate dynamics__ ![rl-badge](/images/rl-badge.png)Find at: [LINK](https://arxiv.org/pdf/2001.00461.pdf)
 
 ## 2022-02-01
 
@@ -51,7 +55,7 @@
 
 ## 2022-01-17
 
-- Hu, Hengyuan and Lerer, Adam and Cui, Brandon and Pineda, Luis and Wu, David and Brown, Noam and Foerster, Jakob (2021): __Off-Belief Learning__ Find at: [LINK](https://proceedings.mlr.press/v139/hu21c.html)
+- Hu, Hengyuan and Lerer, Adam and Cui, Brandon and Pineda, Luis and Wu, David and Brown, Noam and Foerster, Jakob (2021): __Off-Belief Learning__ ![rl-badge](/images/rl-badge.png)Find at: [LINK](https://proceedings.mlr.press/v139/hu21c.html)
 
 ## 2022-01-12
 
@@ -67,7 +71,7 @@ Gravano, Luis (2019): __Leveraging Just a Few Keywords for Fine-Grained Aspect D
 
 - Jang, Hyeju and Rempel, Emily and Roth, David and Carenini, Giuseppe and Janjua, Naveed Zafar (2021): __Tracking COVID-19 discourse on twitter in North America: Infodemiology study using topic modeling and aspect-based sentiment analysis__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.jmir.org/2021/2/e25431)
 
-- Mordatch, Igor and Abbeel, Pieter (2018): __Emergence of grounded compositional language in multi-agent populations__ Find at: [LINK](https://arxiv.org/pdf/1703.04908.pdf)
+- Mordatch, Igor and Abbeel, Pieter (2018): __Emergence of grounded compositional language in multi-agent populations__ ![rl-badge](/images/rl-badge.png)Find at: [LINK](https://arxiv.org/pdf/1703.04908.pdf)
 
 - Hamborg, Felix  and Donnay, Karsten (2021): __{N}ews{MTSC}: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.zora.uzh.ch/id/eprint/207183/1/ZORA207183.pdf)
 
