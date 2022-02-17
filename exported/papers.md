@@ -1,4 +1,10 @@
 # Papers
+## 2022-02-17
+
+- Easterday, Matthew W and Aleven, Vincent and Scheines, Richard and Carver, Sharon M (2009): __Constructing causal diagrams to learn deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://d1wqtxts1xzle7.cloudfront.net/31046413/19_4_06_Easterday.pdf?1364452882=&response-content-disposition=inline%3B+filename%3DConstructing_causal_diagrams_to_learn_de.pdf&Expires=1645097795&Signature=ZUIVOCKVnIy7Ov1S4-mc5ibWrotL55s3H9~Zwybfod7P7k1mJ1jER8ma12Wk3ElgRKAxVq9-EnCbyIQDBfisV3z7XIhNWZFWR1j4~Pn21TA4gE0bMPM2jXZVQWojwYe7riv1IUuf6osIoEhP29qI7ALatHDvXQpNXcXw78EYCUXBqNJtb5FQscBJpEkWUvJm1Q7DewXAMsILe5Al4jBZRdi7Wd1TkI2spirC9J0vazNnrCvwp8QE6okbAGvCyIuv1HRfNjzUKgEK6Ey9vn98PGWvhn5vun709PpskCMym8TWXxY4n6pKSt1WHb5RZ6Y1zeCTmCw~KVo3QTvdNDxk-w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+- Adams, Brian E (2020): __Reason-giving in deliberative forums__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://delibdemjournal.org/article/479/galley/4583/download/)
+
 ## 2022-02-16
 
 - Mockler, Patricia (2021): __Measuring the inclusiveness of deliberation: structural inequality and the discourse quality index__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1057/s41295-021-00262-5&casa_token=jV6CyMGViKoAAAAA:fvfiLSGHMGMxc8oB6Lok1kx4uHlvTgZls9yS9Kzeq4zs3dhW2_HjtNwpTTTcvwCu0MPrPmY3DkdvYkzSWw)
