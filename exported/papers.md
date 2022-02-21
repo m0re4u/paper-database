@@ -1,4 +1,8 @@
 # Papers
+## 2022-02-21
+
+- Zhao, Yu and Zuo, Wanli and Liang, Shining and Yuan, Xiaosong and Zhang, Yijia and Zuo, Xianglin (2022): __A Word-Granular Adversarial Attacks Framework for Causal Event Extraction__ ![nlp-badge](/images/nlp-badge.png)![rl-badge](/images/rl-badge.png)Find at: [LINK](https://www.mdpi.com/1099-4300/24/2/169/pdf)
+
 ## 2022-02-16
 
 - Mockler, Patricia (2021): __Measuring the inclusiveness of deliberation: structural inequality and the discourse quality index__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1057/s41295-021-00262-5&casa_token=jV6CyMGViKoAAAAA:fvfiLSGHMGMxc8oB6Lok1kx4uHlvTgZls9yS9Kzeq4zs3dhW2_HjtNwpTTTcvwCu0MPrPmY3DkdvYkzSWw)
