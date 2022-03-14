@@ -1,4 +1,8 @@
 # Papers
+## 2022-03-14
+
+- Zuo, Xinyu and Cao, Pengfei and Chen, Yubo and Liu, Kang and Zhao, Jun and Peng, Weihua and Chen, Yuguang (2021): __Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.findings-acl.190.pdf)
+
 ## 2022-02-21
 
 - Zhao, Yu and Zuo, Wanli and Liang, Shining and Yuan, Xiaosong and Zhang, Yijia and Zuo, Xianglin (2022): __A Word-Granular Adversarial Attacks Framework for Causal Event Extraction__ ![nlp-badge](/images/nlp-badge.png)![rl-badge](/images/rl-badge.png)Find at: [LINK](https://www.mdpi.com/1099-4300/24/2/169/pdf)
