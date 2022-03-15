@@ -1,7 +1,13 @@
 # Papers
+## 2022-03-15
+
+- Muradova, Lala (2021): __Seeing the other side? Perspective-taking and reflective political judgements in interpersonal deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0032321720916605)
+
 ## 2022-03-14
 
 - Zuo, Xinyu and Cao, Pengfei and Chen, Yubo and Liu, Kang and Zhao, Jun and Peng, Weihua and Chen, Yuguang (2021): __Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.findings-acl.190.pdf)
+
+- Gao, Lei and Choubey, Prafulla Kumar and Huang, Ruihong (2019): __Modeling document-level causal structures for event causal relation identification__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/N19-1179.pdf)
 
 ## 2022-02-21
 
