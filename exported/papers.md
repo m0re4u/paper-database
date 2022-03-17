@@ -1,4 +1,8 @@
 # Papers
+## 2022-03-17
+
+- Draws, Tim and Inel, Oana and Tintarev, Nava and Baden, Christian and Timmermans, Benjamin (2022): __Comprehensive Viewpoint Representations for a Deeper Understanding of User Interactions With Debated Topics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://dl.acm.org/doi/abs/10.1145/3498366.3505812)
+
 ## 2022-03-15
 
 - Muradova, Lala (2021): __Seeing the other side? Perspective-taking and reflective political judgements in interpersonal deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0032321720916605)
