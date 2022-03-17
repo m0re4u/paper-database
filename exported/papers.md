@@ -3,6 +3,10 @@
 
 - Draws, Tim and Inel, Oana and Tintarev, Nava and Baden, Christian and Timmermans, Benjamin (2022): __Comprehensive Viewpoint Representations for a Deeper Understanding of User Interactions With Debated Topics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://dl.acm.org/doi/abs/10.1145/3498366.3505812)
 
+- Bastings, Jasmijn and Ebert, Sebastian and Zablotskaia, Polina and Sandholm, Anders and Filippova, Katja (2021): __" Will You Find These Shortcuts?" A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2111.07367.pdf)
+
+- Segers, Roxane and Caselli, Tommaso and Vossen, Piek (2018): __The circumstantial event ontology (CEO) and ECB+/CEO: An ontology and corpus for implicit causal relations between events__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/L18-1725.pdf)
+
 ## 2022-03-15
 
 - Muradova, Lala (2021): __Seeing the other side? Perspective-taking and reflective political judgements in interpersonal deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0032321720916605)
