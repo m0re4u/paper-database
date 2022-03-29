@@ -1,4 +1,18 @@
 # Papers
+## 2022-03-29
+
+- Xu, Fangyuan and Li, Junyi Jessy and Choi, Eunsol (2022): __How Do We Answer Complex Questions: Discourse Structure of Long-form Answers__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2203.11048.pdf)
+
+- Nie, Yixin and Zhou, Xiang and Bansal, Mohit (2020): __What Can We Learn from Collective Human Opinions on Natural Language Inference Data?__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2010.03532.pdf)
+
+## 2022-03-22
+
+- Pougu{\'e}-Biyong, John and Semenova, Valentina and Matton, Alexandre and Han, Rachel and Kim, Aerin and Lambiotte, Renaud and Farmer, Doyne (2021): __DEBAGREEMENT: A comment-reply dataset for (dis) agreement detection in online debates__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://openreview.net/pdf?id=udVUN__gFO)
+
+## 2022-03-18
+
+- Becker, Maria and Staniek, Michael and Nastase, Vivi and Frank, Anette (2017): __Enriching argumentative texts with implicit knowledge__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.cl.uni-heidelberg.de/~mbecker/pdf/enriching-argumentative-texts.pdf)
+
 ## 2022-03-17
 
 - Draws, Tim and Inel, Oana and Tintarev, Nava and Baden, Christian and Timmermans, Benjamin (2022): __Comprehensive Viewpoint Representations for a Deeper Understanding of User Interactions With Debated Topics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://dl.acm.org/doi/abs/10.1145/3498366.3505812)
