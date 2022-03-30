@@ -1,4 +1,8 @@
 # Papers
+## 2022-03-30
+
+- Wojatzki, Michael and Zesch, Torsten and Mohammad, Saif and Kiritchenko, Svetlana (2018): __Agree or disagree: Predicting judgments on nuanced assertions__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/S18-2026.pdf)
+
 ## 2022-03-29
 
 - Xu, Fangyuan and Li, Junyi Jessy and Choi, Eunsol (2022): __How Do We Answer Complex Questions: Discourse Structure of Long-form Answers__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2203.11048.pdf)
