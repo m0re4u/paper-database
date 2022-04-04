@@ -1,7 +1,15 @@
 # Papers
+## 2022-04-04
+
+- Lowe, Ryan and Gupta, Abhinav and Foerster, Jakob and Kiela, Douwe and Pineau, Joelle (2020): __On the interaction between supervision and self-play in emergent communication__ ![rl-badge](/images/rl-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2002.01093.pdf)
+
+- Miller, Tim (2019): __Explanation in artificial intelligence: Insights from the social sciences__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0004370218305988?casa_token=jgbXLbabF9oAAAAA:LGSwY-4GAnNGWXBYH9TFgz2y9kKsE6yK4cYHpCgGmtZ5QZOfphmp84C1mbLZGIbdq4BKwka5Kg)
+
 ## 2022-03-30
 
 - Wojatzki, Michael and Zesch, Torsten and Mohammad, Saif and Kiritchenko, Svetlana (2018): __Agree or disagree: Predicting judgments on nuanced assertions__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/S18-2026.pdf)
+
+- Niculae, Vlad and Danescu-Niculescu-Mizil, Cristian (2016): __Conversational Markers of Constructive Discussions__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/N16-1070.pdf)
 
 ## 2022-03-29
 
