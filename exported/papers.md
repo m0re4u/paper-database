@@ -1,4 +1,8 @@
 # Papers
+## 2022-04-05
+
+- Branco, Ruben and Branco, Ant{\'o}nio and Rodrigues, Jo{\~a}o and Silva, Jo{\~a}o (2021): __Shortcutted commonsense: Data spuriousness in deep learning of commonsense reasoning__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.emnlp-main.113.pdf)
+
 ## 2022-04-04
 
 - Lowe, Ryan and Gupta, Abhinav and Foerster, Jakob and Kiela, Douwe and Pineau, Joelle (2020): __On the interaction between supervision and self-play in emergent communication__ ![rl-badge](/images/rl-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2002.01093.pdf)
