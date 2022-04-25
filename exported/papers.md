@@ -1,4 +1,8 @@
 # Papers
+## 2022-04-25
+
+- Epley, Nicholas and Waytz, Adam and Cacioppo, John T (2007): __On seeing human: a three-factor theory of anthropomorphism.__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://doi.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.4.864)
+
 ## 2022-04-05
 
 - Branco, Ruben and Branco, Ant{\'o}nio and Rodrigues, Jo{\~a}o and Silva, Jo{\~a}o (2021): __Shortcutted commonsense: Data spuriousness in deep learning of commonsense reasoning__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.emnlp-main.113.pdf)
