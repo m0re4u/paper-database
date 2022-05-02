@@ -1,4 +1,10 @@
 # Papers
+## 2022-05-02
+
+- van der Meer, Michiel and Liscio, Enrico and Jonker, Catholijn M. and Plaat, Aske and Vossen, Piek and Murukannaiah, Pradeep K. (2022): __{HyEnA: A Hybrid Method for Extracting Arguments from Opinions}__ ![hi-badge](/images/hi-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://liacs.leidenuniv.nl/~meermtvander/publications/hyena/)
+
+- Enrico Liscio and Michiel van der Meer and Luciano C. Siebert and Catholijn M. Jonker and Pradeep K. Murukannaiah (2022): __What Values should an Agent Align with? An Empirical Comparison of General and Context-Specific Values__ ![hi-badge](/images/hi-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://link.springer.com/article/10.1007/s10458-022-09550-0)
+
 ## 2022-04-25
 
 - Epley, Nicholas and Waytz, Adam and Cacioppo, John T (2007): __On seeing human: a three-factor theory of anthropomorphism.__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://doi.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.4.864)
