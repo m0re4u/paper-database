@@ -1,4 +1,16 @@
 # Papers
+## 2022-05-09
+
+- Draws, Tim and Inel, Oana and Tintarev, Nava and Baden, Christian and Timmermans, Benjamin (2022): __Comprehensive viewpoint representations for a deeper understanding of user interactions with debated topics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505812)
+
+## 2022-05-06
+
+- Gottipati, Swapna and Shankararaman, Venky and Gokarn, Mallika NITIN (2020): __Automated discussion analysis-framework for knowledge analysis from class discussions__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9273819&casa_token=6HN8Aesbbw4AAAAA:qpfrYSprMp16oQ-cMDlkYfjl_R0i3eNYJEVMG4qxju5idH0XAgjjAzxLpWQryRCZzAj99ZrM5w&tag=1)
+
+- Dias, Nicholas and Lelkes, Yphtach (2021): __The nature of affective polarization: Disentangling policy disagreement from partisan identity__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajps.12628?casa_token=o_ekwyn4fH4AAAAA:vjMI9AvpZJ1I4xGnN_4Pa_0-xGuQTF0IckOexvL7eWtbFYGOMq8-PtxiJQznLVpGtOX4Ms66jh-d-MDk)
+
+- Ciuk, David J (2022): __Value Disagreement and Partisan Sorting in the American Mass Public__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/10659129211072558?casa_token=dqNubKEyypkAAAAA:JXPmhHfYBjkLp33RTaU0ldOrfF7rII0xH3I3nD1PhlwyBlSgnKEkuZN7-MX7i23wVSaec2oxUSrfgg)
+
 ## 2022-05-02
 
 - van der Meer, Michiel and Liscio, Enrico and Jonker, Catholijn M. and Plaat, Aske and Vossen, Piek and Murukannaiah, Pradeep K. (2022): __{HyEnA: A Hybrid Method for Extracting Arguments from Opinions}__ ![hi-badge](/images/hi-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://liacs.leidenuniv.nl/~meermtvander/publications/hyena/)
