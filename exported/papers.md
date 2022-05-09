@@ -1,8 +1,4 @@
 # Papers
-## 2022-05-09
-
-- Draws, Tim and Inel, Oana and Tintarev, Nava and Baden, Christian and Timmermans, Benjamin (2022): __Comprehensive viewpoint representations for a deeper understanding of user interactions with debated topics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505812)
-
 ## 2022-05-06
 
 - Gottipati, Swapna and Shankararaman, Venky and Gokarn, Mallika NITIN (2020): __Automated discussion analysis-framework for knowledge analysis from class discussions__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9273819&casa_token=6HN8Aesbbw4AAAAA:qpfrYSprMp16oQ-cMDlkYfjl_R0i3eNYJEVMG4qxju5idH0XAgjjAzxLpWQryRCZzAj99ZrM5w&tag=1)
