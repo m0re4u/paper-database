@@ -1,4 +1,8 @@
 # Papers
+## 2022-05-11
+
+- De Kock, Christine and Vlachos, Andreas (2021): __I Beg to Differ: A study of constructive disagreement in online conversations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.eacl-main.173/)
+
 ## 2022-05-06
 
 - Gottipati, Swapna and Shankararaman, Venky and Gokarn, Mallika NITIN (2020): __Automated discussion analysis-framework for knowledge analysis from class discussions__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9273819&casa_token=6HN8Aesbbw4AAAAA:qpfrYSprMp16oQ-cMDlkYfjl_R0i3eNYJEVMG4qxju5idH0XAgjjAzxLpWQryRCZzAj99ZrM5w&tag=1)
