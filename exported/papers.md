@@ -1,4 +1,12 @@
 # Papers
+## 2022-05-12
+
+- Qiu, Liang and Zhao, Yizhou and Li, Jinchao and Lu, Pan and Peng, Baolin and Gao, Jianfeng and Zhu, Song-Chun (2021): __ValueNet: A New Dataset for Human Value Driven Dialogue System__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.06346.pdf)
+
+- Kiesel, Johannes and Alshomary, Milad and Handke, Nicolas and Cai, Xiaoni and Wachsmuth, Henning and Stein, Benno (2022): __Identifying the Human Values behind Arguments__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://webis.de/downloads/publications/papers/kiesel_2022b.pdf)
+
+- Silva, Amila and Lo, Pei-Chi and Lim, Ee Peng (2021): __On Predicting Personal Values of Social Media Users using Community-Specific Language Features and Personal Value Correlation__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/download/18094/17897/21589)
+
 ## 2022-05-11
 
 - De Kock, Christine and Vlachos, Andreas (2021): __I Beg to Differ: A study of constructive disagreement in online conversations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.eacl-main.173/)
