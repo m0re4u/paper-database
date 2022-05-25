@@ -3,6 +3,8 @@
 
 - Fischer, Ken and Reedy, Justin and Piercy, Cameron and Thapaliya, Rashmi (2022): __A Typology of Reasoning in Deliberative Processes: A Study of the 2010 Oregon Citizens’ Initiative Review__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://delibdemjournal.org/article/id/951/download/pdf/)
 
+- Liscio, Enrico and Dondera, Alin E and Geadau, Andrei and Jonker, Catholijn M and Murukannaiah, Pradeep K (): __Cross-Domain Classification of Moral Values__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://enricoliscio.github.io/publications/Liscio_cross_domain_values_NAACL.pdf)
+
 ## 2022-05-16
 
 - Shi, Zhengxiang and Feng, Yue and Lipani, Aldo (2022): __Learning to execute or ask clarification questions__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2204.08373.pdf)
