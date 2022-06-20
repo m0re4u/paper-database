@@ -1,4 +1,8 @@
 # Papers
+## 2022-06-20
+
+- Sidorov, Grigori and Gelbukh, Alexander and G{\'o}mez-Adorno, Helena and Pinto, David (2014): __Soft similarity and soft cosine measure: Similarity of features in vector space model__ Find at: [LINK](https://www.redalyc.org/pdf/615/61532067007.pdf)
+
 ## 2022-05-25
 
 - Fischer, Ken and Reedy, Justin and Piercy, Cameron and Thapaliya, Rashmi (2022): __A Typology of Reasoning in Deliberative Processes: A Study of the 2010 Oregon Citizens’ Initiative Review__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://delibdemjournal.org/article/id/951/download/pdf/)
