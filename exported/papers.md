@@ -1,4 +1,12 @@
 # Papers
+## 2022-06-23
+
+- Ponizovskiy, Vladimir and Ardag, Murat and Grigoryan, Lusine and Boyd, Ryan and Dobewall, Henrik and Holtz, Peter (2020): __Development and validation of the personal values dictionary: A theory--driven tool for investigating references to basic human values in text__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1002/per.2294)
+
+- Kennedy, Brendan and Atari, Mohammad and Davani, Aida Mostafazadeh and Hoover, Joe and Omrani, Ali and Graham, Jesse and Dehghani, Morteza (2021): __Moral concerns are differentially observable in language__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://www.sciencedirect.com/science/article/pii/S0010027721001153?casa_token=BMUhrR9OfO0AAAAA:cR2i4vGGTEb3lPF8bvQv-H9UYNdcngYOwBM1etcugwbqC5cW7qUhGO9YQmoh0UOtYDA1XD8NGWc)
+
+- Wu, Tongshuang and Terry, Michael and Cai, Carrie Jun (2022): __Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](http://idl.cs.washington.edu/files/2022-AIChains-CHI.pdf)
+
 ## 2022-06-20
 
 - Sidorov, Grigori and Gelbukh, Alexander and G{\'o}mez-Adorno, Helena and Pinto, David (2014): __Soft similarity and soft cosine measure: Similarity of features in vector space model__ Find at: [LINK](https://www.redalyc.org/pdf/615/61532067007.pdf)
