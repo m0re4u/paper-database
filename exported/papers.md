@@ -7,6 +7,10 @@
 
 - Wu, Tongshuang and Terry, Michael and Cai, Carrie Jun (2022): __Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](http://idl.cs.washington.edu/files/2022-AIChains-CHI.pdf)
 
+## 2022-06-22
+
+- Siebert, Luciano C and Liscio, Enrico and Murukannaiah, Pradeep K and Kaptein, Lionel and Spruit, Shannon and van den Hoven, Jeroen and Jonker, Catholijn (2022): __Estimating Value Preferences in a Hybrid Participatory System__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://www.hhai-conference.org/wp-content/uploads/2022/06/hhai-2022_paper_31.pdf)
+
 ## 2022-06-20
 
 - Sidorov, Grigori and Gelbukh, Alexander and G{\'o}mez-Adorno, Helena and Pinto, David (2014): __Soft similarity and soft cosine measure: Similarity of features in vector space model__ Find at: [LINK](https://www.redalyc.org/pdf/615/61532067007.pdf)
