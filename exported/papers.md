@@ -1,4 +1,8 @@
 # Papers
+## 2022-06-30
+
+- Basile, Valerio and Cabitza, Federico and Campagner, Andrea and Fell, Michael (2021): __Toward a perspectivist turn in ground truthing for predictive computing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2109.04270.pdf)
+
 ## 2022-06-23
 
 - Ponizovskiy, Vladimir and Ardag, Murat and Grigoryan, Lusine and Boyd, Ryan and Dobewall, Henrik and Holtz, Peter (2020): __Development and validation of the personal values dictionary: A theory--driven tool for investigating references to basic human values in text__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1002/per.2294)
@@ -19,7 +23,7 @@
 
 - Fischer, Ken and Reedy, Justin and Piercy, Cameron and Thapaliya, Rashmi (2022): __A Typology of Reasoning in Deliberative Processes: A Study of the 2010 Oregon Citizens’ Initiative Review__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://delibdemjournal.org/article/id/951/download/pdf/)
 
-- Liscio, Enrico and Dondera, Alin E and Geadau, Andrei and Jonker, Catholijn M and Murukannaiah, Pradeep K (): __Cross-Domain Classification of Moral Values__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://enricoliscio.github.io/publications/Liscio_cross_domain_values_NAACL.pdf)
+- Liscio, Enrico and Dondera, Alin E and Geadau, Andrei and Jonker, Catholijn M and Murukannaiah, Pradeep K (2022): __Cross-Domain Classification of Moral Values__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://enricoliscio.github.io/publications/Liscio_cross_domain_values_NAACL.pdf)
 
 ## 2022-05-16
 
@@ -29,7 +33,7 @@
 
 - Qiu, Liang and Zhao, Yizhou and Li, Jinchao and Lu, Pan and Peng, Baolin and Gao, Jianfeng and Zhu, Song-Chun (2021): __ValueNet: A New Dataset for Human Value Driven Dialogue System__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2112.06346.pdf)
 
-- Kiesel, Johannes and Alshomary, Milad and Handke, Nicolas and Cai, Xiaoni and Wachsmuth, Henning and Stein, Benno (2022): __Identifying the Human Values behind Arguments__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://webis.de/downloads/publications/papers/kiesel_2022b.pdf)
+- Kiesel, Johannes and Alshomary, Milad and Handke, Nicolas and Cai, Xiaoni and Wachsmuth, Henning and Stein, Benno (2022): __Identifying the Human Values behind Arguments__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.acl-long.306/)
 
 - Silva, Amila and Lo, Pei-Chi and Lim, Ee Peng (2021): __On Predicting Personal Values of Social Media Users using Community-Specific Language Features and Personal Value Correlation__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/download/18094/17897/21589)
 
