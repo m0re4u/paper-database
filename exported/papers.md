@@ -1,4 +1,10 @@
 # Papers
+## 2022-07-14
+
+- Saveski, Martin and Gillani, Nabeel and Yuan, Ann and Vijayaraghavan, Prashanth and Roy, Deb (2022): __Perspective-taking to reduce affective polarization on social media__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/view/19343/19115)
+
+- Weinzierl, Maxwell A and Harabagiu, Sanda M (2022): __From Hesitancy Framings to Vaccine Hesitancy Profiles: A Journey of Stance, Ontological Commitments and Moral Foundations__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/view/19360/19132)
+
 ## 2022-06-30
 
 - Basile, Valerio and Cabitza, Federico and Campagner, Andrea and Fell, Michael (2021): __Toward a perspectivist turn in ground truthing for predictive computing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2109.04270.pdf)
