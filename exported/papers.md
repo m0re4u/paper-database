@@ -1,4 +1,8 @@
 # Papers
+## 2022-07-25
+
+- Hovy, Eduard and Lavid, Julia (2010): __Towards a ‘science’of corpus annotation: a new methodological challenge for corpus linguistics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.cs.cmu.edu/~./hovy/papers/10KNS-annotation-Hovy-Lavid.pdf)
+
 ## 2022-07-14
 
 - Saveski, Martin and Gillani, Nabeel and Yuan, Ann and Vijayaraghavan, Prashanth and Roy, Deb (2022): __Perspective-taking to reduce affective polarization on social media__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/view/19343/19115)
@@ -8,6 +12,8 @@
 ## 2022-06-30
 
 - Basile, Valerio and Cabitza, Federico and Campagner, Andrea and Fell, Michael (2021): __Toward a perspectivist turn in ground truthing for predictive computing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2109.04270.pdf)
+
+- Pacheco, Maria Leonor and Islam, Tunazzina and Mahajan, Monal and Shor, Andrey and Yin, Ming and Ungar, Lyle and Goldwasser, Dan (2022): __A Holistic Framework for Analyzing the COVID-19 Vaccine Debate__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2205.01817.pdf)
 
 ## 2022-06-23
 
