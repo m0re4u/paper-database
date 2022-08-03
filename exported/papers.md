@@ -1,4 +1,8 @@
 # Papers
+## 2022-08-03
+
+- Dohan, David and Xu, Winnie and Lewkowycz, Aitor and Austin, Jacob and Bieber, David and Lopes, Raphael Gontijo and Wu, Yuhuai and Michalewski, Henryk and Saurous, Rif A and Sohl-dickstein, Jascha and others (2022): __Language Model Cascades__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2207.10342v2.pdf)
+
 ## 2022-07-25
 
 - Hovy, Eduard and Lavid, Julia (2010): __Towards a ‘science’of corpus annotation: a new methodological challenge for corpus linguistics__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.cs.cmu.edu/~./hovy/papers/10KNS-annotation-Hovy-Lavid.pdf)
