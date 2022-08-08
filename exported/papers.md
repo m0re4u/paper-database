@@ -1,7 +1,17 @@
 # Papers
+## 2022-08-08
+
+- Angelidis, Stefanos and Amplayo, Reinald Kim and Suhara, Yoshihiko and Wang, Xiaolan and Lapata, Mirella (2021): __Extractive opinion summarization in quantized transformer spaces__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://watermark.silverchair.com/tacl_a_00366.pdf)
+
+- Zhang, Xin and Xu, Guangwei and Sun, Yueheng and Zhang, Meishan and Wang, Xiaobin and Zhang, Min (2022): __Identifying Chinese Opinion Expressions with Extremely-Noisy Crowdsourcing Annotations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2204.10714.pdf)
+
 ## 2022-08-03
 
 - Dohan, David and Xu, Winnie and Lewkowycz, Aitor and Austin, Jacob and Bieber, David and Lopes, Raphael Gontijo and Wu, Yuhuai and Michalewski, Henryk and Saurous, Rif A and Sohl-dickstein, Jascha and others (2022): __Language Model Cascades__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2207.10342v2.pdf)
+
+## 2022-07-28
+
+- Olshefski, Christopher and Lugini, Luca and Singh, Ravneet and Litman, Diane and Godley, Amanda (2020): __The Discussion Tracker Corpus of Collaborative Argumentation__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.130.pdf)
 
 ## 2022-07-25
 
