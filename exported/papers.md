@@ -1,4 +1,8 @@
 # Papers
+## 2022-08-19
+
+- Jagannatha, Abhyuday and Yu, Hong (2020): __Calibrating Structured Output Predictors for Natural Language Processing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2020.acl-main.188.pdf)
+
 ## 2022-08-03
 
 - Dohan, David and Xu, Winnie and Lewkowycz, Aitor and Austin, Jacob and Bieber, David and Lopes, Raphael Gontijo and Wu, Yuhuai and Michalewski, Henryk and Saurous, Rif A and Sohl-dickstein, Jascha and others (2022): __Language Model Cascades__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2207.10342v2.pdf)
