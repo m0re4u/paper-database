@@ -1,4 +1,16 @@
 # Papers
+## 2022-09-19
+
+- Han, Tessa and Srinivas, Suraj and Lakkaraju, Himabindu (2022): __Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post hoc Explanations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2206.01254.pdf)
+
+## 2022-09-02
+
+- Zeng, Jichuan and Li, Jing and He, Yulan and Gao, Cuiyun and Lyu, Michael R and King, Irwin (2019): __What you say and how you say it: Joint modeling of topics and discourse in microblog conversations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00267/43495/What-You-Say-and-How-You-Say-it-Joint-Modeling-of)
+
+## 2022-09-01
+
+- Falk, Neele and Lapesa, Gabriella (2022): __Reports of personal experiences and stories in argumentation: datasets and analysis__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.acl-long.379/)
+
 ## 2022-08-19
 
 - Jagannatha, Abhyuday and Yu, Hong (2020): __Calibrating Structured Output Predictors for Natural Language Processing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2020.acl-main.188.pdf)
