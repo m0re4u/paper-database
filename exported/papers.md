@@ -1,4 +1,16 @@
 # Papers
+## 2022-09-26
+
+- van der Meer, Michiel and Reuver, Myrthe and Khurana, Urja and Krause, Lea and Santamar{\'\i}a, Selene B{\'a}ez (2022): __Will It Blend? Mixing Training Paradigms \& Prompting for Argument Quality Prediction__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2209.08966.pdf)
+
+## 2022-09-21
+
+- Concannon, S and Healey, PGT and Purver, M (2015): __Shifting Opinions: Experiments on Agreement and Disagreement in Dialogue__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/9041/CONCANNONShiftingopinions2015Published.pdf?sequence=2)
+
+## 2022-09-20
+
+- Zhang, Amy X and Culbertson, Bryan and Paritosh, Praveen (2017): __Characterizing online discussion using coarse discourse sequences__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/viewFile/15635/14825)
+
 ## 2022-09-19
 
 - Han, Tessa and Srinivas, Suraj and Lakkaraju, Himabindu (2022): __Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post hoc Explanations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2206.01254.pdf)
