@@ -1,4 +1,23 @@
 # Papers
+## 2022-10-12
+
+- Marchal, Marian  and
+Scholman, Merel  and
+Yung, Frances  and
+Demberg, Vera (2022): __Establishing Annotation Quality in Multi-label Annotations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.coling-1.322.pdf)
+
+- Lemmens, Jens  and
+Van Nooten, Jens  and
+Kreutz, Tim  and
+Daelemans, Walter (2022): __{C}o{NTACT}: A {D}utch {COVID}-19 Adapted {BERT} for Vaccine Hesitancy and Argumentation Detection__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.coling-1.595.pdf)
+
+- Gar{\'\i} Soler, Aina  and
+Labeau, Matthieu  and
+Clavel, Chlo{\'e} (2022): __One Word, Two Sides: Traces of Stance in Contextualized Word Representations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.coling-1.347)
+
+- Piedboeuf, Fr{\'e}d{\'e}ric  and
+Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classification Using One {VAE} per Class__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.coling-1.305.pdf)
+
 ## 2022-09-26
 
 - van der Meer, Michiel and Reuver, Myrthe and Khurana, Urja and Krause, Lea and Santamar{\'\i}a, Selene B{\'a}ez (2022): __Will It Blend? Mixing Training Paradigms \& Prompting for Argument Quality Prediction__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2209.08966.pdf)
