@@ -1,4 +1,14 @@
 # Papers
+## 2022-10-21
+
+- Trager, Jackson and Ziabari, Alireza S and Davani, Aida Mostafazadeh and Golazazian, Preni and Karimi-Malekabadi, Farzan and Omrani, Ali and Li, Zhihe and Kennedy, Brendan and Reimer, Nils Karl and Reyes, Melissa and others (2022): __The Moral Foundations Reddit Corpus__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2208.05545.pdf)
+
+## 2022-10-14
+
+- Niu, Jingcheng  and
+Lu, Wenjie  and
+Penn, Gerald (2022): __Does {BERT} Rediscover a Classical {NLP} Pipeline?__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.coling-1.278)
+
 ## 2022-10-12
 
 - Marchal, Marian  and
