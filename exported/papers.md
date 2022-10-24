@@ -1,4 +1,8 @@
 # Papers
+## 2022-10-24
+
+- Azer, Erfan Sadeqi and Khashabi, Daniel and Sabharwal, Ashish and Roth, Dan (2020): __Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2020.acl-main.506.pdf)
+
 ## 2022-10-21
 
 - Trager, Jackson and Ziabari, Alireza S and Davani, Aida Mostafazadeh and Golazazian, Preni and Karimi-Malekabadi, Farzan and Omrani, Ali and Li, Zhihe and Kennedy, Brendan and Reimer, Nils Karl and Reyes, Melissa and others (2022): __The Moral Foundations Reddit Corpus__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2208.05545.pdf)
