@@ -1,4 +1,8 @@
 # Papers
+## 2022-10-26
+
+- Silva, Amila and Lo, Pei-Chi and Lim, Ee-Peng (2021): __On Predicting Personal Values of Social Media Users using Community-Specific Language Features and Personal Value Correlation.__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/download/18094/17897/21589)
+
 ## 2022-10-24
 
 - Azer, Erfan Sadeqi and Khashabi, Daniel and Sabharwal, Ashish and Roth, Dan (2020): __Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2020.acl-main.506.pdf)
