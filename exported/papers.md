@@ -1,4 +1,8 @@
 # Papers
+## 2022-10-26
+
+- Hadfi, Rafik and Ito, Takayuki (2022): __Augmented Democratic Deliberation: Can Conversational Agents Boost Deliberation in Social Media?__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://ifaamas.org/Proceedings/aamas2022/pdfs/p1794.pdf)
+
 ## 2022-10-24
 
 - Azer, Erfan Sadeqi and Khashabi, Daniel and Sabharwal, Ashish and Roth, Dan (2020): __Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2020.acl-main.506.pdf)
