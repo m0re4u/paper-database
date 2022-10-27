@@ -1,4 +1,8 @@
 # Papers
+## 2022-10-27
+
+- Shortall, Ruth and Itten, Anatol and van der Meer, Michiel and Murukannaiah, Pradeep and Jonker, Catholijn (2022): __Reason against the machine? Future directions for mass online deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.frontiersin.org/articles/10.3389/fpos.2022.946589/full)
+
 ## 2022-10-26
 
 - Hadfi, Rafik and Ito, Takayuki (2022): __Augmented Democratic Deliberation: Can Conversational Agents Boost Deliberation in Social Media?__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://ifaamas.org/Proceedings/aamas2022/pdfs/p1794.pdf)
