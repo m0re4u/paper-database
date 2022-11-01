@@ -1,4 +1,10 @@
 # Papers
+## 2022-10-31
+
+- Ravichander, Abhilasha and Belinkov, Yonatan and Hovy, Eduard (2021): __Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.eacl-main.295/)
+
+- Elazar, Yanai and Ravfogel, Shauli and Jacovi, Alon and Goldberg, Yoav (2021): __Amnesic probing: Behavioral explanation with amnesic counterfactuals__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.tacl-1.10/)
+
 ## 2022-10-27
 
 - Shortall, Ruth and Itten, Anatol and van der Meer, Michiel and Murukannaiah, Pradeep and Jonker, Catholijn (2022): __Reason against the machine? Future directions for mass online deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.frontiersin.org/articles/10.3389/fpos.2022.946589/full)
