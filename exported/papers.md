@@ -1,4 +1,8 @@
 # Papers
+## 2022-11-11
+
+- Young, Meg and Katell, Michael and Krafft, PM (2022): __Confronting Power and Corporate Capture at the FAccT Conference__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/3531146.3533194)
+
 ## 2022-10-31
 
 - Ravichander, Abhilasha and Belinkov, Yonatan and Hovy, Eduard (2021): __Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.eacl-main.295/)
