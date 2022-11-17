@@ -1,4 +1,8 @@
 # Papers
+## 2022-11-17
+
+- Baan, Joris and Aziz, Wilker and Plank, Barbara and Fernandez, Raquel (2022): __Stop Measuring Calibration When Humans Disagree__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2210.16133.pdf)
+
 ## 2022-11-11
 
 - Young, Meg and Katell, Michael and Krafft, PM (2022): __Confronting Power and Corporate Capture at the FAccT Conference__ ![hi-badge](/images/hi-badge.png)Find at: [LINK](https://dl.acm.org/doi/pdf/10.1145/3531146.3533194)
