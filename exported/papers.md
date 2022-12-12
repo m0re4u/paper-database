@@ -1,4 +1,8 @@
 # Papers
+## 2022-12-12
+
+- Raman, Chirag and Prabhu, Navin Raj and Hung, Hayley (2022): __Perceived Conversation Quality in Spontaneous Interactions__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2207.05791.pdf)
+
 ## 2022-11-17
 
 - Baan, Joris and Aziz, Wilker and Plank, Barbara and Fernandez, Raquel (2022): __Stop Measuring Calibration When Humans Disagree__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2210.16133.pdf)
