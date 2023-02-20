@@ -1,4 +1,8 @@
 # Papers
+## 2023-02-20
+
+- Ethayarajh, Kawin and Choi, Yejin and Swayamdipta, Swabha (2022): __Understanding Dataset Difficulty with $\mathcal{V}$-Usable Information__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://proceedings.mlr.press/v162/ethayarajh22a.html)
+
 ## 2022-12-12
 
 - Raman, Chirag and Prabhu, Navin Raj and Hung, Hayley (2022): __Perceived Conversation Quality in Spontaneous Interactions__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://arxiv.org/pdf/2207.05791.pdf)
