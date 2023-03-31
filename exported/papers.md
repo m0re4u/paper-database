@@ -196,6 +196,10 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 
 - Niculae, Vlad and Danescu-Niculescu-Mizil, Cristian (2016): __Conversational Markers of Constructive Discussions__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/N16-1070.pdf)
 
+- Bakker, Michiel and Chadwick, Martin and Sheahan, Hannah and Tessler, Michael and Campbell-Gillingham, Lucy and Balaguer, Jan and McAleese, Nat and Glaese, Amelia and Aslanides, John and Botvinick, Matt and others (2022): __Fine-tuning language models to find agreement among humans with diverse preferences__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
+
+- Argyle, Lisa P and Busby, Ethan C and Fulda, Nancy and Gubler, Joshua and Rytting, Christopher and Wingate, David (2022): __Out of One, Many: Using Language Models to Simulate Human Samples__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://static1.squarespace.com/static/56bf7bbc5559867615ddc81a/t/632b2bc95ed0214daa0b405d/1663773644009/OutOfOneMany_ArxivVersion_2209.06899.pdf)
+
 ## 2022-03-29
 
 - Xu, Fangyuan and Li, Junyi Jessy and Choi, Eunsol (2022): __How Do We Answer Complex Questions: Discourse Structure of Long-form Answers__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2203.11048.pdf)
