@@ -1,4 +1,22 @@
 # Papers
+## 2023-04-05
+
+- Mitchell, Melanie and Krakauer, David C (2023): __The debate over understanding in AI’s large language models__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120)
+
+- Shiffrin, Richard and Mitchell, Melanie (2023): __Probing the psychology of AI models__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.pnas.org/doi/abs/10.1073/pnas.2300963120)
+
+- Jakesch, Maurice and Hancock, Jeffrey T and Naaman, Mor (2023): __Human heuristics for AI-generated language are flawed__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.pnas.org/doi/abs/10.1073/pnas.2208839120)
+
+## 2023-03-30
+
+- Bakker, Michiel and Chadwick, Martin and Sheahan, Hannah and Tessler, Michael and Campbell-Gillingham, Lucy and Balaguer, Jan and McAleese, Nat and Glaese, Amelia and Aslanides, John and Botvinick, Matt and others (2022): __Fine-tuning language models to find agreement among humans with diverse preferences__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
+
+- Argyle, Lisa P and Busby, Ethan C and Fulda, Nancy and Gubler, Joshua and Rytting, Christopher and Wingate, David (2022): __Out of One, Many: Using Language Models to Simulate Human Samples__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://static1.squarespace.com/static/56bf7bbc5559867615ddc81a/t/632b2bc95ed0214daa0b405d/1663773644009/OutOfOneMany_ArxivVersion_2209.06899.pdf)
+
+## 2023-02-27
+
+- Benavoli, Alessio and Corani, Giorgio and Dem{\v{s}}ar, Janez and Zaffalon, Marco (2017): __Time for a change: a tutorial for comparing multiple classifiers through Bayesian analysis__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://jmlr.org/papers/volume18/16-305/16-305.pdf)
+
 ## 2023-02-20
 
 - Ethayarajh, Kawin and Choi, Yejin and Swayamdipta, Swabha (2022): __Understanding Dataset Difficulty with $\mathcal{V}$-Usable Information__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://proceedings.mlr.press/v162/ethayarajh22a.html)
@@ -196,10 +214,6 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 
 - Niculae, Vlad and Danescu-Niculescu-Mizil, Cristian (2016): __Conversational Markers of Constructive Discussions__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/N16-1070.pdf)
 
-- Bakker, Michiel and Chadwick, Martin and Sheahan, Hannah and Tessler, Michael and Campbell-Gillingham, Lucy and Balaguer, Jan and McAleese, Nat and Glaese, Amelia and Aslanides, John and Botvinick, Matt and others (2022): __Fine-tuning language models to find agreement among humans with diverse preferences__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
-
-- Argyle, Lisa P and Busby, Ethan C and Fulda, Nancy and Gubler, Joshua and Rytting, Christopher and Wingate, David (2022): __Out of One, Many: Using Language Models to Simulate Human Samples__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://static1.squarespace.com/static/56bf7bbc5559867615ddc81a/t/632b2bc95ed0214daa0b405d/1663773644009/OutOfOneMany_ArxivVersion_2209.06899.pdf)
-
 ## 2022-03-29
 
 - Xu, Fangyuan and Li, Junyi Jessy and Choi, Eunsol (2022): __How Do We Answer Complex Questions: Discourse Structure of Long-form Answers__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2203.11048.pdf)
@@ -231,10 +245,6 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 - Zuo, Xinyu and Cao, Pengfei and Chen, Yubo and Liu, Kang and Zhao, Jun and Peng, Weihua and Chen, Yuguang (2021): __Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2021.findings-acl.190.pdf)
 
 - Gao, Lei and Choubey, Prafulla Kumar and Huang, Ruihong (2019): __Modeling document-level causal structures for event causal relation identification__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/N19-1179.pdf)
-
-## 2022-02-27
-
-- Benavoli, Alessio and Corani, Giorgio and Dem{\v{s}}ar, Janez and Zaffalon, Marco (2017): __Time for a change: a tutorial for comparing multiple classifiers through Bayesian analysis__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://jmlr.org/papers/volume18/16-305/16-305.pdf)
 
 ## 2022-02-21
 
