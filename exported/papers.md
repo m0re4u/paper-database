@@ -1,4 +1,8 @@
 # Papers
+## 2023-05-02
+
+- Falk, Neele and Lapesa, Gabriella (2023): __Bridging Argument Quality and Deliberative Quality Annotations with Adapters__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2023.findings-eacl.187.pdf)
+
 ## 2023-04-05
 
 - Mitchell, Melanie and Krakauer, David C (2023): __The debate over understanding in AI’s large language models__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.pnas.org/doi/abs/10.1073/pnas.2215907120)
