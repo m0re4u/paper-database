@@ -1,4 +1,8 @@
 # Papers
+## 2023-06-07
+
+- Efstratiou, Alexandros and Blackburn, Jeremy and Caulfield, Tristan and Stringhini, Gianluca and Zannettou, Savvas and De Cristofaro, Emiliano (2022): __Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/view/22138/21917)
+
 ## 2023-05-02
 
 - Falk, Neele and Lapesa, Gabriella (2023): __Bridging Argument Quality and Deliberative Quality Annotations with Adapters__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2023.findings-eacl.187.pdf)
