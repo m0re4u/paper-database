@@ -1,4 +1,14 @@
 # Papers
+## 2023-06-08
+
+- Lauscher, Anne and Ng, Lily and Napoles, Courtney and Nadejde, Maria and Tetreault, Joel and Zheng, Junchao and Napoles, Courtney and Tetreault, Joel and Napoles, Courtney and Callison-Burch, Chris and others (2018): __Rhetoric, Logic, and Dialectic: Advancing Theory-based Argument Quality Assessment in Natural Language Processing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2006.00843)
+
+- Wachsmuth, Henning and Naderi, Nona and Hou, Yufang and Bilu, Yonatan and Prabhakaran, Vinodkumar and Thijm, Tim Alberdingk and Hirst, Graeme and Stein, Benno (2017): __Computational argumentation quality assessment in natural language__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/E17-1017.pdf)
+
+- Ng, Lily and Lauscher, Anne and Tetreault, Joel and Napoles, Courtney (2020): __Creating a Domain-diverse Corpus for Theory-based Argument Quality Assessment__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2020.argmining-1.13.pdf)
+
+- Falk, Neele and Lapesa, Gabriella (2022): __Scaling up Discourse Quality Annotation for Political Science__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.lrec-1.353.pdf)
+
 ## 2023-06-07
 
 - Efstratiou, Alexandros and Blackburn, Jeremy and Caulfield, Tristan and Stringhini, Gianluca and Zannettou, Savvas and De Cristofaro, Emiliano (2022): __Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/view/22138/21917)
