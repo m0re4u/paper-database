@@ -9,6 +9,8 @@
 
 - Falk, Neele and Lapesa, Gabriella (2022): __Scaling up Discourse Quality Annotation for Political Science__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.lrec-1.353.pdf)
 
+- Himanshu Gupta and Saurabh Arjun Sawant and Swaroop Mishra and Mutsumi Nakamura and Arindam Mitra and Santosh Mashetty and Chitta Baral (2023): __Instruction Tuned Models are Quick Learners__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2306.05539.pdf)
+
 ## 2023-06-07
 
 - Efstratiou, Alexandros and Blackburn, Jeremy and Caulfield, Tristan and Stringhini, Gianluca and Zannettou, Savvas and De Cristofaro, Emiliano (2022): __Non-Polar Opposites: Analyzing the Relationship Between Echo Chambers and Hostile Intergroup Interactions on Reddit__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/ICWSM/article/view/22138/21917)
