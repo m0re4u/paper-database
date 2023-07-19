@@ -1,4 +1,8 @@
 # Papers
+## 2023-07-19
+
+- Dryzek, John S and B{\"a}chtiger, Andr{\'e} and Chambers, Simone and Cohen, Joshua and Druckman, James N and Felicetti, Andrea and Fishkin, James S and Farrell, David M and Fung, Archon and Gutmann, Amy and others (2019): __The crisis of democracy and the science of deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.science.org/doi/10.1126/science.aaw2694)
+
 ## 2023-06-08
 
 - Lauscher, Anne and Ng, Lily and Napoles, Courtney and Nadejde, Maria and Tetreault, Joel and Zheng, Junchao and Napoles, Courtney and Tetreault, Joel and Napoles, Courtney and Callison-Burch, Chris and others (2018): __Rhetoric, Logic, and Dialectic: Advancing Theory-based Argument Quality Assessment in Natural Language Processing__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2006.00843)
