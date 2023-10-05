@@ -1,4 +1,12 @@
 # Papers
+## 2023-10-04
+
+- Hu, Edward J and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu and others (2021): __LoRA: Low-Rank Adaptation of Large Language Models__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2106.09685.pdf%C2%A0)
+
+- Lisa P. Argyle  and Christopher A. Bail  and Ethan C. Busby  and Joshua R. Gubler  and Thomas Howe  and Christopher Rytting  and Taylor Sorensen  and David Wingate  (2023): __Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale__ ![nlp-badge](/images/nlp-badge.png)![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.pnas.org/doi/abs/10.1073/pnas.2311627120)
+
+- Li, Chunyuan and Farkhoor, Heerad and Liu, Rosanne and Yosinski, Jason (2018): __Measuring the Intrinsic Dimension of Objective Landscapes__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/1804.08838.pdf)
+
 ## 2023-07-19
 
 - Dryzek, John S and B{\"a}chtiger, Andr{\'e} and Chambers, Simone and Cohen, Joshua and Druckman, James N and Felicetti, Andrea and Fishkin, James S and Farrell, David M and Fung, Archon and Gutmann, Amy and others (2019): __The crisis of democracy and the science of deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.science.org/doi/10.1126/science.aaw2694)
