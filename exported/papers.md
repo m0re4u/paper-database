@@ -61,7 +61,7 @@
 
 - Baan, Joris and Aziz, Wilker and Plank, Barbara and Fernandez, Raquel (2022): __Stop Measuring Calibration When Humans Disagree__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2210.16133.pdf)
 
-- Romberg, Julia (2022): __Is Your Perspective Also My Perspective? Enriching Prediction with Subjectivity__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.argmining-1.11.pdf)
+- Romberg, Julia (2022): __Is Your Perspective Also My Perspective? {E}nriching Prediction with Subjectivity__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.argmining-1.11.pdf)
 
 ## 2022-11-11
 
@@ -75,7 +75,7 @@
 
 ## 2022-10-27
 
-- Shortall, Ruth and Itten, Anatol and van der Meer, Michiel and Murukannaiah, Pradeep and Jonker, Catholijn (2022): __Reason against the machine? Future directions for mass online deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.frontiersin.org/articles/10.3389/fpos.2022.946589/full)
+- Shortall, Ruth and Itten, Anatol and van der Meer, Michiel and Murukannaiah, Pradeep and Jonker, Catholijn (2022): __Reason against the machine? {F}uture directions for mass online deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://www.frontiersin.org/articles/10.3389/fpos.2022.946589/full)
 
 ## 2022-10-26
 
@@ -116,7 +116,11 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 
 ## 2022-09-26
 
-- van der Meer, Michiel and Reuver, Myrthe and Khurana, Urja and Krause, Lea and Santamar{\'\i}a, Selene B{\'a}ez (2022): __Will It Blend? Mixing Training Paradigms \& Prompting for Argument Quality Prediction__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2209.08966.pdf)
+- van der Meer, Michiel  and
+Reuver, Myrthe  and
+Khurana, Urja  and
+Krause, Lea  and
+Baez Santamaria, Selene (2022): __Will It Blend? {M}ixing Training Paradigms {\&} Prompting for Argument Quality Prediction__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2022.argmining-1.8)
 
 ## 2022-09-21
 
@@ -128,7 +132,7 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 
 ## 2022-09-19
 
-- Han, Tessa and Srinivas, Suraj and Lakkaraju, Himabindu (2022): __Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post hoc Explanations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2206.01254.pdf)
+- Han, Tessa and Srinivas, Suraj and Lakkaraju, Himabindu (2022): __Which Explanation Should I Choose? {A} Function Approximation Perspective to Characterizing Post hoc Explanations__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2206.01254.pdf)
 
 ## 2022-09-02
 
@@ -222,7 +226,7 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 
 - van der Meer, Michiel and Liscio, Enrico and Jonker, Catholijn M. and Plaat, Aske and Vossen, Piek and Murukannaiah, Pradeep K. (2022): __{HyEnA: A Hybrid Method for Extracting Arguments from Opinions}__ ![hi-badge](/images/hi-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://liacs.leidenuniv.nl/~meermtvander/publications/hyena/)
 
-- Enrico Liscio and Michiel van der Meer and Luciano C. Siebert and Catholijn M. Jonker and Pradeep K. Murukannaiah (2022): __What Values should an Agent Align with? An Empirical Comparison of General and Context-Specific Values__ ![hi-badge](/images/hi-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://link.springer.com/article/10.1007/s10458-022-09550-0)
+- Enrico Liscio and Michiel van der Meer and Luciano C. Siebert and Catholijn M. Jonker and Pradeep K. Murukannaiah (2022): __What Values should an Agent Align with? {A}n Empirical Comparison of General and Context-Specific Values__ ![hi-badge](/images/hi-badge.png)![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://link.springer.com/article/10.1007/s10458-022-09550-0)
 
 ## 2022-04-25
 
@@ -270,7 +274,7 @@ Langlais, Philippe (2022): __Effective Data Augmentation for Sentence Classifica
 
 ## 2022-03-15
 
-- Muradova, Lala (2021): __Seeing the other side? Perspective-taking and reflective political judgements in interpersonal deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0032321720916605)
+- Muradova, Lala (2021): __Seeing the other side? {P}erspective-taking and reflective political judgements in interpersonal deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://journals.sagepub.com/doi/pdf/10.1177/0032321720916605)
 
 ## 2022-03-14
 
@@ -512,7 +516,7 @@ Jason Weston (2017): __Learning through Dialogue Interactions by Asking Question
 
 - Mercier, Hugo and Landemore, H{\'e}l{\`e}ne (2012): __Reasoning is for arguing: Understanding the successes and failures of deliberation__ ![deliberation-badge](/images/deliberation-badge.png)Find at: [LINK](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9221.2012.00873.x)
 
-- Zafrilla, Pedro Jes{\'u}s P{\'e}rez (2016): __Is Deliberative Democracy an adaptive political theory? A critical analysis of Hugo Mercier's Argumentative Theory of Reasoning__ Find at: [LINK](https://www.jstor.org/stable/pdf/44071941.pdf?casa_token=_eqULzXo7kMAAAAA:qda_nBjdQrFoUTlXtiZOIpYlh9xgTUvbZXFNT0iDC2xbAfogN4rSu_xYVJpJ9aJDsvlCY8eTubGCR6K3BVeF9aHkvxERvFbIyyX7zo2OeqX6d8KNemQH)
+- Zafrilla, Pedro Jes{\'u}s P{\'e}rez (2016): __Is Deliberative Democracy an adaptive political theory? {A} critical analysis of Hugo Mercier's Argumentative Theory of Reasoning__ Find at: [LINK](https://www.jstor.org/stable/pdf/44071941.pdf?casa_token=_eqULzXo7kMAAAAA:qda_nBjdQrFoUTlXtiZOIpYlh9xgTUvbZXFNT0iDC2xbAfogN4rSu_xYVJpJ9aJDsvlCY8eTubGCR6K3BVeF9aHkvxERvFbIyyX7zo2OeqX6d8KNemQH)
 
 ## 2021-09-20
 
@@ -614,7 +618,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ !
 
 ## 2021-04-26
 
-- Sommerauer, Pia and Fokkens, Antske and Vossen, Piek (2020): __Would you describe a leopard as yellow? Evaluating crowd-annotations with justified and informative disagreement__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.422.pdf)
+- Sommerauer, Pia and Fokkens, Antske and Vossen, Piek (2020): __Would you describe a leopard as yellow? {E}valuating crowd-annotations with justified and informative disagreement__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aclweb.org/anthology/2020.coling-main.422.pdf)
 
 ## 2021-04-22
 
@@ -726,7 +730,7 @@ Potthast, Martin (2020): __Efficient Pairwise Annotation of Argument Quality__ !
 
 - Rach, Niklas and Matsuda, Yuki and Daxenberger, Johannes and Ultes, Stefan and Yasumoto, Keiichi and Minker, Wolfgang (2020): __Evaluation of Argument Search Approaches in the Context of Argumentative Dialogue Systems__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aclweb.org/anthology/2020.lrec-1.65.pdf)
 
-- Daxenberger, Johannes and Eger, Steffen and Habernal, Ivan and Stab, Christian and Gurevych, Iryna (2017): __What is the Essence of a Claim? Cross-Domain Claim Identification__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aclweb.org/anthology/D17-1218.pdf)
+- Daxenberger, Johannes and Eger, Steffen and Habernal, Ivan and Stab, Christian and Gurevych, Iryna (2017): __What is the Essence of a Claim? {C}ross-Domain Claim Identification__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.aclweb.org/anthology/D17-1218.pdf)
 
 - Mensonides, Jean-Christophe and Harispe, S{\'e}bastien and Montmain, Jacky and Thireau, V{\'e}ronique (2019): __Automatic Detection and Classification of Argument Components using Multi-task Deep Neural Network__ Find at: [LINK](https://hal.archives-ouvertes.fr/hal-02292945/file/2019_ICNLSP.pdf)
 
