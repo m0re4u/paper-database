@@ -1,4 +1,10 @@
 # Papers
+## 2023-10-23
+
+- Aroyo, Lora and Welty, Chris (2015): __Truth is a lie: Crowd truth and the seven myths of human annotation__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/aimagazine/article/view/2564/2468)
+
+- Rafailov, Rafael and Sharma, Archit and Mitchell, Eric and Ermon, Stefano and Manning, Christopher D and Finn, Chelsea (2023): __Direct preference optimization: Your language model is secretly a reward model__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2305.18290.pdf)
+
 ## 2023-10-04
 
 - Hu, Edward J and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu and others (2021): __LoRA: Low-Rank Adaptation of Large Language Models__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://arxiv.org/pdf/2106.09685.pdf%C2%A0)
