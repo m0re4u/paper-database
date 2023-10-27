@@ -1,4 +1,8 @@
 # Papers
+## 2023-10-27
+
+- Baumler, Connor and Sotnikova, Anna and Daum{\'e} III, Hal (2023): __Which examples should be multiply annotated? active learning when annotators may disagree__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2023.findings-acl.658.pdf)
+
 ## 2023-10-23
 
 - Aroyo, Lora and Welty, Chris (2015): __Truth is a lie: Crowd truth and the seven myths of human annotation__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://ojs.aaai.org/index.php/aimagazine/article/view/2564/2468)
