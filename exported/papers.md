@@ -1,4 +1,8 @@
 # Papers
+## 2023-10-31
+
+- Uma, Alexandra N and Fornaciari, Tommaso and Hovy, Dirk and Paun, Silviu and Plank, Barbara and Poesio, Massimo (2021): __Learning from disagreement: A survey__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://www.jair.org/index.php/jair/article/view/12752/26751)
+
 ## 2023-10-27
 
 - Baumler, Connor and Sotnikova, Anna and Daum{\'e} III, Hal (2023): __Which examples should be multiply annotated? active learning when annotators may disagree__ ![nlp-badge](/images/nlp-badge.png)Find at: [LINK](https://aclanthology.org/2023.findings-acl.658.pdf)
